@@ -1,0 +1,202 @@
+{
+  "AchAllArcana": {
+    "earned": true,
+    "earned_time": 1767946303
+  },
+  "AchAllArcanaMax": {
+    "earned": true,
+    "earned_time": 1768454470
+  },
+  "AchAllAspects": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "AchAllFamiliars": {
+    "earned": true,
+    "earned_time": 1768002646
+  },
+  "AchAllFamiliarsMax": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "AchAllKeepsakes": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "AchAllOtherAch": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "AchAllRandomStreak": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "AchAllRandomUnderworld": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "AchAllWeapons": {
+    "earned": true,
+    "earned_time": 1767943295
+  },
+  "AchBathHouse": {
+    "earned": true,
+    "earned_time": 1767691087
+  },
+  "AchBeatChronosWithArcana": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "AchBeatHecateNoArcana": {
+    "earned": true,
+    "earned_time": 1767723589
+  },
+  "AchBeatRivalsVow1": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "AchBeatTyphonWithWeapons": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "AchBounties1": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "AchCatchFish": {
+    "earned": true,
+    "earned_time": 1768428228
+  },
+  "AchCauldronSpells1": {
+    "earned": true,
+    "earned_time": 1767936193
+  },
+  "AchClearChaosQuest": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "AchClearEphyra": {
+    "earned": true,
+    "earned_time": 1767819590
+  },
+  "AchClearErebus": {
+    "earned": true,
+    "earned_time": 1767691085
+  },
+  "AchClearFields": {
+    "earned": true,
+    "earned_time": 1767691086
+  },
+  "AchClearOceanus": {
+    "earned": true,
+    "earned_time": 1767691086
+  },
+  "AchClearOlympus": {
+    "earned": true,
+    "earned_time": 1767945560
+  },
+  "AchClearSummit": {
+    "earned": true,
+    "earned_time": 1768101435
+  },
+  "AchClearTartarus": {
+    "earned": true,
+    "earned_time": 1767920664
+  },
+  "AchClearThessaly": {
+    "earned": true,
+    "earned_time": 1767826618
+  },
+  "AchClearWithAllAspects": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "AchConfideFrinos": {
+    "earned": true,
+    "earned_time": 1767691087
+  },
+  "AchEarnPrestige1": {
+    "earned": true,
+    "earned_time": 1768291608
+  },
+  "AchEarnStatue1": {
+    "earned": true,
+    "earned_time": 1768520912
+  },
+  "AchEarnStatue2": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "AchEpilogue": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "AchFamiliarCostumes": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "AchFishingPier": {
+    "earned": true,
+    "earned_time": 1767914092
+  },
+  "AchForgeBonds": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "AchHelpArachne": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "AchHelpDora": {
+    "earned": true,
+    "earned_time": 1768422724
+  },
+  "AchHelpHypnos": {
+    "earned": true,
+    "earned_time": 1768537426
+  },
+  "AchHelpNarcissusAndEcho": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "AchHelpOdysseus": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "AchKillWitchAsSheep": {
+    "earned": true,
+    "earned_time": 1767739613
+  },
+  "AchMaxMem": {
+    "earned": true,
+    "earned_time": 1767935293
+  },
+  "AchNemesisCombat": {
+    "earned": true,
+    "earned_time": 1768445091
+  },
+  "AchProphecies1": {
+    "earned": true,
+    "earned_time": 1768537646
+  },
+  "AchSummonSiren": {
+    "earned": true,
+    "earned_time": 1767691182
+  },
+  "AchTartarusInDress": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "AchTaverna": {
+    "earned": true,
+    "earned_time": 1767893011
+  },
+  "AchTrueEnding": {
+    "earned": true,
+    "earned_time": 1768507213
+  },
+  "AchWinSecretContest": {
+    "earned": false,
+    "earned_time": 0
+  }
+}
