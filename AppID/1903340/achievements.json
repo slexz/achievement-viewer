@@ -1,0 +1,222 @@
+{
+  "ALL_CHARACTERS": {
+    "earned": true,
+    "earned_time": 1748423493
+  },
+  "ALL_MONOCO_SKILLS": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ALL_SONGS": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ANCIENT_SANCTUARY": {
+    "earned": true,
+    "earned_time": 1748312196
+  },
+  "BACK_TO_LUMIERE": {
+    "earned": true,
+    "earned_time": 1748845547
+  },
+  "BREAK": {
+    "earned": true,
+    "earned_time": 1748245094
+  },
+  "CLEA": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ENDLESS_TOWER": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ESQUIES_NEST": {
+    "earned": true,
+    "earned_time": 1748324953
+  },
+  "ESQUIE_RELATIONSHIP": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ESQUIE_UNLOCK": {
+    "earned": true,
+    "earned_time": 1748324953
+  },
+  "ESQUIE_UPGRADES": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "FIRST_AXON": {
+    "earned": true,
+    "earned_time": 1748580488
+  },
+  "FIRST_LUMINA_POINT": {
+    "earned": true,
+    "earned_time": 1748297508
+  },
+  "FLYING_WATERS": {
+    "earned": true,
+    "earned_time": 1748297163
+  },
+  "FORGOTTEN_BATTLEFIELD": {
+    "earned": true,
+    "earned_time": 1748420409
+  },
+  "GESTRAL_BEACH": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "GESTRAL_VILLAGE": {
+    "earned": true,
+    "earned_time": 1748321860
+  },
+  "GRANDIS_STATION": {
+    "earned": true,
+    "earned_time": 1748423796
+  },
+  "GUSTAVE_OVERCHARGE": {
+    "earned": true,
+    "earned_time": 1748255594
+  },
+  "JOURNALS": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "LEVEL_33": {
+    "earned": true,
+    "earned_time": 1748492535
+  },
+  "LEVEL_66": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "LEVEL_99": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "LOST_GESTRALS": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "LUMIERE": {
+    "earned": true,
+    "earned_time": 1748247005
+  },
+  "LUMIERE_MIME": {
+    "earned": true,
+    "earned_time": 1748245114
+  },
+  "LUNE_RELATIONSHIP": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "LUNE_STAINS": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "LVL3_GRADIENT_ATTACK": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "MAELLE_RELATIONSHIP": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "MAELLE_STANCES": {
+    "earned": true,
+    "earned_time": 1748675022
+  },
+  "MONOCO_RELATIONSHIP": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "MONOCO_WHEEL": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "MONOLITH": {
+    "earned": true,
+    "earned_time": 1748592001
+  },
+  "NEVRON_QUESTS": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "NO_DAMAGE_BOSS": {
+    "earned": true,
+    "earned_time": 1748378567
+  },
+  "OLD_LUMIERE": {
+    "earned": true,
+    "earned_time": 1748485990
+  },
+  "OPTIONAL_CAMP": {
+    "earned": true,
+    "earned_time": 1748297675
+  },
+  "PAINTING_WORKSHOP": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "PAINTRESS": {
+    "earned": true,
+    "earned_time": 1748843580
+  },
+  "PAINT_CAGE": {
+    "earned": true,
+    "earned_time": 1748285558
+  },
+  "PETANK_ALPHA": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "SCIEL_FORETELL": {
+    "earned": true,
+    "earned_time": 1748334132
+  },
+  "SCIEL_RELATIONSHIP": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "SECOND_AXON": {
+    "earned": true,
+    "earned_time": 1748590065
+  },
+  "SERPENPHARE": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "SIMON": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "SPRING_MEADOWS": {
+    "earned": true,
+    "earned_time": 1748255888
+  },
+  "SPRONG": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "STONE_WAVE_CLIFFS": {
+    "earned": true,
+    "earned_time": 1748337105
+  },
+  "THE_END": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "VERSO_PERFECTION": {
+    "earned": true,
+    "earned_time": 1748381974
+  },
+  "WEAPON_FIRST_UPGRADE": {
+    "earned": true,
+    "earned_time": 1748297414
+  },
+  "WEAPON_FULL_UPGRADE": {
+    "earned": false,
+    "earned_time": 0
+  }
+}
