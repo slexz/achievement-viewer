@@ -1,545 +1,7 @@
 {
-  "last_updated": 1769078088,
-  "total_games": 4,
+  "last_updated": 1769078527,
+  "total_games": 3,
   "games": [
-    {
-      "appid": "1423049311",
-      "info": {
-        "appid": "1423049311",
-        "name": "Game 1423049311",
-        "icon": "",
-        "achievements": {}
-      },
-      "achievements": {
-        "name": "Cyberpunk 2077",
-        "appid": "1423049311",
-        "binary": null,
-        "img": {
-          "header": "https://images.gog-statics.com/5a51d9484a3985b1f6e37eddc1853cb6d84bece22e2a5d80dfdbf30d3b0e8444.jpg",
-          "background": "https://images.gog-statics.com/0b2cff9f26a505b097946add8a557b7c8be1d967cd3048d5af70b585071cd495.jpg",
-          "portrait": "https://images.gog-statics.com/ec255c6db963e8a442f30eb92c04e4c384dc625e68af383c2b98aa1f4f471fc4.jpg",
-          "icon": "https://images.gog-statics.com/d6d8afe450baebf7fd47724c5cb7de74073e747bb217f8cd0f8cf0e81351e675.jpg"
-        },
-        "achievement": {
-          "total": 57,
-          "list": [
-            {
-              "name": "AllThePresidentsMen",
-              "displayName": "All the President's Men",
-              "description": "Save President Myers.",
-              "hidden": "0",
-              "default_value": "0",
-              "icongray": "https://images.gog.com/1ebba8ab661d3fbf6d4338998fc4130f59ed5d84b3940fb80e2087436fc0b7b9_gac_60.jpg",
-              "icon": "https://images.gog.com/89fd88b59687c4bacfa041ce0368e9fc101ca2584aa8f53a405bf3114262cbb1_gac_60.jpg"
-            },
-            {
-              "name": "Bladerunner",
-              "displayName": "City Lights",
-              "description": "Complete all gigs and NCPD Scanner Hustles in City Center.",
-              "hidden": "0",
-              "default_value": "0",
-              "icongray": "https://images.gog.com/c2debe648655cfce4f6638c9480c36d40f490782b3480d45a5020de54af3c3f8_gac_60.png",
-              "icon": "https://images.gog.com/ec6b384c53e7ed65d95cffefc51311b3cba4af25a49c2fe89f002f024a021e90_gac_60.jpg"
-            },
-            {
-              "name": "BornToBeWild",
-              "displayName": "To Bad Decisions!",
-              "description": "Complete Kerry Eurodyne's storyline.",
-              "hidden": "1",
-              "default_value": "0",
-              "icongray": "https://images.gog.com/6599cc78bffad564979ae4802b7f95e440313899375e71fd464f98f62c0624c7_gac_60.png",
-              "icon": "https://images.gog.com/d4cc547e423e71a14839cf78766454a7081ffdf0f2d0a119d55a69c681344716_gac_60.jpg"
-            },
-            {
-              "name": "BushidoAndChill",
-              "displayName": "Bushido and Chill",
-              "description": "Watch Bushido X with Rogue.",
-              "hidden": "1",
-              "default_value": "0",
-              "icongray": "https://images.gog.com/5f3bfd6b4ed3c576809bce5781b73055f07f29022d6fed9091cd5ef74bc878d8_gac_60.png",
-              "icon": "https://images.gog.com/0dde2090dcde2839e97cca2cbd9042c2f99210d7ceddf34ebf9bb8dc79872d7a_gac_60.jpg"
-            },
-            {
-              "name": "Cyberjunkie",
-              "displayName": "Full Body Conversion",
-              "description": "Install at least one implant in each system and body part.",
-              "hidden": "0",
-              "default_value": "0",
-              "icongray": "https://images.gog.com/be9b3eb4fdd39b7337423d6c18be015981375dcee881e27ded9524bacb564f01_gac_60.png",
-              "icon": "https://images.gog.com/f436a3c5d68ab2f5c16cef2b44ddf5179197b50e03a7339d861a95ae95588482_gac_60.jpg"
-            },
-            {
-              "name": "Denied",
-              "displayName": "Right Back At Ya",
-              "description": "Kill or incapacitate an enemy who threw a grenade at you.",
-              "hidden": "0",
-              "default_value": "0",
-              "icongray": "https://images.gog.com/7d20fc42280abdd41973f406749584392dc4d1149f9e0b42023b1bf85acf0657_gac_60.png",
-              "icon": "https://images.gog.com/0a7ac25fe13db80f423def91056c3e20e8918fcc9e926013c6cdec361ef82bef_gac_60.jpg"
-            },
-            {
-              "name": "DirtyWork",
-              "displayName": "Dirty Deeds",
-              "description": "Complete every Gig in Dogtown.",
-              "hidden": "0",
-              "default_value": "0",
-              "icongray": "https://images.gog.com/06038068213403d3955e5c7f7c03db41a715165fdef36a0d42b3a94a14d7905b_gac_60.jpg",
-              "icon": "https://images.gog.com/218a92ca5bd5c793905afd01bf8eb98ee4a6f47446bed0bd1e4febb64681f00c_gac_60.jpg"
-            },
-            {
-              "name": "DogtownLaw",
-              "displayName": "The APB is Not Enough",
-              "description": "Become Dogtown's most wanted criminal.",
-              "hidden": "0",
-              "default_value": "0",
-              "icongray": "https://images.gog.com/6d40b4f10e2d8ab4110492e408d5cd9f1699e7f1ac97b08415fc220fa6adede7_gac_60.jpg",
-              "icon": "https://images.gog.com/d3e8fc2b5b9922e32cdae2c71f172bbf4aeada99732baf583ee42a161cba0475_gac_60.jpg"
-            },
-            {
-              "name": "EasyComeEasyGo",
-              "displayName": "Easy Come, Easy Go",
-              "description": "Steal the Arasaka medical truck or deliver 10 vehicles to El Capitan.",
-              "hidden": "0",
-              "default_value": "0",
-              "icongray": "https://images.gog.com/90d921b1095f6e84f7e4f3dc9bb464a866b63844287db3d6381953a1d9a471d7_gac_60.jpg",
-              "icon": "https://images.gog.com/6e25cbe3879dc12acd1e164c294ed8c415eb75558856db37ed1f97fe067edbc7_gac_60.jpg"
-            },
-            {
-              "name": "FollowingTheRiver",
-              "displayName": "To Protect and Serve",
-              "description": "Complete River Ward's storyline.",
-              "hidden": "1",
-              "default_value": "0",
-              "icongray": "https://images.gog.com/2911c5eaf21283c96644810508e1e0561f4d2ca3dcc2f568c96092f71dc8a2c0_gac_60.png",
-              "icon": "https://images.gog.com/a6663ba52af3d584cca916e741f82d690b1300f21659241651293acd89fafbeb_gac_60.jpg"
-            },
-            {
-              "name": "Fortuneteller",
-              "displayName": "The Wandering Fool",
-              "description": "Find all the tarot graffiti for the job Fool on the Hill.",
-              "hidden": "0",
-              "default_value": "0",
-              "icongray": "https://images.gog.com/bead6fc9749c31ab4e2dc4e1e076cdb405a39068a09416f172f392d318b3bc93_gac_60.png",
-              "icon": "https://images.gog.com/0bd38752411ff0ed5abd874e2d520e76a4345146b1e3417288a5f8e6e17a0238_gac_60.jpg"
-            },
-            {
-              "name": "Gearhead",
-              "displayName": "Autojock",
-              "description": "Buy all vehicles available for purchase.",
-              "hidden": "0",
-              "default_value": "0",
-              "icongray": "https://images.gog.com/247ac7a3e812024f8e2580821b367762189b9e58bc5ba1e33aa29c3caf6ee417_gac_60.png",
-              "icon": "https://images.gog.com/76c10359036591a80417d9fff343de230e05836d7eb31af3d0fb6313067b2c1e_gac_60.jpg"
-            },
-            {
-              "name": "GetMeThereScottie",
-              "displayName": "Frequent Flyer",
-              "description": "Find all fast travel dataterms.",
-              "hidden": "0",
-              "default_value": "0",
-              "icongray": "https://images.gog.com/b17c182fa360bb4453157a297a2f0f8737b39412946ff4f781534c168b1ff5cc_gac_60.png",
-              "icon": "https://images.gog.com/9a8fe6b36fb5967d30742412598d15674b6d49d53f5371c6d0de490bcfd77b40_gac_60.jpg"
-            },
-            {
-              "name": "GunKata",
-              "displayName": "Gun Fu",
-              "description": "Kill or incapacitate 3 enemies in quick succession with a revolver or pistol in close combat.",
-              "hidden": "0",
-              "default_value": "0",
-              "icongray": "https://images.gog.com/d2953d233d8b73876a81d1153b65930ad7f815a6cd0a732ba9a32d53a3c5b84b_gac_60.png",
-              "icon": "https://images.gog.com/a0f5c51f62f1d5f45384593c20145e1643f4143b3906784467aa76442e4839bb_gac_60.jpg"
-            },
-            {
-              "name": "Gunslinger",
-              "displayName": "Gunslinger",
-              "description": "Shoot an enemy grenade in midair with a revolver.",
-              "hidden": "0",
-              "default_value": "0",
-              "icongray": "https://images.gog.com/b98b67a1b49dc820ad61ee18ee36eb11a161d2f86fced5e6fe2c925b764e6750_gac_60.png",
-              "icon": "https://images.gog.com/48963fe6b9c37cb60a50967d9d8d62f879c62f4402b27b62bc72ce6c592d662d_gac_60.jpg"
-            },
-            {
-              "name": "HandyMan",
-              "displayName": "Master Crafter",
-              "description": "Craft 3 Legendary items.",
-              "hidden": "0",
-              "default_value": "0",
-              "icongray": "https://images.gog.com/69270d9e70ef241e8727d28a002d6b13f580d543561c8a50b288a7dd032371a3_gac_60.png",
-              "icon": "https://images.gog.com/91712141145ae4555284691f677fdb5e15aeb37ff8042cb4f4e5f950955ff1a1_gac_60.jpg"
-            },
-            {
-              "name": "HydraIsDead",
-              "displayName": "Judgement Day",
-              "description": "Eliminate three bosses from the \"Increased criminal activity\" category.",
-              "hidden": "0",
-              "default_value": "0",
-              "icongray": "https://images.gog.com/a7540717c5eb1f51a94c9507a35d0cf452972b881bc65239231168d2bd362754_gac_60.jpg",
-              "icon": "https://images.gog.com/73a8633623135bc0774c58d0145e518876f47e87181a3127fb428624fd1758e0_gac_60.jpg"
-            },
-            {
-              "name": "IAmMaxTac",
-              "displayName": "I Am The Law",
-              "description": "Complete all Cyberpsycho Sightings.",
-              "hidden": "0",
-              "default_value": "0",
-              "icongray": "https://images.gog.com/05fcd449e8ad3fd456d1686a7d17ed34089242ac18589157f775030b70fbf523_gac_60.png",
-              "icon": "https://images.gog.com/0e9858074126df22d9e560fde24d4db77e34217bb8d77533e6b9b2fe3fcd902a_gac_60.jpg"
-            },
-            {
-              "name": "IHateSpider",
-              "displayName": "Arachnophobia",
-              "description": "Defeat the Chimera.",
-              "hidden": "1",
-              "default_value": "0",
-              "icongray": "https://images.gog.com/e73cfa22917f2bcc3237cac8287d134dcb1ee90baed38fd90af224e7681668fb_gac_60.jpg",
-              "icon": "https://images.gog.com/fb13175812544ecfe7c03693c47c753bd7db53690752add05eefb06dabaabe47_gac_60.jpg"
-            },
-            {
-              "name": "Kingmaker",
-              "displayName": "Spin Doctor",
-              "description": "Complete “Run This Town”.",
-              "hidden": "1",
-              "default_value": "0",
-              "icongray": "https://images.gog.com/1dab50e8f27208ed1bd1d6bf4455db83f6353627a9ba37875647375970663fc0_gac_60.jpg",
-              "icon": "https://images.gog.com/a785f696b77ea5f52a9436ba386c391d0b37b94e8cd82259f05367f89a087d28_gac_60.jpg"
-            },
-            {
-              "name": "KingOfTheCups",
-              "displayName": "King of Cups",
-              "description": "Fulfill Songbird's request.",
-              "hidden": "1",
-              "default_value": "0",
-              "icongray": "https://images.gog.com/546315abb0183b2908ed20b64f8e0ea24d48741fbc36b193cab116967c79cea7_gac_60.jpg",
-              "icon": "https://images.gog.com/f968caa32be10221339c05e7b1f10cbfdd5ab2de7094e82259808d544d7c2843_gac_60.jpg"
-            },
-            {
-              "name": "KingOfThePentacles",
-              "displayName": "King of Pentacles",
-              "description": "Refuse Songbird's request.",
-              "hidden": "1",
-              "default_value": "0",
-              "icongray": "https://images.gog.com/25db475a126af696581d4782adf9a70fdbb9b125d26cc6f544fbb39e16dbb457_gac_60.jpg",
-              "icon": "https://images.gog.com/6b6e56b578620472514bde7775681f11802196a791f6df101e2013a4905dd301_gac_60.jpg"
-            },
-            {
-              "name": "KingOfTheSwords",
-              "displayName": "King of Swords",
-              "description": "Take Songbird home.",
-              "hidden": "1",
-              "default_value": "0",
-              "icongray": "https://images.gog.com/f0eca4053a6c94aa53d7787772f5bdb7e886b99999a92b0310b9385ce3daa420_gac_60.jpg",
-              "icon": "https://images.gog.com/c86d39ae1be267935c0e08259f5651590dfe956677c6d1a4dc59b5646fba5127_gac_60.jpg"
-            },
-            {
-              "name": "KingOfTheWands",
-              "displayName": "King of Wands",
-              "description": "Take Songbird to the stars.",
-              "hidden": "1",
-              "default_value": "0",
-              "icongray": "https://images.gog.com/d789b7794a38c4933dec2851a1d3b8c83b89da69b8064076dfbb1adfa64e82bb_gac_60.jpg",
-              "icon": "https://images.gog.com/d0f4e4b0f59e70888bf0e1a6429739e6a7ffe5375eb56b4cb45cf17ad11070e4_gac_60.jpg"
-            },
-            {
-              "name": "LikeFatherLikeSon",
-              "displayName": "Mean Streets",
-              "description": "Complete all gigs and NCPD Scanner Hustles in Heywood.",
-              "hidden": "0",
-              "default_value": "0",
-              "icongray": "https://images.gog.com/1c891421cc5ea5b6b6b7bb5b5d18fdcb53e0a394a1095d64182ed9065c3b59da_gac_60.png",
-              "icon": "https://images.gog.com/f639393cc541551a0fb211e728782f3b8f267be9ecc5d6309027228133f05bb7_gac_60.jpg"
-            },
-            {
-              "name": "LittleTokyo",
-              "displayName": "Little Tokyo",
-              "description": "Complete all gigs and NCPD Scanner Hustles in Westbrook.",
-              "hidden": "0",
-              "default_value": "0",
-              "icongray": "https://images.gog.com/79416859741eba52acab167755de0dc95af31d9a3bae9df8a25a555c273489e0_gac_60.png",
-              "icon": "https://images.gog.com/440a8a536233aad9345c59765a8ed1ba0c17a84d648701570863f478db2be0af_gac_60.jpg"
-            },
-            {
-              "name": "MasterRunner",
-              "displayName": "Christmas Tree Attack",
-              "description": "Complete a Breach Protocol with a minimum of 3 daemons uploaded.",
-              "hidden": "0",
-              "default_value": "0",
-              "icongray": "https://images.gog.com/1fb7b07f834e87b3cde17a601cec418b147638a69a3645eeece6cbbf770a1c26_gac_60.png",
-              "icon": "https://images.gog.com/7f9e4bed5b5dad800e0ffeae69b7717506f012ababb7afc1986754aec44d4a9b_gac_60.jpg"
-            },
-            {
-              "name": "MaxPain",
-              "displayName": "The Quick and the Dead",
-              "description": "Kill or incapacitate 50 enemies while time is slowed.",
-              "hidden": "0",
-              "default_value": "0",
-              "icongray": "https://images.gog.com/24846cb6c5377c3ea4b6f4b2d693729c37c6a802843e6efcd98faff8fa857bf1_gac_60.png",
-              "icon": "https://images.gog.com/b9c807c508c8a21928739149d327b06768347f3bdbed189bb6c3849aa36e8dfe_gac_60.jpg"
-            },
-            {
-              "name": "MustBeTheRats",
-              "displayName": "Must Be Rats",
-              "description": "Perform the Distract Enemies quickhack 30 times without drawing attention to yourself.",
-              "hidden": "0",
-              "default_value": "0",
-              "icongray": "https://images.gog.com/c2d3b9a755bd9c5fb1a17701c3bf3beb91aab2da07fde6a3baa1b96bfcd1e153_gac_60.png",
-              "icon": "https://images.gog.com/dfb0826ff07438ef0949e5e1e87ff9dbf60fd5330b672d4a2d694da830519677_gac_60.jpg"
-            },
-            {
-              "name": "NeverFadeAway",
-              "displayName": "Breathtaking",
-              "description": "Collect all items that once belonged to Johnny Silverhand.",
-              "hidden": "0",
-              "default_value": "0",
-              "icongray": "https://images.gog.com/5a72b4c524f492ec5df546f5d6da0f351e6815c3c140e5b040694ebd640d49b7_gac_60.png",
-              "icon": "https://images.gog.com/eb8b49044ebdb576584237969ce25a1311e0c246c3264535795eb85f711a7f24_gac_60.jpg"
-            },
-            {
-              "name": "NoMansLand",
-              "displayName": "The Wasteland",
-              "description": "Complete all gigs and NCPD Scanner Hustles in the Badlands.",
-              "hidden": "0",
-              "default_value": "0",
-              "icongray": "https://images.gog.com/34e676e1eee146b62f016574897e9e2bdb354d4915e2119b0811bea574b67bbc_gac_60.png",
-              "icon": "https://images.gog.com/c8daf8f0a76f5b18cfce9cc1bd8d9c5caf8ab47e01585e3e6abd278509ad6800_gac_60.jpg"
-            },
-            {
-              "name": "NotTheMobile",
-              "displayName": "Daemon In The Shell",
-              "description": "Kill or incapacitate 3 enemies with one \"Detonate Grenade\" quickhack.",
-              "hidden": "0",
-              "default_value": "0",
-              "icongray": "https://images.gog.com/d638bfd7450d1a19198fe9f69bf26fc62f1b355e381b953f64c94bae24b3c884_gac_60.png",
-              "icon": "https://images.gog.com/d10aa5fb801b988d1f99990039c04ae9bace4093b860d56892d5940536819f0d_gac_60.jpg"
-            },
-            {
-              "name": "QueenOfTheHighway",
-              "displayName": "Life of the Road",
-              "description": "Complete Panam Palmer's storyline.",
-              "hidden": "1",
-              "default_value": "0",
-              "icongray": "https://images.gog.com/7b7e6242e8e3a96a82dcd188d482cf76bbcf0e7bc10b793cade064c4102ed1b1_gac_60.png",
-              "icon": "https://images.gog.com/9526670f439d4f6bda2a5e99ce278e144a89240efb1352133bf2a972a96f67ae_gac_60.jpg"
-            },
-            {
-              "name": "RelicMaster",
-              "displayName": "Relic Ruler",
-              "description": "Unlock all Perks in the Relic Perk tree.",
-              "hidden": "0",
-              "default_value": "0",
-              "icongray": "https://images.gog.com/fb70ac8abb8ad8ffc688740fbde1ec16a82bd8b8a948e289cb9b4c3fdf17ad43_gac_60.jpg",
-              "icon": "https://images.gog.com/1ba4b8de570d5128d4327f15f9bbf5f5ef18e06a07a0f7d069923f2223005920_gac_60.jpg"
-            },
-            {
-              "name": "Roleplayer",
-              "displayName": "Stanislavski's Method",
-              "description": "Use a dialogue option related to V's life path 10 times.",
-              "hidden": "0",
-              "default_value": "0",
-              "icongray": "https://images.gog.com/13daaff6b5bddc3be171fcbd1fccce9d635483e2bf2b5642b964b520001da642_gac_60.png",
-              "icon": "https://images.gog.com/809c4411985150ec8cd5ff038edcbe8908ec863709d1aeb9cba99f5fef0244c0_gac_60.jpg"
-            },
-            {
-              "name": "Specialist",
-              "displayName": "Ten out of Ten",
-              "description": "Reach the max level in any skill.",
-              "hidden": "0",
-              "default_value": "0",
-              "icongray": "https://images.gog.com/b462f1f371e2635cb574ba00b8b42b935a5779fc7fb81ab9e628eece0541436b_gac_60.png",
-              "icon": "https://images.gog.com/c38a77e318477c0f5df368ae6f0539704832e4e84dafd0f276c236b94a1187a7_gac_60.jpg"
-            },
-            {
-              "name": "Temperance",
-              "displayName": "Temperance",
-              "description": "Let Johnny Silverhand keep your body.",
-              "hidden": "1",
-              "default_value": "0",
-              "icongray": "https://images.gog.com/04081a60b404c89e62fbb11e85a31b3ef847e00e0aaafe4136535e9e38b3e50e_gac_60.png",
-              "icon": "https://images.gog.com/45c542ef24638a676d19b41342751c6dc61a0757c48b9c70d381743f67aae696_gac_60.jpg"
-            },
-            {
-              "name": "ThatIsSoHardForTheKnees",
-              "displayName": "Rough Landing",
-              "description": "While Berserk cyberware is active, perform a Superhero Landing to kill or incapacitate 2 enemies.",
-              "hidden": "0",
-              "default_value": "0",
-              "icongray": "https://images.gog.com/6fcca38a534952a220154b66bd55a34121aa47b2633292b7cfb1a602ba074f07_gac_60.png",
-              "icon": "https://images.gog.com/10680fd0c46dab2b355fce39630e9d43186dca6cc3af742017b20d3ad51c1210_gac_60.jpg"
-            },
-            {
-              "name": "TheDevil",
-              "displayName": "The Devil",
-              "description": "Help Takemura avenge the death of Saburo Arasaka.",
-              "hidden": "1",
-              "default_value": "0",
-              "icongray": "https://images.gog.com/7ef4f7628c06fd7621f861d6f552a6a9dc7829dacbb25243f96c36e116f34485_gac_60.png",
-              "icon": "https://images.gog.com/16332d6aa5d678d04fa2cae5f45835c93ad3fccac81e8f2d296ca087c1309af9_gac_60.jpg"
-            },
-            {
-              "name": "TheFool",
-              "displayName": "The Fool",
-              "description": "Become a mercenary.",
-              "hidden": "1",
-              "default_value": "0",
-              "icongray": "https://images.gog.com/ee0d24cc4caa794b03db97424220c0e170e9d757d42736ce185035a6f5d29099_gac_60.png",
-              "icon": "https://images.gog.com/0135ee86141b743170ac368d56a1145bdecf130dea96af14ed8b9de50549f6e5_gac_60.jpg"
-            },
-            {
-              "name": "TheHermit",
-              "displayName": "The Hermit",
-              "description": "Find Alt Cunningham.",
-              "hidden": "1",
-              "default_value": "0",
-              "icongray": "https://images.gog.com/afc705cfeb6aa6d36a5f38d7ef924e63db5e3b7fb62b78d8e9b63443a7f41dc0_gac_60.png",
-              "icon": "https://images.gog.com/ba47168256c8912f222e2914720a20ff6e3c0ec354113534aee3cdfa5d8c19f3_gac_60.jpg"
-            },
-            {
-              "name": "TheHightPriestess",
-              "displayName": "The High Priestess",
-              "description": "Talk with Hanako Arasaka.",
-              "hidden": "1",
-              "default_value": "0",
-              "icongray": "https://images.gog.com/2e9b57a95aaeedb38a75df7e4a7e24ee94243dcbbfc86d25e75aa97ab435071e_gac_60.png",
-              "icon": "https://images.gog.com/bb9a7988543215b0b2a0d52e7a6d93e6a73973db65db926d367ae6d04913d09d_gac_60.jpg"
-            },
-            {
-              "name": "TheLovers",
-              "displayName": "The Lovers",
-              "description": "Steal the Relic.",
-              "hidden": "1",
-              "default_value": "0",
-              "icongray": "https://images.gog.com/792e0a0c708d6634130026c11c14c344189cf8c17c981f93d8df8aef1dd7dbec_gac_60.png",
-              "icon": "https://images.gog.com/a3f5a7a3abc27f352d233221fe310c1322887474750ad7a6836136b190e34701_gac_60.jpg"
-            },
-            {
-              "name": "TheStar",
-              "displayName": "The Star",
-              "description": "Leave Night City with the Aldecaldos.",
-              "hidden": "1",
-              "default_value": "0",
-              "icongray": "https://images.gog.com/4dafe81c95c85b73b46de3289f13a58a0167fe9b6f6d2b0ce9d86fcfff2a6cdc_gac_60.png",
-              "icon": "https://images.gog.com/02279fe189b19ba97f6b955fe60c9df82a8a0582454b12b0ee9663e1c68f9256_gac_60.jpg"
-            },
-            {
-              "name": "TheSun",
-              "displayName": "The Sun",
-              "description": "Become a legend of the Afterlife.",
-              "hidden": "1",
-              "default_value": "0",
-              "icongray": "https://images.gog.com/876d20285ffdde9475a974c602ecb575620e559bd90e018924d8ae6f2e99e36c_gac_60.png",
-              "icon": "https://images.gog.com/241214ec232d6066daac4d52cab40544c109deb652a77443a5ee45f1d91840fa_gac_60.jpg"
-            },
-            {
-              "name": "TheTower",
-              "displayName": "The Tower",
-              "description": "Complete \"Things Done Changed\".",
-              "hidden": "1",
-              "default_value": "0",
-              "icongray": "https://images.gog.com/04bf6be7ffdd6ebb608e35a8bd49b3ff12bd186df23c0a14da31dca50f27a34d_gac_60.jpg",
-              "icon": "https://images.gog.com/e88f973747ba17a05bd0c582325b7523cc3753fb941775cc06c1ecad43129bd3_gac_60.jpg"
-            },
-            {
-              "name": "TheWheelOfFortune",
-              "displayName": "The Wheel of Fortune",
-              "description": "Interrogate Anders Hellman.",
-              "hidden": "1",
-              "default_value": "0",
-              "icongray": "https://images.gog.com/54f6b2425d9733fa943ab55eb04f98f5ad52f2fcd2e132530c361c53f52894c1_gac_60.png",
-              "icon": "https://images.gog.com/9e0f24949ff686923be5aa94ef648419e77845a4ae7def04a973fc4d9ad4c746_gac_60.jpg"
-            },
-            {
-              "name": "TheWorld",
-              "displayName": "The World",
-              "description": "Complete the main storyline.",
-              "hidden": "0",
-              "default_value": "0",
-              "icongray": "https://images.gog.com/3f37d520a28d8bd057118d5f6e28028753c1fd297de0e2fbed2e71adf52f6f41_gac_60.png",
-              "icon": "https://images.gog.com/6300d1d0467b659556d2bba3d4cd83475ee099f2f77d615b17cb2d041cb9b3c9_gac_60.jpg"
-            },
-            {
-              "name": "ThisIsPacifica",
-              "displayName": "Greetings from Pacifica!",
-              "description": "Complete all gigs and NCPD Scanner Hustles in Pacifica.",
-              "hidden": "0",
-              "default_value": "0",
-              "icongray": "https://images.gog.com/6ee3a93b46c5971dfa37d6a1ad2eacdb0cbcd49ae98b0e33c8b0635e130e7d7e_gac_60.png",
-              "icon": "https://images.gog.com/455b10aa612e34affbee98a1650dba0106352805bdc96c9c5e50678fa1052ba6_gac_60.jpg"
-            },
-            {
-              "name": "TradeUnion",
-              "displayName": "The Jungle",
-              "description": "Complete all gigs and NCPD Scanner Hustles in Santo Domingo.",
-              "hidden": "0",
-              "default_value": "0",
-              "icongray": "https://images.gog.com/76d5bc97737be8582b8b7f411f9e01469c393bb86d070f7f3d8c61af40c31f02_gac_60.png",
-              "icon": "https://images.gog.com/384f210e3a0b49070e69f82e7f4ee2f2a96ad8c7ef01aea162e53c886945fdd4_gac_60.jpg"
-            },
-            {
-              "name": "TrueSoldier",
-              "displayName": "True Soldier",
-              "description": "Kill or incapacitate 300 enemies using ranged weapons.",
-              "hidden": "0",
-              "default_value": "0",
-              "icongray": "https://images.gog.com/fdbc3ad3d14ba9ae74a7f7d6dd614caa7a0cdf3c7ae5ceea1dddc7d6f4e25cf8_gac_60.png",
-              "icon": "https://images.gog.com/b64aab3ea245cc0d9e9e88bc3239b9378a9c9386dd8ad86926433c76d8b4433b_gac_60.jpg"
-            },
-            {
-              "name": "TrueWarrior",
-              "displayName": "True Warrior",
-              "description": "Kill or incapacitate 100 enemies using melee weapons.",
-              "hidden": "0",
-              "default_value": "0",
-              "icongray": "https://images.gog.com/950bc6636b42ef540c6e360e2f7a58e1b3b544f107f4057b2c9018051266a1e0_gac_60.png",
-              "icon": "https://images.gog.com/5d62c7c23d575f15e5c1ca8d3e5c0a2e50596f15b0b0d2144a906b37796d1693_gac_60.jpg"
-            },
-            {
-              "name": "TwoHeadsOneBullet",
-              "displayName": "Two Heads, One Bullet",
-              "description": "Kill or incapacitate 2 enemies with the same sniper rifle shot.",
-              "hidden": "0",
-              "default_value": "0",
-              "icongray": "https://images.gog.com/34bf57a8a2cc87568fbd08299dc9cc189734d3c140d2c300fcb5802c3c7fb1fa_gac_60.png",
-              "icon": "https://images.gog.com/7b23fffaef3c2c3361fd1f235985a43720add4da3c288a68d459495f3fc94452_gac_60.jpg"
-            },
-            {
-              "name": "UnderPressure",
-              "displayName": "Judy vs Night City",
-              "description": "Complete Judy Alvarez's storyline.",
-              "hidden": "1",
-              "default_value": "0",
-              "icongray": "https://images.gog.com/3db6fec2295fc2264c88dff921510cf33b4bf82c6f6343c45b4ea81b18a9bf55_gac_60.png",
-              "icon": "https://images.gog.com/c9e9149c818231f8774580a6462741df40fdfd9821510f101c24590d8f9374b7_gac_60.jpg"
-            },
-            {
-              "name": "VForVendetta",
-              "displayName": "V for Vendetta",
-              "description": "After reviving with Second Heart, kill or incapacitate the enemy who killed you within 5 seconds.",
-              "hidden": "0",
-              "default_value": "0",
-              "icongray": "https://images.gog.com/521a0e3fdbe42c57e438a0b640a28edd56e0e3831314a7150b8d1f85787d33e7_gac_60.png",
-              "icon": "https://images.gog.com/efc16020a2aa067802a90363cf763144827f1f2719c6624618f36d2db356aa3c_gac_60.jpg"
-            },
-            {
-              "name": "YipMan",
-              "displayName": "It's Elementary",
-              "description": "Complete all gigs and NCPD Scanner Hustles in Watson.",
-              "hidden": "0",
-              "default_value": "0",
-              "icongray": "https://images.gog.com/88f60c4c7c4f9baeb2b34efaa097b9cafa70b015bf6c55ac1c39d3f9a334f425_gac_60.png",
-              "icon": "https://images.gog.com/3e0bce9b84b0ad7dd160032f3dc264b180c3e752ba225c88f61db8b124675b2b_gac_60.jpg"
-            },
-            {
-              "name": "YouKnowWhoIAm",
-              "displayName": "Legend of The Afterlife",
-              "description": "Reach max Street Cred.",
-              "hidden": "0",
-              "default_value": "0",
-              "icongray": "https://images.gog.com/6db6b3f9fa4ce29836e16f84b8e48d58b375247c4b4edcc5eb3cda3136de8d74_gac_60.png",
-              "icon": "https://images.gog.com/b25340986c77b1582ccbdf22d24b392337151d5820b8027b6da76cb7b4689f85_gac_60.jpg"
-            }
-          ]
-        }
-      }
-    },
     {
       "appid": "1903340",
       "info": {
@@ -554,7 +16,7 @@
             "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1903340/666bef3123ee260c4f6960d2686a6e8f03c8c439.jpg",
             "hidden": true,
             "group": "Base Game",
-            "percent": "18.6"
+            "percent": "18.5"
           },
           "SERPENPHARE": {
             "name": "À On",
@@ -563,7 +25,7 @@
             "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1903340/e62c3a1f5a249fc32fe2652beb97364ddbdd7bce.jpg",
             "hidden": true,
             "group": "Base Game",
-            "percent": "24.9"
+            "percent": "24.8"
           },
           "LUMIERE_MIME": {
             "name": "A Peculiar Encounter",
@@ -581,7 +43,7 @@
             "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1903340/f41d424cce7417bf69357fbdc3a0efc957e348ff.jpg",
             "hidden": true,
             "group": "Base Game",
-            "percent": "13.2"
+            "percent": "13.1"
           },
           "ANCIENT_SANCTUARY": {
             "name": "Ancient Sanctuary",
@@ -599,7 +61,7 @@
             "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1903340/134965999d594de3fb44bfb7d702a923ce2c9bd2.jpg",
             "hidden": true,
             "group": "Base Game",
-            "percent": "46.3"
+            "percent": "46.1"
           },
           "PETANK_ALPHA": {
             "name": "Carreau Parfait",
@@ -608,7 +70,7 @@
             "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1903340/ee9c9694673936e64cfda9197ac4aff0b9d31677.jpg",
             "hidden": true,
             "group": "Base Game",
-            "percent": "20.8"
+            "percent": "20.7"
           },
           "LVL3_GRADIENT_ATTACK": {
             "name": "Chroma Proficiency",
@@ -617,7 +79,7 @@
             "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1903340/a7de5c2d546612982ec8dac6307c0bb236deb222.jpg",
             "hidden": true,
             "group": "Base Game",
-            "percent": "27.4"
+            "percent": "27.3"
           },
           "CLEA": {
             "name": "Clea",
@@ -626,7 +88,7 @@
             "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1903340/c0f618d59ada226fc7eb4d4da836cf00916917da.jpg",
             "hidden": true,
             "group": "Base Game",
-            "percent": "20.2"
+            "percent": "20.1"
           },
           "ALL_SONGS": {
             "name": "Connoisseur",
@@ -653,7 +115,7 @@
             "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1903340/5181a12e1d240a38e11f4bb9c6e94d13d1fdac84.jpg",
             "hidden": true,
             "group": "Base Game",
-            "percent": "30.9"
+            "percent": "30.8"
           },
           "ESQUIES_NEST": {
             "name": "Esquie's Nest",
@@ -662,7 +124,7 @@
             "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1903340/3c2c617d8c4ddfd9cd9dda260c76efee5a3e18f6.jpg",
             "hidden": true,
             "group": "Base Game",
-            "percent": "67.1"
+            "percent": "67.0"
           },
           "ALL_CHARACTERS": {
             "name": "Expedition 33",
@@ -671,7 +133,7 @@
             "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1903340/010f6f1c7dcbf1fe29f5a2098f7136446c269132.jpg",
             "hidden": true,
             "group": "Base Game",
-            "percent": "57.2"
+            "percent": "57.0"
           },
           "LEVEL_33": {
             "name": "Expeditioner",
@@ -680,7 +142,7 @@
             "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1903340/459eae107d426e55d0ade6ce65e98bec756310c8.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "53.9"
+            "percent": "53.7"
           },
           "ALL_MONOCO_SKILLS": {
             "name": "Feet Collection",
@@ -698,7 +160,7 @@
             "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1903340/5a6b40fe2bfed7a199a70aeeee6b8b32c86ab0da.jpg",
             "hidden": true,
             "group": "Base Game",
-            "percent": "51.8"
+            "percent": "51.7"
           },
           "FLYING_WATERS": {
             "name": "Flying Waters",
@@ -725,7 +187,7 @@
             "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1903340/79b61676145e4c151eb2926185afd87fe989ea0e.jpg",
             "hidden": true,
             "group": "Base Game",
-            "percent": "58.3"
+            "percent": "58.2"
           },
           "GESTRAL_BEACH": {
             "name": "Gestral Games",
@@ -734,7 +196,7 @@
             "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1903340/95c39498077ced5d3877d8f67406e3a4555708d3.jpg",
             "hidden": true,
             "group": "Base Game",
-            "percent": "14.9"
+            "percent": "14.8"
           },
           "GESTRAL_VILLAGE": {
             "name": "Gestral Village",
@@ -752,7 +214,7 @@
             "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1903340/5181a12e1d240a38e11f4bb9c6e94d13d1fdac84.jpg",
             "hidden": true,
             "group": "Base Game",
-            "percent": "67.1"
+            "percent": "67.0"
           },
           "LOST_GESTRALS": {
             "name": "Lost Gestrals",
@@ -761,7 +223,7 @@
             "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1903340/17ce0397bf7cb226130d73d39c5f0c8571a66228.jpg",
             "hidden": true,
             "group": "Base Game",
-            "percent": "15.0"
+            "percent": "14.9"
           },
           "LUMIERE": {
             "name": "Lumière",
@@ -788,7 +250,7 @@
             "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1903340/06b4d42d5de4593ba4d411bf3e426a64ad4a981b.jpg",
             "hidden": true,
             "group": "Base Game",
-            "percent": "30.5"
+            "percent": "30.4"
           },
           "MAELLE_RELATIONSHIP": {
             "name": "Maelle",
@@ -797,7 +259,7 @@
             "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1903340/28aefcb508e584aa7720478a18110de2ceb4f186.jpg",
             "hidden": true,
             "group": "Base Game",
-            "percent": "29.9"
+            "percent": "29.7"
           },
           "SCIEL_FORETELL": {
             "name": "Maximization",
@@ -806,7 +268,7 @@
             "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1903340/d4a970cb0a8d83612b256f0799e8939596a4b2fa.jpg",
             "hidden": true,
             "group": "Base Game",
-            "percent": "34.5"
+            "percent": "34.4"
           },
           "MONOCO_RELATIONSHIP": {
             "name": "Monoco",
@@ -815,7 +277,7 @@
             "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1903340/708e84b0893e2d303f21b73a433fe00ae36675b5.jpg",
             "hidden": true,
             "group": "Base Game",
-            "percent": "28.1"
+            "percent": "28.0"
           },
           "GRANDIS_STATION": {
             "name": "Monoco's Station",
@@ -824,7 +286,7 @@
             "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1903340/d6d7e79ea6cb117920423a2b2578a522c500a5c9.jpg",
             "hidden": true,
             "group": "Base Game",
-            "percent": "57.1"
+            "percent": "57.0"
           },
           "MONOLITH": {
             "name": "Monolith",
@@ -833,7 +295,7 @@
             "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1903340/10cefd7d61852b3904f6d1fd326411fe82e3f622.jpg",
             "hidden": true,
             "group": "Base Game",
-            "percent": "49.4"
+            "percent": "49.3"
           },
           "PAINTING_WORKSHOP": {
             "name": "Noir et Blanc",
@@ -842,7 +304,7 @@
             "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1903340/a86a6bd0cf0f4d4768dfb453b73efe2fcff3aaa6.jpg",
             "hidden": true,
             "group": "Base Game",
-            "percent": "19.1"
+            "percent": "19.0"
           },
           "OLD_LUMIERE": {
             "name": "Old Lumière",
@@ -851,7 +313,7 @@
             "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1903340/3f95d91bfaa0d5de3efd887f200ad347bca668a6.jpg",
             "hidden": true,
             "group": "Base Game",
-            "percent": "54.7"
+            "percent": "54.6"
           },
           "GUSTAVE_OVERCHARGE": {
             "name": "Overcharge",
@@ -878,7 +340,7 @@
             "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1903340/c7e20810e253cd4f15809511f7d5ed64e4e91c5b.jpg",
             "hidden": true,
             "group": "Base Game",
-            "percent": "46.7"
+            "percent": "46.5"
           },
           "SIMON": {
             "name": "Peace At Last",
@@ -887,7 +349,7 @@
             "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1903340/4d01ce52bd3d66c59b277bc01d970bf3dc322769.jpg",
             "hidden": true,
             "group": "Base Game",
-            "percent": "15.7"
+            "percent": "15.6"
           },
           "LUNE_STAINS": {
             "name": "Perfect Flow",
@@ -896,7 +358,7 @@
             "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1903340/9982734563dd247451e61b32041f700740d27297.jpg",
             "hidden": true,
             "group": "Base Game",
-            "percent": "49.8"
+            "percent": "49.7"
           },
           "VERSO_PERFECTION": {
             "name": "Perfection",
@@ -905,7 +367,7 @@
             "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1903340/05734ee5e04508e931da911e6d68cc6a27e6d67e.jpg",
             "hidden": true,
             "group": "Base Game",
-            "percent": "56.2"
+            "percent": "56.1"
           },
           "ESQUIE_UPGRADES": {
             "name": "Plane, Train, and Submarine",
@@ -914,7 +376,7 @@
             "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1903340/19a606703fa581feaa8fe8581bc6146f5e77cc1a.jpg",
             "hidden": true,
             "group": "Base Game",
-            "percent": "33.6"
+            "percent": "33.5"
           },
           "NO_DAMAGE_BOSS": {
             "name": "Professional",
@@ -923,7 +385,7 @@
             "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1903340/148809abf1e8bd9a5db902a1d4623dc7143eb6fb.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "51.1"
+            "percent": "51.0"
           },
           "SCIEL_RELATIONSHIP": {
             "name": "Sciel",
@@ -932,7 +394,7 @@
             "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1903340/e311c52896785463fefcc65981f1c4fa45694cff.jpg",
             "hidden": true,
             "group": "Base Game",
-            "percent": "32.2"
+            "percent": "32.1"
           },
           "SECOND_AXON": {
             "name": "Second Axon",
@@ -941,7 +403,7 @@
             "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1903340/4d8017c91fa592fe5892a08a130d62dd3c95a950.jpg",
             "hidden": true,
             "group": "Base Game",
-            "percent": "50.2"
+            "percent": "50.0"
           },
           "SPRING_MEADOWS": {
             "name": "Spring Meadows",
@@ -959,7 +421,7 @@
             "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1903340/da2d99002428f819909fdb418c85cc191a931069.jpg",
             "hidden": true,
             "group": "Base Game",
-            "percent": "32.0"
+            "percent": "31.9"
           },
           "STONE_WAVE_CLIFFS": {
             "name": "Stone Wave Cliffs",
@@ -968,7 +430,7 @@
             "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1903340/78bcdfc829c30d4bf47a3d90b4f15a82bb010b09.jpg",
             "hidden": true,
             "group": "Base Game",
-            "percent": "62.3"
+            "percent": "62.2"
           },
           "LEVEL_99": {
             "name": "Survivor",
@@ -995,7 +457,7 @@
             "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1903340/d451fa9a94d7fe423e713ccdd7d37cbce6176f90.jpg",
             "hidden": true,
             "group": "Base Game",
-            "percent": "37.7"
+            "percent": "37.6"
           },
           "BREAK": {
             "name": "Time to Spill Some Ink",
@@ -1013,7 +475,7 @@
             "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1903340/1cdc4c9918c0c80b5853b827f058965d3a2ccb47.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "32.6"
+            "percent": "32.5"
           },
           "WEAPON_FULL_UPGRADE": {
             "name": "Weapon Mastery",
@@ -1022,7 +484,7 @@
             "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1903340/b0669aed88896cce28ceb6b67f70c25951e051b7.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "25.0"
+            "percent": "24.9"
           },
           "WEAPON_FIRST_UPGRADE": {
             "name": "Weapon Upgrade",
@@ -1040,7 +502,7 @@
             "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1903340/0e9ceff4d0e2377a2ec3a950ba408752ccc768be.jpg",
             "hidden": true,
             "group": "Base Game",
-            "percent": "27.4"
+            "percent": "27.3"
           }
         },
         "platform": null,
@@ -1338,7 +800,7 @@
             "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1145360/e28192c410d830e03c927e960ef2d99d75fc5399.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "56.8"
+            "percent": "56.7"
           },
           "AchFoundAllSummons": {
             "name": "Complete Set",
@@ -1392,7 +854,7 @@
             "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1145360/0c11f316f61f451afee1d8aa32a2f3e86a5c7556.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "10.1"
+            "percent": "10.0"
           },
           "AchClearAsphodel": {
             "name": "Escaped Asphodel",
@@ -1626,7 +1088,7 @@
             "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1145360/31843081dab02ecb79f8fbbc7bc30d9b0cc4c33e.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "23.8"
+            "percent": "23.7"
           },
           "AchBronzeSkellyTrophy": {
             "name": "The Useless Trinket",
@@ -1936,7 +1398,7 @@
             "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1145350/80dc1ec718bfdfad65164abcce19a1f8b7b3beab.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "30.5"
+            "percent": "30.2"
           },
           "AchAllFamiliars": {
             "name": "Animal Whisperer",
@@ -1945,7 +1407,7 @@
             "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1145350/b5220fc40d52fa9bb519203160216a17e4a801b9.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "22.3"
+            "percent": "22.0"
           },
           "AchBeatChronosWithArcana": {
             "name": "Arcana of the Ages",
@@ -1954,7 +1416,7 @@
             "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1145350/f0970836f53e274e7b28193ba89c7e8f7e6d39b2.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "14.0"
+            "percent": "13.7"
           },
           "AchClearWithAllAspects": {
             "name": "Bearing Dark Gifts",
@@ -1963,7 +1425,7 @@
             "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1145350/3f4d5acba3ad0944ecb55049af0fa25136c51a6a.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "4.8"
+            "percent": "4.7"
           },
           "AchAllFamiliarsMax": {
             "name": "Beast Master",
@@ -1972,7 +1434,7 @@
             "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1145350/ac72ab7813c4da9bd26e05069659b984b18070c4.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "7.5"
+            "percent": "7.4"
           },
           "AchEarnStatue1": {
             "name": "Behold Night's Champion",
@@ -1981,7 +1443,7 @@
             "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1145350/99d2154cd56debcda24f71a30004597556e458b0.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "21.8"
+            "percent": "21.5"
           },
           "AchClearChaosQuest": {
             "name": "Born to Win",
@@ -1990,7 +1452,7 @@
             "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1145350/1731de7007a4539362a073676c76710a16ea9ac5.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "9.1"
+            "percent": "8.8"
           },
           "AchAllArcana": {
             "name": "Breadth of Knowledge",
@@ -1999,7 +1461,7 @@
             "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1145350/575bd330783b5a014724e461920803c25680f318.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "34.6"
+            "percent": "34.2"
           },
           "AchSummonSiren": {
             "name": "Breaking Up the Band",
@@ -2008,7 +1470,7 @@
             "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1145350/6d198c14e5153963cbf0aa8d4399a4368bdc51dc.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "20.7"
+            "percent": "20.4"
           },
           "AchFishingPier": {
             "name": "Catch of the Night",
@@ -2017,7 +1479,7 @@
             "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1145350/938b874492943d462994f7f4809a640979835d0e.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "33.0"
+            "percent": "32.6"
           },
           "AchAllRandomUnderworld": {
             "name": "Chaos in Hell",
@@ -2026,7 +1488,7 @@
             "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1145350/b5309ad54b39238c77491c3c29dc3b4b1ee1582d.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "3.8"
+            "percent": "3.7"
           },
           "AchForgeBonds": {
             "name": "Close Comrades",
@@ -2035,7 +1497,7 @@
             "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1145350/5fb1266ca5567441d8c9aa08fb238a37d725138e.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "10.3"
+            "percent": "10.1"
           },
           "AchTrueEnding": {
             "name": "Death to Chronos",
@@ -2044,7 +1506,7 @@
             "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1145350/0017f60f2a9c3b0737fbb149e4daa7236b3d3bda.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "23.2"
+            "percent": "22.7"
           },
           "AchCatchFish": {
             "name": "Denizens of the Depths",
@@ -2053,7 +1515,7 @@
             "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1145350/22fad3142d7234ae65005529c90154c95a35a846.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "13.1"
+            "percent": "12.9"
           },
           "AchTartarusInDress": {
             "name": "Dressed to Kill",
@@ -2062,7 +1524,7 @@
             "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1145350/d73862b8f5616cb6ef62a1517c9dadddf5e83f7b.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "10.1"
+            "percent": "10.0"
           },
           "AchWinSecretContest": {
             "name": "Elysian Glory",
@@ -2071,7 +1533,7 @@
             "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1145350/717c6d9887dacb40625ba0ed2fbc1bac0be5180d.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "13.9"
+            "percent": "13.6"
           },
           "AchNemesisCombat": {
             "name": "Fair Fight",
@@ -2080,7 +1542,7 @@
             "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1145350/caf791f68909a5f4b2e679192c180c5ce3485543.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "12.0"
+            "percent": "11.7"
           },
           "AchConfideFrinos": {
             "name": "Familiar Confidant",
@@ -2089,7 +1551,7 @@
             "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1145350/bbd8abd3c6020a944c7a39119a8431b385375567.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "33.3"
+            "percent": "33.0"
           },
           "AchEarnPrestige1": {
             "name": "Giving Back",
@@ -2098,7 +1560,7 @@
             "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1145350/6939fa86ab96cff5068d1d631203274585d8f24f.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "16.7"
+            "percent": "16.5"
           },
           "AchAllOtherAch": {
             "name": "Goddess of Nightmares",
@@ -2107,7 +1569,7 @@
             "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1145350/d0d5ecd013b17e976a486bc24071ef125167afd4.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "3.1"
+            "percent": "3.0"
           },
           "AchEpilogue": {
             "name": "Golden Age",
@@ -2116,7 +1578,7 @@
             "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1145350/daf490f764c402808fc8b317d1d49a904dc4f6f9.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "7.3"
+            "percent": "7.1"
           },
           "AchProphecies1": {
             "name": "Hand of the Fates",
@@ -2125,7 +1587,7 @@
             "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1145350/f97bc84742bcbab0cc1282a6d4e32e6c2a78c4b3.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "10.6"
+            "percent": "10.5"
           },
           "AchHelpDora": {
             "name": "Haunted by the Past",
@@ -2134,7 +1596,7 @@
             "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1145350/7b158e9bdb0e99859046ee870e4a778102f79657.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "14.6"
+            "percent": "14.3"
           },
           "AchAllRandomStreak": {
             "name": "Improbable Outcomes",
@@ -2143,7 +1605,7 @@
             "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1145350/ff1cf7b5b9254b0113f6a573fcd1063239d2519c.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "4.3"
+            "percent": "4.2"
           },
           "AchBounties1": {
             "name": "Infinite Possibility",
@@ -2152,7 +1614,7 @@
             "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1145350/099dcc124bb47e61099afd259e4f8e40669c370c.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "8.3"
+            "percent": "8.2"
           },
           "AchEarnStatue2": {
             "name": "Mercy, Night's Executioner",
@@ -2161,7 +1623,7 @@
             "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1145350/6da3645832b6b76f6e9860dd5dd0846d4eb2bb3c.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "14.7"
+            "percent": "14.5"
           },
           "AchMaxMem": {
             "name": "Mind for Magick",
@@ -2170,7 +1632,7 @@
             "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1145350/4d28974d1f966e6bac5221972ec64441a283944d.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "29.9"
+            "percent": "29.5"
           },
           "AchBeatHecateNoArcana": {
             "name": "Natural Talent",
@@ -2179,7 +1641,7 @@
             "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1145350/6b27bc4fb06847383fda97586b3149894a1789c7.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "26.7"
+            "percent": "26.3"
           },
           "AchAllKeepsakes": {
             "name": "Sentimental Value",
@@ -2188,7 +1650,7 @@
             "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1145350/a6eea86ad94580bbf3b8f9e44de9af1fe6a458ef.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "9.2"
+            "percent": "9.0"
           },
           "AchKillWitchAsSheep": {
             "name": "Sheep's Clothing",
@@ -2197,7 +1659,7 @@
             "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1145350/3cf3e0d3429778e1f6d0f097cc34a50063e973d5.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "36.4"
+            "percent": "35.9"
           },
           "AchHelpArachne": {
             "name": "Silk and Spitefulness",
@@ -2206,7 +1668,7 @@
             "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1145350/036988949f251d0e00bce500e2083d99be6307ba.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "5.4"
+            "percent": "5.3"
           },
           "AchCauldronSpells1": {
             "name": "So Mote It Be",
@@ -2215,7 +1677,7 @@
             "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1145350/218670037563eb2f2fb9918c4c37ed63bc921d9b.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "39.1"
+            "percent": "38.7"
           },
           "AchBathHouse": {
             "name": "Soothing Soak",
@@ -2224,7 +1686,7 @@
             "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1145350/e82f786b540bf24eb16c74cc660f1ee26d8cc610.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "42.6"
+            "percent": "42.2"
           },
           "AchHelpHypnos": {
             "name": "Soundest of Sleepers",
@@ -2233,7 +1695,7 @@
             "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1145350/0135f7b6cdb456c7432ad3834282476a97447b7a.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "13.6"
+            "percent": "13.3"
           },
           "AchBeatTyphonWithWeapons": {
             "name": "Sword of the Night",
@@ -2242,7 +1704,7 @@
             "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1145350/683178bcd525d5ff8faf28205e10dbd5565e9136.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "11.7"
+            "percent": "11.5"
           },
           "AchAllWeapons": {
             "name": "The Arms of Night",
@@ -2251,7 +1713,7 @@
             "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1145350/d3001619a5b39f634c6ee1462c02c6c7ab76f6b2.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "41.5"
+            "percent": "41.0"
           },
           "AchAllAspects": {
             "name": "The Unseen Sentinel",
@@ -2260,7 +1722,7 @@
             "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1145350/dbd50a4b00c42beb7acd7c28cf68e730cd495cb8.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "8.8"
+            "percent": "8.6"
           },
           "AchAllArcanaMax": {
             "name": "Unassailable Insight",
@@ -2269,7 +1731,7 @@
             "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1145350/f1f05955c0e2427ec09306211bc103ec728f71bd.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "10.3"
+            "percent": "10.1"
           },
           "AchFamiliarCostumes": {
             "name": "Unfamiliar Forms",
@@ -2278,7 +1740,7 @@
             "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1145350/f6720fdb8af311f2492517eb634ba13b8d6cce53.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "5.7"
+            "percent": "5.6"
           },
           "AchHelpOdysseus": {
             "name": "Unfinished Business",
@@ -2287,7 +1749,7 @@
             "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1145350/aaa21730f2287b4fb2812bfb30bb84ba4d84040a.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "6.4"
+            "percent": "6.2"
           },
           "AchBeatRivalsVow1": {
             "name": "Unrivaled Prowess",
@@ -2296,7 +1758,7 @@
             "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1145350/e49f2f8289bbe30db779d69fd4e5a92b18ffc43c.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "8.6"
+            "percent": "8.5"
           },
           "AchHelpNarcissusAndEcho": {
             "name": "Voice and Vanity",
@@ -2305,7 +1767,7 @@
             "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1145350/b9cdb4a23b73fcaf5abc37775ca59dc0f34ac031.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "10.4"
+            "percent": "10.2"
           },
           "AchClearTartarus": {
             "name": "Witch of the Abyss",
@@ -2314,7 +1776,7 @@
             "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1145350/4aa6f5855a9c785ecde5935211c969054797a68d.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "41.1"
+            "percent": "40.7"
           },
           "AchClearSummit": {
             "name": "Witch of the Clouds",
@@ -2323,7 +1785,7 @@
             "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1145350/ae9679f45ac4433c582d0a6e434e1df125ea83dc.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "32.2"
+            "percent": "31.7"
           },
           "AchClearOceanus": {
             "name": "Witch of the Depths",
@@ -2332,7 +1794,7 @@
             "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1145350/bacabdad32d575e03ef718f091249e639d394f9f.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "55.1"
+            "percent": "54.7"
           },
           "AchClearOlympus": {
             "name": "Witch of the Mountains",
@@ -2341,7 +1803,7 @@
             "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1145350/b194ffd7a653eb9cb75c05f31725dda8c8c053e6.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "38.5"
+            "percent": "38.1"
           },
           "AchClearEphyra": {
             "name": "Witch of the Outskirts",
@@ -2350,7 +1812,7 @@
             "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1145350/7c5d6ddda789caf10e7a09726c5eac6e338028ac.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "46.4"
+            "percent": "45.9"
           },
           "AchClearFields": {
             "name": "Witch of the Plains",
@@ -2359,7 +1821,7 @@
             "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1145350/ead0acbb6c3cb0739f7fd377c38faa8a144408b3.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "51.7"
+            "percent": "51.2"
           },
           "AchClearThessaly": {
             "name": "Witch of the Waters",
@@ -2368,7 +1830,7 @@
             "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1145350/b6921206330324b72229f08c8a9560308167e298.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "43.1"
+            "percent": "42.7"
           },
           "AchClearErebus": {
             "name": "Witch of the Woods",
@@ -2377,7 +1839,7 @@
             "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1145350/40ee8c3795ae62300c90157abd8da5f3d02e3d5d.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "60.5"
+            "percent": "60.1"
           }
         },
         "platform": null,
