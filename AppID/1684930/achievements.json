@@ -1,0 +1,146 @@
+{
+  "ACH_BETRAYAL": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_BILLIARDS": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_CAN": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_CASE": {
+    "earned": true,
+    "earned_time": 1762153981
+  },
+  "ACH_CASHSPENT": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_CHAMP": {
+    "earned": true,
+    "earned_time": 1762236456
+  },
+  "ACH_DEFLECTIONS": {
+    "earned": false,
+    "earned_time": 0,
+    "max_progress": 25,
+    "progress": 0
+  },
+  "ACH_EXTREME": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_EXTREME_2": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_EYEBALL": {
+    "earned": true,
+    "earned_time": 1761520921
+  },
+  "ACH_GALLERY": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_GHOST": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_GUNGINEER": {
+    "earned": true,
+    "earned_time": 1761525861
+  },
+  "ACH_HAILMARY": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_HEADSHOTS": {
+    "earned": false,
+    "earned_time": 0,
+    "max_progress": 250,
+    "progress": 0
+  },
+  "ACH_HEADSHOT_PEN": {
+    "earned": true,
+    "earned_time": 1761448462
+  },
+  "ACH_HOW": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_MADMINUTE": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_MARROW": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_NEWDUMBFRIEND": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_NOSCOPE": {
+    "earned": true,
+    "earned_time": 1761511747
+  },
+  "ACH_OW": {
+    "earned": true,
+    "earned_time": 1762150002
+  },
+  "ACH_PLUMBING": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_PROPSNIPE": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_RESCUEOP": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_RTS": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_SECRETS_1": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_SECRETS_2": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_SHAME": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_SNUFFEDOUT": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_SOAP": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_TEDDY": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_THRONE": {
+    "earned": true,
+    "earned_time": 1762151880
+  },
+  "ACH_TRAIN": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_UNSTOPPABLE": {
+    "earned": false,
+    "earned_time": 0
+  }
+}
