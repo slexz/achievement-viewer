@@ -1,0 +1,234 @@
+{
+  "ALL_CRESTS": {
+    "earned": false,
+    "earned_time": 0,
+    "max_progress": 7,
+    "progress": 0
+  },
+  "ALL_MAPS": {
+    "earned": false,
+    "earned_time": 0,
+    "max_progress": 28,
+    "progress": 0
+  },
+  "ALL_MASKS": {
+    "earned": false,
+    "earned_time": 0,
+    "max_progress": 20,
+    "progress": 0
+  },
+  "ALL_SILK_HEARTS": {
+    "earned": false,
+    "earned_time": 0,
+    "max_progress": 3,
+    "progress": 0
+  },
+  "ALL_SILK_SKILLS": {
+    "earned": false,
+    "earned_time": 0,
+    "max_progress": 6,
+    "progress": 0
+  },
+  "ALL_SILK_SPOOLS": {
+    "earned": false,
+    "earned_time": 0,
+    "max_progress": 18,
+    "progress": 0
+  },
+  "ALL_TOOLS": {
+    "earned": false,
+    "earned_time": 0,
+    "max_progress": 51,
+    "progress": 0
+  },
+  "BELLHOME": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "BELLWAYS_FULL": {
+    "earned": false,
+    "earned_time": 0,
+    "max_progress": 10,
+    "progress": 0
+  },
+  "BELLWAY_MELODY": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "CITADEL_SONG": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "COMPLETION": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "DEFEATED_BELLBEAST": {
+    "earned": true,
+    "earned_time": 1757109012
+  },
+  "DEFEATED_COGWORK_DANCERS": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "DEFEATED_CORAL_KING": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "DEFEATED_FIRST_SINNER": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "DEFEATED_FLOWER_QUEEN": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "DEFEATED_GREEN_PRINCE": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "DEFEATED_HUNTER_QUEEN": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "DEFEATED_LACE_1": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "DEFEATED_LACE_2": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "DEFEATED_LAST_JUDGE_1": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "DEFEATED_PHANTOM_1": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "DEFEATED_SONG_GOLEM": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "DEFEATED_TROBBIO": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "DEFEATED_WIDOW": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ENDING_A": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ENDING_C": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ENDING_D": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ENDING_E": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "EVA_FINAL_QUEST": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "FIRST_CREST": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "FIRST_MASK": {
+    "earned": false,
+    "earned_time": 0,
+    "max_progress": 4,
+    "progress": 0
+  },
+  "FIRST_SILK_SKILL": {
+    "earned": true,
+    "earned_time": 1757016055
+  },
+  "FIRST_SILK_SPOOL": {
+    "earned": false,
+    "earned_time": 0,
+    "max_progress": 2,
+    "progress": 0
+  },
+  "FIRST_TOOL": {
+    "earned": true,
+    "earned_time": 1757014320
+  },
+  "FIRST_WISH": {
+    "earned": true,
+    "earned_time": 1757109193
+  },
+  "FLEAS_ALL": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "FLEAS_HALF": {
+    "earned": false,
+    "earned_time": 0,
+    "max_progress": 15,
+    "progress": 0
+  },
+  "GARMOND_FINAL_QUEST": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "GOURMAND_WISH": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "HERALD_WISH": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "JOURNAL_FULL": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "JOURNAL_HALF": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "PINSTRESS_WISH": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "SHAKRA_FINAL_QUEST": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "SPEEDRUN_1": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "SPEED_COMPLETION": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "STEEL_SOUL": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "STEEL_SOUL_FULL": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "TUBES_FULL": {
+    "earned": false,
+    "earned_time": 0,
+    "max_progress": 6,
+    "progress": 0
+  },
+  "WHITE_FLOWER_GAINED": {
+    "earned": false,
+    "earned_time": 0
+  }
+}
