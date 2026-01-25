@@ -56,8 +56,8 @@
     "earned_time": 1768202990
   },
   "AchCrushedThanatos": {
-    "earned": false,
-    "earned_time": 0
+    "earned": true,
+    "earned_time": 1769319754
   },
   "AchEliteAttributeKills": {
     "earned": false,
@@ -136,8 +136,8 @@
     "earned_time": 0
   },
   "AchOrpheusSingsAgain": {
-    "earned": false,
-    "earned_time": 0
+    "earned": true,
+    "earned_time": 1769323148
   },
   "AchPactUpgradesClears": {
     "earned": false,
