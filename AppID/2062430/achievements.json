@@ -1,0 +1,254 @@
+{
+  "100000_kills": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "1000_gold_harvest": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "1000_stone": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "1000_wheat": {
+    "earned": true,
+    "earned_time": 1762495728
+  },
+  "1000_wood": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "100_stone_harvest": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "100_wheat_harvest": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "100_wood_harvest": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "5000_gold": {
+    "earned": true,
+    "earned_time": 1762397576
+  },
+  "brickhead_all_levels": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "cogitator_all_levels": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "cohabitants_all_levels": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "collect_all_blueprints": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "complete_desert": {
+    "earned": true,
+    "earned_time": 1762415225
+  },
+  "complete_desert10": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "complete_encyclopedia": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "complete_fiery": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "complete_fiery10": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "complete_game": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "complete_graveyards": {
+    "earned": true,
+    "earned_time": 1762330773
+  },
+  "complete_graveyards10": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "complete_heaven": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "complete_heaven10": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "complete_savanna": {
+    "earned": true,
+    "earned_time": 1762496878
+  },
+  "complete_savanna10": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "complete_shroom": {
+    "earned": true,
+    "earned_time": 1762483103
+  },
+  "complete_shroom10": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "complete_snowy": {
+    "earned": true,
+    "earned_time": 1762382750
+  },
+  "complete_snowy10": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "complete_void": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "complete_void10": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "construct_bagmaker": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "construct_carpenter": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "construct_evochamber": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "construct_monument": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "construct_reliccollector": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "construct_trophy": {
+    "earned": true,
+    "earned_time": 1762381664
+  },
+  "construct_workersguild": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "create_deadeyescross": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "create_nosferatu": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "create_nuclearbomb": {
+    "earned": true,
+    "earned_time": 1762408451
+  },
+  "create_satan": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "create_soulreaver": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "embedded_all_levels": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "emptynester_all_levels": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "expand5": {
+    "earned": true,
+    "earned_time": 1762382792
+  },
+  "first_evo": {
+    "earned": true,
+    "earned_time": 1762375901
+  },
+  "first_fusion": {
+    "earned": true,
+    "earned_time": 1762374660
+  },
+  "flagellant_all_levels": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "fuse_evolved_balls": {
+    "earned": true,
+    "earned_time": 1762384812
+  },
+  "itchyfinger_all_levels": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "physicist_all_levels": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "place_15_houses": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "radicalai_all_levels": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "recaller_all_levels": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "shade_all_levels": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "sisyphus_all_levels": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "spendthrift_all_levels": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "stat_building_full_upgrade": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "stat_scaling_full_upgrade": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "tactician_all_levels": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "warrior_all_levels": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "wimp_all_levels": {
+    "earned": false,
+    "earned_time": 0
+  }
+}
