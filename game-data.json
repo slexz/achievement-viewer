@@ -1,6 +1,6 @@
 {
-  "last_updated": 1769323918,
-  "total_games": 4,
+  "last_updated": 1769394975,
+  "total_games": 3,
   "games": [
     {
       "appid": "1903340",
@@ -16,7 +16,7 @@
             "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1903340/666bef3123ee260c4f6960d2686a6e8f03c8c439.jpg",
             "hidden": true,
             "group": "Base Game",
-            "percent": "18.6"
+            "percent": "18.7"
           },
           "SERPENPHARE": {
             "name": "À On",
@@ -25,7 +25,7 @@
             "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1903340/e62c3a1f5a249fc32fe2652beb97364ddbdd7bce.jpg",
             "hidden": true,
             "group": "Base Game",
-            "percent": "24.9"
+            "percent": "25.0"
           },
           "LUMIERE_MIME": {
             "name": "A Peculiar Encounter",
@@ -34,7 +34,7 @@
             "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1903340/116758b973e6d42226cdb8d69ef63783b9595759.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "45.1"
+            "percent": "45.2"
           },
           "NEVRON_QUESTS": {
             "name": "Aiding the Enemy",
@@ -52,7 +52,7 @@
             "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1903340/16243a4bc7fae868263a18ecace79f6b87ee19bc.jpg",
             "hidden": true,
             "group": "Base Game",
-            "percent": "70.8"
+            "percent": "70.9"
           },
           "BACK_TO_LUMIERE": {
             "name": "Back to Lumière",
@@ -61,7 +61,7 @@
             "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1903340/134965999d594de3fb44bfb7d702a923ce2c9bd2.jpg",
             "hidden": true,
             "group": "Base Game",
-            "percent": "46.3"
+            "percent": "46.5"
           },
           "PETANK_ALPHA": {
             "name": "Carreau Parfait",
@@ -70,7 +70,7 @@
             "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1903340/ee9c9694673936e64cfda9197ac4aff0b9d31677.jpg",
             "hidden": true,
             "group": "Base Game",
-            "percent": "20.8"
+            "percent": "20.9"
           },
           "LVL3_GRADIENT_ATTACK": {
             "name": "Chroma Proficiency",
@@ -79,7 +79,7 @@
             "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1903340/a7de5c2d546612982ec8dac6307c0bb236deb222.jpg",
             "hidden": true,
             "group": "Base Game",
-            "percent": "27.4"
+            "percent": "27.6"
           },
           "CLEA": {
             "name": "Clea",
@@ -88,7 +88,7 @@
             "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1903340/c0f618d59ada226fc7eb4d4da836cf00916917da.jpg",
             "hidden": true,
             "group": "Base Game",
-            "percent": "20.2"
+            "percent": "20.3"
           },
           "ALL_SONGS": {
             "name": "Connoisseur",
@@ -97,7 +97,7 @@
             "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1903340/f8c261b7bbc52967152f205ee5739c5471c57d26.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "9.7"
+            "percent": "9.8"
           },
           "OPTIONAL_CAMP": {
             "name": "Curious",
@@ -106,7 +106,7 @@
             "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1903340/bf46ac3a8691b02c833b93d124425d4922195dfb.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "71.3"
+            "percent": "71.4"
           },
           "ESQUIE_RELATIONSHIP": {
             "name": "Esquie",
@@ -115,7 +115,7 @@
             "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1903340/5181a12e1d240a38e11f4bb9c6e94d13d1fdac84.jpg",
             "hidden": true,
             "group": "Base Game",
-            "percent": "30.9"
+            "percent": "31.1"
           },
           "ESQUIES_NEST": {
             "name": "Esquie's Nest",
@@ -124,7 +124,7 @@
             "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1903340/3c2c617d8c4ddfd9cd9dda260c76efee5a3e18f6.jpg",
             "hidden": true,
             "group": "Base Game",
-            "percent": "67.1"
+            "percent": "67.2"
           },
           "ALL_CHARACTERS": {
             "name": "Expedition 33",
@@ -133,7 +133,7 @@
             "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1903340/010f6f1c7dcbf1fe29f5a2098f7136446c269132.jpg",
             "hidden": true,
             "group": "Base Game",
-            "percent": "57.2"
+            "percent": "57.3"
           },
           "LEVEL_33": {
             "name": "Expeditioner",
@@ -142,7 +142,7 @@
             "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1903340/459eae107d426e55d0ade6ce65e98bec756310c8.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "53.9"
+            "percent": "54.0"
           },
           "ALL_MONOCO_SKILLS": {
             "name": "Feet Collection",
@@ -151,7 +151,7 @@
             "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1903340/90783dcecfde9c3359113a58688a76bb975734e6.jpg",
             "hidden": true,
             "group": "Base Game",
-            "percent": "14.5"
+            "percent": "14.6"
           },
           "FIRST_AXON": {
             "name": "First Axon",
@@ -160,7 +160,7 @@
             "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1903340/5a6b40fe2bfed7a199a70aeeee6b8b32c86ab0da.jpg",
             "hidden": true,
             "group": "Base Game",
-            "percent": "51.8"
+            "percent": "52.0"
           },
           "FLYING_WATERS": {
             "name": "Flying Waters",
@@ -169,7 +169,7 @@
             "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1903340/1bd3aa1af1768d52fcbaca6b21ca5761b788c945.jpg",
             "hidden": true,
             "group": "Base Game",
-            "percent": "74.3"
+            "percent": "74.4"
           },
           "JOURNALS": {
             "name": "Follow The Trail",
@@ -178,7 +178,7 @@
             "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1903340/8e4b22996ded83313c0e688b633e001d7ed73fc9.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "9.8"
+            "percent": "9.9"
           },
           "FORGOTTEN_BATTLEFIELD": {
             "name": "Forgotten Battlefield",
@@ -187,7 +187,7 @@
             "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1903340/79b61676145e4c151eb2926185afd87fe989ea0e.jpg",
             "hidden": true,
             "group": "Base Game",
-            "percent": "58.3"
+            "percent": "58.5"
           },
           "GESTRAL_BEACH": {
             "name": "Gestral Games",
@@ -205,7 +205,7 @@
             "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1903340/75728078954be60bdb48b3f2a894e4ed1481ee48.jpg",
             "hidden": true,
             "group": "Base Game",
-            "percent": "68.5"
+            "percent": "68.6"
           },
           "ESQUIE_UNLOCK": {
             "name": "Legend",
@@ -214,7 +214,7 @@
             "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1903340/5181a12e1d240a38e11f4bb9c6e94d13d1fdac84.jpg",
             "hidden": true,
             "group": "Base Game",
-            "percent": "67.1"
+            "percent": "67.2"
           },
           "LOST_GESTRALS": {
             "name": "Lost Gestrals",
@@ -223,7 +223,7 @@
             "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1903340/17ce0397bf7cb226130d73d39c5f0c8571a66228.jpg",
             "hidden": true,
             "group": "Base Game",
-            "percent": "15.0"
+            "percent": "15.1"
           },
           "LUMIERE": {
             "name": "Lumière",
@@ -241,7 +241,7 @@
             "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1903340/2fb6f89282c281f4bc2625aeacebe2bd60d99ae8.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "71.8"
+            "percent": "71.9"
           },
           "LUNE_RELATIONSHIP": {
             "name": "Lune",
@@ -250,7 +250,7 @@
             "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1903340/06b4d42d5de4593ba4d411bf3e426a64ad4a981b.jpg",
             "hidden": true,
             "group": "Base Game",
-            "percent": "30.5"
+            "percent": "30.7"
           },
           "MAELLE_RELATIONSHIP": {
             "name": "Maelle",
@@ -259,7 +259,7 @@
             "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1903340/28aefcb508e584aa7720478a18110de2ceb4f186.jpg",
             "hidden": true,
             "group": "Base Game",
-            "percent": "29.9"
+            "percent": "30.0"
           },
           "SCIEL_FORETELL": {
             "name": "Maximization",
@@ -268,7 +268,7 @@
             "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1903340/d4a970cb0a8d83612b256f0799e8939596a4b2fa.jpg",
             "hidden": true,
             "group": "Base Game",
-            "percent": "34.5"
+            "percent": "34.6"
           },
           "MONOCO_RELATIONSHIP": {
             "name": "Monoco",
@@ -277,7 +277,7 @@
             "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1903340/708e84b0893e2d303f21b73a433fe00ae36675b5.jpg",
             "hidden": true,
             "group": "Base Game",
-            "percent": "28.1"
+            "percent": "28.3"
           },
           "GRANDIS_STATION": {
             "name": "Monoco's Station",
@@ -286,7 +286,7 @@
             "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1903340/d6d7e79ea6cb117920423a2b2578a522c500a5c9.jpg",
             "hidden": true,
             "group": "Base Game",
-            "percent": "57.1"
+            "percent": "57.2"
           },
           "MONOLITH": {
             "name": "Monolith",
@@ -295,7 +295,7 @@
             "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1903340/10cefd7d61852b3904f6d1fd326411fe82e3f622.jpg",
             "hidden": true,
             "group": "Base Game",
-            "percent": "49.4"
+            "percent": "49.6"
           },
           "PAINTING_WORKSHOP": {
             "name": "Noir et Blanc",
@@ -304,7 +304,7 @@
             "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1903340/a86a6bd0cf0f4d4768dfb453b73efe2fcff3aaa6.jpg",
             "hidden": true,
             "group": "Base Game",
-            "percent": "19.1"
+            "percent": "19.2"
           },
           "OLD_LUMIERE": {
             "name": "Old Lumière",
@@ -313,7 +313,7 @@
             "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1903340/3f95d91bfaa0d5de3efd887f200ad347bca668a6.jpg",
             "hidden": true,
             "group": "Base Game",
-            "percent": "54.7"
+            "percent": "54.9"
           },
           "GUSTAVE_OVERCHARGE": {
             "name": "Overcharge",
@@ -340,7 +340,7 @@
             "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1903340/c7e20810e253cd4f15809511f7d5ed64e4e91c5b.jpg",
             "hidden": true,
             "group": "Base Game",
-            "percent": "46.7"
+            "percent": "46.9"
           },
           "SIMON": {
             "name": "Peace At Last",
@@ -358,7 +358,7 @@
             "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1903340/9982734563dd247451e61b32041f700740d27297.jpg",
             "hidden": true,
             "group": "Base Game",
-            "percent": "49.8"
+            "percent": "49.9"
           },
           "VERSO_PERFECTION": {
             "name": "Perfection",
@@ -367,7 +367,7 @@
             "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1903340/05734ee5e04508e931da911e6d68cc6a27e6d67e.jpg",
             "hidden": true,
             "group": "Base Game",
-            "percent": "56.2"
+            "percent": "56.3"
           },
           "ESQUIE_UPGRADES": {
             "name": "Plane, Train, and Submarine",
@@ -376,7 +376,7 @@
             "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1903340/19a606703fa581feaa8fe8581bc6146f5e77cc1a.jpg",
             "hidden": true,
             "group": "Base Game",
-            "percent": "33.6"
+            "percent": "33.8"
           },
           "NO_DAMAGE_BOSS": {
             "name": "Professional",
@@ -385,7 +385,7 @@
             "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1903340/148809abf1e8bd9a5db902a1d4623dc7143eb6fb.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "51.1"
+            "percent": "51.2"
           },
           "SCIEL_RELATIONSHIP": {
             "name": "Sciel",
@@ -394,7 +394,7 @@
             "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1903340/e311c52896785463fefcc65981f1c4fa45694cff.jpg",
             "hidden": true,
             "group": "Base Game",
-            "percent": "32.2"
+            "percent": "32.3"
           },
           "SECOND_AXON": {
             "name": "Second Axon",
@@ -403,7 +403,7 @@
             "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1903340/4d8017c91fa592fe5892a08a130d62dd3c95a950.jpg",
             "hidden": true,
             "group": "Base Game",
-            "percent": "50.2"
+            "percent": "50.4"
           },
           "SPRING_MEADOWS": {
             "name": "Spring Meadows",
@@ -421,7 +421,7 @@
             "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1903340/da2d99002428f819909fdb418c85cc191a931069.jpg",
             "hidden": true,
             "group": "Base Game",
-            "percent": "32.0"
+            "percent": "32.2"
           },
           "STONE_WAVE_CLIFFS": {
             "name": "Stone Wave Cliffs",
@@ -430,7 +430,7 @@
             "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1903340/78bcdfc829c30d4bf47a3d90b4f15a82bb010b09.jpg",
             "hidden": true,
             "group": "Base Game",
-            "percent": "62.3"
+            "percent": "62.4"
           },
           "LEVEL_99": {
             "name": "Survivor",
@@ -448,7 +448,7 @@
             "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1903340/26b6bf703dfbf65c102b5d2a48b99522c38e9b75.jpg",
             "hidden": true,
             "group": "Base Game",
-            "percent": "43.5"
+            "percent": "43.6"
           },
           "THE_END": {
             "name": "The End",
@@ -457,7 +457,7 @@
             "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1903340/d451fa9a94d7fe423e713ccdd7d37cbce6176f90.jpg",
             "hidden": true,
             "group": "Base Game",
-            "percent": "37.7"
+            "percent": "38.0"
           },
           "BREAK": {
             "name": "Time to Spill Some Ink",
@@ -475,7 +475,7 @@
             "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1903340/1cdc4c9918c0c80b5853b827f058965d3a2ccb47.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "32.6"
+            "percent": "32.8"
           },
           "WEAPON_FULL_UPGRADE": {
             "name": "Weapon Mastery",
@@ -484,7 +484,7 @@
             "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1903340/b0669aed88896cce28ceb6b67f70c25951e051b7.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "25.0"
+            "percent": "25.1"
           },
           "WEAPON_FIRST_UPGRADE": {
             "name": "Weapon Upgrade",
@@ -493,7 +493,7 @@
             "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1903340/aa9b4191bee77929898ef9803c0ae52f36057a0c.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "72.4"
+            "percent": "72.5"
           },
           "MONOCO_WHEEL": {
             "name": "Wheel Control",
@@ -502,7 +502,7 @@
             "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1903340/0e9ceff4d0e2377a2ec3a950ba408752ccc768be.jpg",
             "hidden": true,
             "group": "Base Game",
-            "percent": "27.4"
+            "percent": "27.6"
           }
         },
         "platform": null,
@@ -733,658 +733,6 @@
       }
     },
     {
-      "appid": "1145360",
-      "info": {
-        "appid": "1145360",
-        "name": "Hades",
-        "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1145360/header.jpg?t=1758127023",
-        "achievements": {
-          "AchUnlockedAllWeapons": {
-            "name": "Arms Collector",
-            "description": "Unlock each of the Infernal Arms",
-            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1145360/c44928fe7cd58ab1de32bedc19ad8742e7fbd46b.jpg",
-            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1145360/09cee821f6b5843b332a81edee3b86c62a26b51c.jpg",
-            "hidden": false,
-            "group": "Base Game",
-            "percent": "63.2"
-          },
-          "AchAccessAdminChamber": {
-            "name": "Back to Work",
-            "description": "Earn access to and enter the Administrative Chamber",
-            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1145360/1776a30454aa801d3399011caad961405ec9f002.jpg",
-            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1145360/b7c76cc4b66e34f402827320e75b4dc029a82b54.jpg",
-            "hidden": false,
-            "group": "Base Game",
-            "percent": "35.0"
-          },
-          "AchGreaterCallSpurned": {
-            "name": "Bad Call",
-            "description": "Use an Olympian's Greater Call against them in a Trial",
-            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1145360/03cec4faf34c7e6f36206622e52c81bc4879e993.jpg",
-            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1145360/f8a9c89952662a15f4b0e7b44f09ef14eb79f72c.jpg",
-            "hidden": false,
-            "group": "Base Game",
-            "percent": "12.9"
-          },
-          "AchPickedManyBoons": {
-            "name": "Blessed by the Gods",
-            "description": "Choose 100 different Olympian Boon effects",
-            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1145360/c1643a221427393ed8219c07dc0f9f3d7c03ad6f.jpg",
-            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1145360/f68fe71d22bb46cca8b91b83bf6107aacb3da6ba.jpg",
-            "hidden": false,
-            "group": "Base Game",
-            "percent": "33.6"
-          },
-          "AchMaxedAnyAspect": {
-            "name": "Blood Bound",
-            "description": "Max any Weapon Aspect",
-            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1145360/e3bb07b7634343df913679d4339d30ada76b92c9.jpg",
-            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1145360/02e4de86cc81d95919e5a7d971754e315d5f9fce.jpg",
-            "hidden": false,
-            "group": "Base Game",
-            "percent": "32.3"
-          },
-          "AchClearElysiumEM": {
-            "name": "Champion of Elysium",
-            "description": "Clear Elysium with the 'Extreme Measures' Condition",
-            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1145360/2556b5d122c23c3bf105f99ba0f08e24fae42e05.jpg",
-            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1145360/4781419a5b3e79ffd2186a32cf7373633df2cb46.jpg",
-            "hidden": false,
-            "group": "Base Game",
-            "percent": "13.6"
-          },
-          "AchMeetChthonicGods": {
-            "name": "Chthonic Colleagues",
-            "description": "Fulfill the 'Chthonic Colleagues' Prophecy",
-            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1145360/b76ca2f12ea9979c95ae86963f667652d43681a3.jpg",
-            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1145360/e28192c410d830e03c927e960ef2d99d75fc5399.jpg",
-            "hidden": false,
-            "group": "Base Game",
-            "percent": "56.8"
-          },
-          "AchFoundAllSummons": {
-            "name": "Complete Set",
-            "description": "Earn all Chthonic Companions",
-            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1145360/aa9c66d2af7aa367490f953e54829b9c95fef474.jpg",
-            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1145360/383e6ad31e9220702766ec8d241eaacc32c480e1.jpg",
-            "hidden": false,
-            "group": "Base Game",
-            "percent": "6.8"
-          },
-          "AchMirrorUpgradeClears": {
-            "name": "Dark Reflections",
-            "description": "Fulfill the 'Dark Reflections' Prophecy",
-            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1145360/a0c5d48ab08be24d5da63f5e28876ce619d5992f.jpg",
-            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1145360/52a2996718b8e46b9d8086e627cf66b709b9113d.jpg",
-            "hidden": false,
-            "group": "Base Game",
-            "percent": "9.0"
-          },
-          "AchManyBrokerTrades": {
-            "name": "Day-or-Night Trader",
-            "description": "Trade 20 times with the Wretched Broker",
-            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1145360/4b7482ff88a54dc9b4a45caa47dead8d1974420f.jpg",
-            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1145360/6cd96e67dc6bb32b95fcd6ffbab9cfa4aed4f268.jpg",
-            "hidden": false,
-            "group": "Base Game",
-            "percent": "35.4"
-          },
-          "AchCrushedThanatos": {
-            "name": "Death Dealer",
-            "description": "Beat Thanatos by 15 kills or more",
-            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1145360/7967d292c27c0648e858de0a732e95e261b0ecd7.jpg",
-            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1145360/7cf63dd41ed27dce8a5e856be96d25fa1a0637ec.jpg",
-            "hidden": false,
-            "group": "Base Game",
-            "percent": "43.3"
-          },
-          "AchMyrmidonReunion": {
-            "name": "Divided by Death",
-            "description": "Fulfill the 'Divided by Death' Prophecy",
-            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1145360/1136200c4e397c4ff3af5c97d3f0d16614dac1d7.jpg",
-            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1145360/00d54e8e54ab6ce516d64cc2e8ee7f651bb1b90d.jpg",
-            "hidden": false,
-            "group": "Base Game",
-            "percent": "8.5"
-          },
-          "AchSisyphusLiberation": {
-            "name": "End to Torment",
-            "description": "Fulfill the 'End to Torment' Prophecy",
-            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1145360/437398a6a89d53e5a114fb11bc2ee538e990349e.jpg",
-            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1145360/0c11f316f61f451afee1d8aa32a2f3e86a5c7556.jpg",
-            "hidden": false,
-            "group": "Base Game",
-            "percent": "10.1"
-          },
-          "AchClearAsphodel": {
-            "name": "Escaped Asphodel",
-            "description": "Clear Asphodel",
-            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1145360/202d5cd97dd3b727e0eaa8ffc02a62dcf67cd5d7.jpg",
-            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1145360/dd8b6056196f8b7e209ef9323c81bbf48aba094b.jpg",
-            "hidden": false,
-            "group": "Base Game",
-            "percent": "72.9"
-          },
-          "AchClearElysium": {
-            "name": "Escaped Elysium",
-            "description": "Clear Elysium",
-            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1145360/88462d92e0873977f421761575c97d64a35c7519.jpg",
-            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1145360/8c6f2d9c0f260b491306c43c59e651a63d9ded4d.jpg",
-            "hidden": false,
-            "group": "Base Game",
-            "percent": "59.6"
-          },
-          "AchClearTartarus": {
-            "name": "Escaped Tartarus",
-            "description": "Clear Tartarus",
-            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1145360/062a2b7bdc156af9438bdc440a19833addd2ae38.jpg",
-            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1145360/4c936bef605fe82e00145c7b37287a13cd690af3.jpg",
-            "hidden": false,
-            "group": "Base Game",
-            "percent": "82.3"
-          },
-          "AchLeveledKeepsakes": {
-            "name": "Friends Forever",
-            "description": "Max-rank each standard Keepsake",
-            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1145360/27423565bd81b365b8ec37462e44c6215df26beb.jpg",
-            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1145360/571216ba8c64583791e8f60de07cde74c0e0c1f7.jpg",
-            "hidden": false,
-            "group": "Base Game",
-            "percent": "5.9"
-          },
-          "AchGreaterCall": {
-            "name": "Friends in High Places",
-            "description": "Use Greater Call to invoke an Olympian's aid",
-            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1145360/7e1ab5c124e5dd635afa5fe19f473c68fcd6c7a0.jpg",
-            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1145360/d2bfe11ad7b32b228b83c57a2f8769e3ef0249e8.jpg",
-            "hidden": false,
-            "group": "Base Game",
-            "percent": "62.9"
-          },
-          "AchForgedBond": {
-            "name": "Grown Close",
-            "description": "Forge a bond with any character",
-            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1145360/e60877f10cbb1e5e39d20d11dbbb5d18e241bf23.jpg",
-            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1145360/c184bff0b8730bc5a0701407c8db84e23dd64a3b.jpg",
-            "hidden": false,
-            "group": "Base Game",
-            "percent": "26.7"
-          },
-          "AchManyQuests": {
-            "name": "Had to Happen",
-            "description": "Fulfill any 15 Prophecies",
-            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1145360/9fc644bf5aa2091bc5f1f660e69c4eb5a27c66fd.jpg",
-            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1145360/4816a943b9819ff3c41637d02d6d007626295283.jpg",
-            "hidden": false,
-            "group": "Base Game",
-            "percent": "22.6"
-          },
-          "AchPactUpgradesClears": {
-            "name": "Harsh Conditions",
-            "description": "Fulfill the 'Harsh Conditions' Prophecy",
-            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1145360/40d01fbcb70ed7eeb41c98244683895f7b2befec.jpg",
-            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1145360/8c4340240899532ff7439268cf40634b6c5bd15e.jpg",
-            "hidden": false,
-            "group": "Base Game",
-            "percent": "7.8"
-          },
-          "AchBuffedPlume": {
-            "name": "Haste of Hermes",
-            "description": "Get 20% dodge chance with the Lambent Plume",
-            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1145360/5dbe89eed58da232615918addfc856441465ca04.jpg",
-            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1145360/97d37a019e3c2e84b8887ed633f2a4d5b395d36e.jpg",
-            "hidden": false,
-            "group": "Base Game",
-            "percent": "13.1"
-          },
-          "AchClearHeatGate": {
-            "name": "Hold the Onions",
-            "description": "Clear an Infernal Gate without taking damage",
-            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1145360/9c533183452db35626388fe7553f55397804b7db.jpg",
-            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1145360/ec47aefef8af9a3547ff9477c5e0ecc3825e0940.jpg",
-            "hidden": false,
-            "group": "Base Game",
-            "percent": "17.5"
-          },
-          "AchManyCosmetics": {
-            "name": "Home Makeover",
-            "description": "Pay for 50 jobs from the House Contractor",
-            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1145360/4c17f85a0562d743eff491f27a29e80a43267e4d.jpg",
-            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1145360/072d9a1a9a858d9845d89d27702132251ecb056a.jpg",
-            "hidden": false,
-            "group": "Base Game",
-            "percent": "24.3"
-          },
-          "ActUnlockedAllAspects": {
-            "name": "Infernal Arms",
-            "description": "Unlock all Weapon Aspects",
-            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1145360/35779dd3575af4fcc9b4aa9e42c5639dd4ff5ded.jpg",
-            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1145360/32d7dfaf32cbfe2b66b4c229820aaa585d5f03e0.jpg",
-            "hidden": false,
-            "group": "Base Game",
-            "percent": "9.3"
-          },
-          "AchClearAnyRun": {
-            "name": "Is There No Escape?",
-            "description": "Clear an escape attempt",
-            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1145360/1e04b5827b4aaf83024c2fb4a4f442dca3662e84.jpg",
-            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1145360/82503cdccf3c215bb576d5ad46b8e2a3fb686112.jpg",
-            "hidden": false,
-            "group": "Base Game",
-            "percent": "47.4"
-          },
-          "AchWeaponClears": {
-            "name": "Master of Arms",
-            "description": "Fulfill the 'Master of Arms' Prophecy",
-            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1145360/abcab80ccd1d60a51fc5a0f395f882d324d937f6.jpg",
-            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1145360/1a0e71122c8f3121cc8fc783a5b66b6fe2b1313b.jpg",
-            "hidden": false,
-            "group": "Base Game",
-            "percent": "20.0"
-          },
-          "AchSingersReunion": {
-            "name": "Musician and Muse",
-            "description": "Fulfill the 'Musician and Muse' Prophecy",
-            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1145360/b423ba32aca9b61638d11b091cd3d846cf4cd9c0.jpg",
-            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1145360/960cf10648d010198f5702b6a85c7c2d4e721b3e.jpg",
-            "hidden": false,
-            "group": "Base Game",
-            "percent": "13.6"
-          },
-          "AchNyxChaosReunion": {
-            "name": "Night and Darkness",
-            "description": "Fulfill the 'Night and Darkness' Prophecy",
-            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1145360/fa367c6ffb8495cdaac17bdfdccfe358e3a089fe.jpg",
-            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1145360/d9de4abaa647abe8a8d076f305ba3d6623084765.jpg",
-            "hidden": false,
-            "group": "Base Game",
-            "percent": "10.5"
-          },
-          "AchMirrorAllUnlocked": {
-            "name": "Nyx's Mirror",
-            "description": "Have at least one rank in each Mirror of Night Talent",
-            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1145360/e8a52646444bacaaf3899bc7bb22f05ab2e5223f.jpg",
-            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1145360/17dda5279c9827fa7f73ff10351de0c6995f4cd8.jpg",
-            "hidden": false,
-            "group": "Base Game",
-            "percent": "11.9"
-          },
-          "AchReachedEpilogue": {
-            "name": "One for the Ages",
-            "description": "Reach the epilogue of the story",
-            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1145360/6065e9fa889e953201201a062d0a8f8dd75e943e.jpg",
-            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1145360/bc46c4d195916c675961b99ac6b85b82c9c6194f.jpg",
-            "hidden": false,
-            "group": "Base Game",
-            "percent": "8.4"
-          },
-          "AchFoundSummon": {
-            "name": "Rare Collectible",
-            "description": "Equip a Chthonic Companion",
-            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1145360/880d43e5490ecfb7ad5ba2f8c1b2b32911dcfd36.jpg",
-            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1145360/5b8a81ff60623313d939612637db3eaeadea9bb2.jpg",
-            "hidden": false,
-            "group": "Base Game",
-            "percent": "20.4"
-          },
-          "AchFishFromEachBiome": {
-            "name": "River Denizens",
-            "description": "Catch a fish from each region",
-            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1145360/a55792a3a2608483e8eef70455a9607b97c87bf9.jpg",
-            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1145360/f3a8943fccd7b910a274876d503dd28f13474929.jpg",
-            "hidden": false,
-            "group": "Base Game",
-            "percent": "25.7"
-          },
-          "AchSkellyKills": {
-            "name": "Skelly Slayer",
-            "description": "Slay Skelly 15 times",
-            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1145360/a43007a0bc3131c5eff646d2826a8aed25f46572.jpg",
-            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1145360/d906f027d0660ddf293dde23d61e50986e8af1a9.jpg",
-            "hidden": false,
-            "group": "Base Game",
-            "percent": "41.0"
-          },
-          "AchSilverSkellyTrophy": {
-            "name": "Skelly's Last Lamentations",
-            "description": "Earn the second of Skelly's prizes",
-            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1145360/5cb095fe7abc9fdf7340bc25637e97fab4fa682d.jpg",
-            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1145360/7f28d8f536199e50ca7be805c23823d35ef97cd8.jpg",
-            "hidden": false,
-            "group": "Base Game",
-            "percent": "7.4"
-          },
-          "AchEliteAttributeKills": {
-            "name": "Slashed Benefits",
-            "description": "Fulfill the 'Slashed Benefits' Prophecy",
-            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1145360/49532f6187591c23b3d39760c87e5ad82e7d37c1.jpg",
-            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1145360/1824561b0915984fd69edb9445cc2fab3a5bf6a9.jpg",
-            "hidden": false,
-            "group": "Base Game",
-            "percent": "12.1"
-          },
-          "AchFoundKeepsakes": {
-            "name": "Something From Everyone",
-            "description": "Unlock each standard Keepsake",
-            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1145360/d817eec3019bbcc10a17195fd202fb4509a13835.jpg",
-            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1145360/73ac4c443921b62bd3ddd9697fecb165d6e709fb.jpg",
-            "hidden": false,
-            "group": "Base Game",
-            "percent": "17.8"
-          },
-          "AchPurgedLegendBoon": {
-            "name": "Thanks, But No Thanks",
-            "description": "Purge a Legendary Boon",
-            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1145360/138da3abcf890220c6807afb13642cc950282466.jpg",
-            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1145360/673471051f91424a370be09f3046071c8c61f733.jpg",
-            "hidden": false,
-            "group": "Base Game",
-            "percent": "12.2"
-          },
-          "AchReachedEnding": {
-            "name": "The Family Secret",
-            "description": "Complete the main quest in the story",
-            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1145360/003c20be2db8daa201cff8f3273d2f8fcf0b3c4a.jpg",
-            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1145360/31843081dab02ecb79f8fbbc7bc30d9b0cc4c33e.jpg",
-            "hidden": false,
-            "group": "Base Game",
-            "percent": "23.8"
-          },
-          "AchBronzeSkellyTrophy": {
-            "name": "The Useless Trinket",
-            "description": "Earn the first of Skelly's prizes",
-            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1145360/4c4be2fc0e6f1c6906e41ac2aa3a9d87985e7a98.jpg",
-            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1145360/7f28d8f536199e50ca7be805c23823d35ef97cd8.jpg",
-            "hidden": false,
-            "group": "Base Game",
-            "percent": "12.6"
-          },
-          "AchBuffedButterfly": {
-            "name": "Thorn of Thanatos",
-            "description": "Get 30% bonus damage with the Pierced Butterfly",
-            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1145360/97caa23cdfb43ae581ee56c0b3b4eaadd7eda49d.jpg",
-            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1145360/250a486032b2de409cb9425da20b1f82bdb4d61f.jpg",
-            "hidden": false,
-            "group": "Base Game",
-            "percent": "7.4"
-          },
-          "AchCerberusPets": {
-            "name": "Three-Headed Boy",
-            "description": "Pet Cerberus 10 times",
-            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1145360/e29db983a563aef28a1ba6a82517f0c6a837d97c.jpg",
-            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1145360/46959aac8270d614760f82e4d8565d50a4bfd6ec.jpg",
-            "hidden": false,
-            "group": "Base Game",
-            "percent": "35.8"
-          },
-          "AchBeatCharon": {
-            "name": "To Charon's Credit",
-            "description": "Earn a Loyalty Card",
-            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1145360/f43f1e57a7cac838c15ad7e61936038cf003eecd.jpg",
-            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1145360/1e836fa9692cfda365c0d1d83068dd8e1ab2a0f7.jpg",
-            "hidden": false,
-            "group": "Base Game",
-            "percent": "22.5"
-          },
-          "AchPickedManyHammers": {
-            "name": "Tools of the Architect",
-            "description": "Choose 50 different Daedalus Hammer enchantments",
-            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1145360/5cc8c6f4c07269c501cc94d15008bfe935a80036.jpg",
-            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1145360/0e1cb7f606f659315bf88761db463defffeec7ba.jpg",
-            "hidden": false,
-            "group": "Base Game",
-            "percent": "20.7"
-          },
-          "AchOrpheusSingsAgain": {
-            "name": "Urge to Sing",
-            "description": "Compel Orpheus to sing again",
-            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1145360/3cdb7ffbc8fa9cef4e0e46fc7fcd0f41063eaa65.jpg",
-            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1145360/e6fb744aa5a9930540a235ca49d85f2dc9da4369.jpg",
-            "hidden": false,
-            "group": "Base Game",
-            "percent": "32.2"
-          },
-          "AchAresKills": {
-            "name": "War-God's Bloodlust",
-            "description": "Fulfill the 'War-God's Bloodlust' Prophecy",
-            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1145360/c6cb9013e2ff24fa967d60e339c7a1bf2cf3b0c7.jpg",
-            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1145360/a23ee65fa41590316dd633c1f42c352c19b6488b.jpg",
-            "hidden": false,
-            "group": "Base Game",
-            "percent": "14.8"
-          },
-          "AchClearRun4thAspect": {
-            "name": "Weapon of Fate",
-            "description": "Clear an escape attempt with a hidden Weapon Aspect",
-            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1145360/06ae59ceaedac2b66b2d7ed8da68d64838c4bb82.jpg",
-            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1145360/7afc7adee8813f8905e99526255633f7f904e3ce.jpg",
-            "hidden": false,
-            "group": "Base Game",
-            "percent": "19.4"
-          },
-          "AchWellShopItems": {
-            "name": "Well Stocked",
-            "description": "Buy 9 'Well of Charon' items in one escape attempt",
-            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1145360/8f2852034f35b54ad9bfa0724edb99e035d4000f.jpg",
-            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1145360/13a8384c7167c517b8a9bea743af722dbd1b1cbb.jpg",
-            "hidden": false,
-            "group": "Base Game",
-            "percent": "40.0"
-          },
-          "AchOlympiansCodex": {
-            "name": "Well Versed",
-            "description": "Fully Unlock the Olympians' Codex entries",
-            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1145360/9b59e00276851d852f7b88ed065d47c4e3d5ca59.jpg",
-            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1145360/7e2acf613c25e1d19d61f92d3030846a706c583f.jpg",
-            "hidden": false,
-            "group": "Base Game",
-            "percent": "15.9"
-          }
-        },
-        "platform": null,
-        "blacklist": [],
-        "uses_db": false
-      },
-      "achievements": {
-        "AchAccessAdminChamber": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "AchAresKills": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "AchBeatCharon": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "AchBronzeSkellyTrophy": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "AchBuffedButterfly": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "AchBuffedPlume": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "AchCerberusPets": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "AchClearAnyRun": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "AchClearAsphodel": {
-          "earned": true,
-          "earned_time": 1768250279
-        },
-        "AchClearElysium": {
-          "earned": true,
-          "earned_time": 1769073312
-        },
-        "AchClearElysiumEM": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "AchClearHeatGate": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "AchClearRun4thAspect": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "AchClearTartarus": {
-          "earned": true,
-          "earned_time": 1768202990
-        },
-        "AchCrushedThanatos": {
-          "earned": true,
-          "earned_time": 1769319754
-        },
-        "AchEliteAttributeKills": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "AchFishFromEachBiome": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "AchForgedBond": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "AchFoundAllSummons": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "AchFoundKeepsakes": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "AchFoundSummon": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "AchGreaterCall": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "AchGreaterCallSpurned": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "AchLeveledKeepsakes": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "AchManyBrokerTrades": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "AchManyCosmetics": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "AchManyQuests": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "AchMaxedAnyAspect": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "AchMeetChthonicGods": {
-          "earned": true,
-          "earned_time": 1768277655
-        },
-        "AchMirrorAllUnlocked": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "AchMirrorUpgradeClears": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "AchMyrmidonReunion": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "AchNyxChaosReunion": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "AchOlympiansCodex": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "AchOrpheusSingsAgain": {
-          "earned": true,
-          "earned_time": 1769323148
-        },
-        "AchPactUpgradesClears": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "AchPickedManyBoons": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "AchPickedManyHammers": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "AchPurgedLegendBoon": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "AchReachedEnding": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "AchReachedEpilogue": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "AchSilverSkellyTrophy": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "AchSingersReunion": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "AchSisyphusLiberation": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "AchSkellyKills": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "AchUnlockedAllWeapons": {
-          "earned": true,
-          "earned_time": 1769076612
-        },
-        "AchWeaponClears": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "AchWellShopItems": {
-          "earned": true,
-          "earned_time": 1768250579
-        },
-        "ActUnlockedAllAspects": {
-          "earned": false,
-          "earned_time": 0
-        }
-      }
-    },
-    {
       "appid": "1684930",
       "info": {
         "appid": "1684930",
@@ -1434,7 +782,7 @@
             "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1684930/d406cd055cb74be9b631f18adf62ad1c35907016.jpg",
             "hidden": true,
             "group": "Base Game",
-            "percent": "40.0"
+            "percent": "40.1"
           },
           "ACH_SOAP": {
             "name": "Don't tell David",
@@ -1650,7 +998,7 @@
             "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1684930/8fb96f803c7be3dc4c08f48e6bc608aa8379eb45.jpg",
             "hidden": false,
             "group": "CULTIC: Chapter Two",
-            "percent": "12.2"
+            "percent": "12.3"
           },
           "ACH_HEADSHOT_PEN": {
             "name": "Stack 'em Up",
@@ -1704,7 +1052,7 @@
             "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1684930/b4bbaf3b523738f462ad8db57ee4c488cfcbda84.jpg",
             "hidden": true,
             "group": "CULTIC: Chapter Two",
-            "percent": "7.5"
+            "percent": "7.6"
           }
         },
         "platform": null,
@@ -1872,7 +1220,7 @@
             "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1145350/80dc1ec718bfdfad65164abcce19a1f8b7b3beab.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "30.5"
+            "percent": "30.4"
           },
           "AchAllFamiliars": {
             "name": "Animal Whisperer",
@@ -1890,7 +1238,7 @@
             "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1145350/f0970836f53e274e7b28193ba89c7e8f7e6d39b2.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "14.0"
+            "percent": "13.9"
           },
           "AchClearWithAllAspects": {
             "name": "Bearing Dark Gifts",
@@ -1926,7 +1274,7 @@
             "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1145350/1731de7007a4539362a073676c76710a16ea9ac5.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "9.1"
+            "percent": "9.0"
           },
           "AchAllArcana": {
             "name": "Breadth of Knowledge",
@@ -1935,7 +1283,7 @@
             "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1145350/575bd330783b5a014724e461920803c25680f318.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "34.6"
+            "percent": "34.5"
           },
           "AchSummonSiren": {
             "name": "Breaking Up the Band",
@@ -1944,7 +1292,7 @@
             "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1145350/6d198c14e5153963cbf0aa8d4399a4368bdc51dc.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "20.7"
+            "percent": "20.6"
           },
           "AchFishingPier": {
             "name": "Catch of the Night",
@@ -1953,7 +1301,7 @@
             "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1145350/938b874492943d462994f7f4809a640979835d0e.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "33.0"
+            "percent": "32.9"
           },
           "AchAllRandomUnderworld": {
             "name": "Chaos in Hell",
@@ -1962,7 +1310,7 @@
             "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1145350/b5309ad54b39238c77491c3c29dc3b4b1ee1582d.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "3.8"
+            "percent": "3.7"
           },
           "AchForgeBonds": {
             "name": "Close Comrades",
@@ -1971,7 +1319,7 @@
             "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1145350/5fb1266ca5567441d8c9aa08fb238a37d725138e.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "10.3"
+            "percent": "10.2"
           },
           "AchTrueEnding": {
             "name": "Death to Chronos",
@@ -2007,7 +1355,7 @@
             "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1145350/717c6d9887dacb40625ba0ed2fbc1bac0be5180d.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "13.9"
+            "percent": "13.8"
           },
           "AchNemesisCombat": {
             "name": "Fair Fight",
@@ -2016,7 +1364,7 @@
             "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1145350/caf791f68909a5f4b2e679192c180c5ce3485543.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "12.0"
+            "percent": "11.9"
           },
           "AchConfideFrinos": {
             "name": "Familiar Confidant",
@@ -2034,7 +1382,7 @@
             "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1145350/6939fa86ab96cff5068d1d631203274585d8f24f.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "16.7"
+            "percent": "16.6"
           },
           "AchAllOtherAch": {
             "name": "Goddess of Nightmares",
@@ -2052,7 +1400,7 @@
             "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1145350/daf490f764c402808fc8b317d1d49a904dc4f6f9.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "7.3"
+            "percent": "7.2"
           },
           "AchProphecies1": {
             "name": "Hand of the Fates",
@@ -2106,7 +1454,7 @@
             "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1145350/4d28974d1f966e6bac5221972ec64441a283944d.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "29.9"
+            "percent": "29.8"
           },
           "AchBeatHecateNoArcana": {
             "name": "Natural Talent",
@@ -2115,7 +1463,7 @@
             "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1145350/6b27bc4fb06847383fda97586b3149894a1789c7.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "26.7"
+            "percent": "26.6"
           },
           "AchAllKeepsakes": {
             "name": "Sentimental Value",
@@ -2133,7 +1481,7 @@
             "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1145350/3cf3e0d3429778e1f6d0f097cc34a50063e973d5.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "36.4"
+            "percent": "36.3"
           },
           "AchHelpArachne": {
             "name": "Silk and Spitefulness",
@@ -2151,7 +1499,7 @@
             "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1145350/218670037563eb2f2fb9918c4c37ed63bc921d9b.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "39.1"
+            "percent": "39.0"
           },
           "AchBathHouse": {
             "name": "Soothing Soak",
@@ -2160,7 +1508,7 @@
             "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1145350/e82f786b540bf24eb16c74cc660f1ee26d8cc610.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "42.6"
+            "percent": "42.5"
           },
           "AchHelpHypnos": {
             "name": "Soundest of Sleepers",
@@ -2169,7 +1517,7 @@
             "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1145350/0135f7b6cdb456c7432ad3834282476a97447b7a.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "13.6"
+            "percent": "13.5"
           },
           "AchBeatTyphonWithWeapons": {
             "name": "Sword of the Night",
@@ -2178,7 +1526,7 @@
             "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1145350/683178bcd525d5ff8faf28205e10dbd5565e9136.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "11.7"
+            "percent": "11.6"
           },
           "AchAllWeapons": {
             "name": "The Arms of Night",
@@ -2187,7 +1535,7 @@
             "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1145350/d3001619a5b39f634c6ee1462c02c6c7ab76f6b2.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "41.5"
+            "percent": "41.4"
           },
           "AchAllAspects": {
             "name": "The Unseen Sentinel",
@@ -2196,7 +1544,7 @@
             "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1145350/dbd50a4b00c42beb7acd7c28cf68e730cd495cb8.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "8.8"
+            "percent": "8.7"
           },
           "AchAllArcanaMax": {
             "name": "Unassailable Insight",
@@ -2223,7 +1571,7 @@
             "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1145350/aaa21730f2287b4fb2812bfb30bb84ba4d84040a.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "6.4"
+            "percent": "6.3"
           },
           "AchBeatRivalsVow1": {
             "name": "Unrivaled Prowess",
@@ -2241,7 +1589,7 @@
             "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1145350/b9cdb4a23b73fcaf5abc37775ca59dc0f34ac031.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "10.4"
+            "percent": "10.3"
           },
           "AchClearTartarus": {
             "name": "Witch of the Abyss",
@@ -2250,7 +1598,7 @@
             "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1145350/4aa6f5855a9c785ecde5935211c969054797a68d.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "41.1"
+            "percent": "41.0"
           },
           "AchClearSummit": {
             "name": "Witch of the Clouds",
@@ -2259,7 +1607,7 @@
             "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1145350/ae9679f45ac4433c582d0a6e434e1df125ea83dc.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "32.2"
+            "percent": "32.1"
           },
           "AchClearOceanus": {
             "name": "Witch of the Depths",
@@ -2268,7 +1616,7 @@
             "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1145350/bacabdad32d575e03ef718f091249e639d394f9f.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "55.1"
+            "percent": "55.0"
           },
           "AchClearOlympus": {
             "name": "Witch of the Mountains",
@@ -2277,7 +1625,7 @@
             "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1145350/b194ffd7a653eb9cb75c05f31725dda8c8c053e6.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "38.5"
+            "percent": "38.4"
           },
           "AchClearEphyra": {
             "name": "Witch of the Outskirts",
@@ -2286,7 +1634,7 @@
             "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1145350/7c5d6ddda789caf10e7a09726c5eac6e338028ac.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "46.3"
+            "percent": "46.2"
           },
           "AchClearFields": {
             "name": "Witch of the Plains",
@@ -2304,7 +1652,7 @@
             "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1145350/b6921206330324b72229f08c8a9560308167e298.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "43.1"
+            "percent": "43.0"
           },
           "AchClearErebus": {
             "name": "Witch of the Woods",
@@ -2313,7 +1661,7 @@
             "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1145350/40ee8c3795ae62300c90157abd8da5f3d02e3d5d.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "60.5"
+            "percent": "60.4"
           }
         },
         "platform": null,
