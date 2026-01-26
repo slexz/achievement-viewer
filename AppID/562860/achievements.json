@@ -1,0 +1,272 @@
+{
+  "ACH_100_PERCENT": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_20_DART_KILLS": {
+    "earned": false,
+    "earned_time": 0,
+    "max_progress": 20,
+    "progress": 0
+  },
+  "ACH_50_BIKE_KILLS": {
+    "earned": false,
+    "earned_time": 0,
+    "max_progress": 50,
+    "progress": 0
+  },
+  "ACH_ALL_ACHIEVEMENTS": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_ARRANGE_ALL_COLLECTED": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_ARRANGE_COMPLETED": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_ARRANGE_FIVE_COLLECTED": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_ARRANGE_SKILL_4": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_ARRANGE_SKILL_5": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_ASHOCK_100_PERCENT": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_ASHOCK_MEGA_SECRET_1": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_ASHOCK_MEGA_SECRET_2": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_ASHOCK_MEGA_SECRET_3": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_ASHOCK_MEGA_SECRET_4": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_ASHOCK_PROGRESS_0": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_ASHOCK_PROGRESS_1": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_ASHOCK_PROGRESS_2": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_ASHOCK_PROGRESS_3": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_ASHOCK_PROGRESS_4": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_ASHOCK_PROGRESS_5": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_ASHOCK_PROGRESS_6": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_ASHOCK_PROGRESS_7": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_ASHOCK_PROGRESS_8": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_ASHOCK_PROGRESS_9": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_ASHOCK_SKILL_4": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_ASHOCK_SKILL_5": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_ASHOCK_TARGET_RANGE": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_AVENGE_DRINK": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_BATON_20_MECHSECTS": {
+    "earned": true,
+    "earned_time": 1762308228,
+    "max_progress": 20,
+    "progress": 0
+  },
+  "ACH_BIKE_S_RANK": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_COMPLETE_ON_HARDEST": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_DECAPITATE_100_ENEMIES": {
+    "earned": true,
+    "earned_time": 1762308228,
+    "max_progress": 100,
+    "progress": 0
+  },
+  "ACH_DESTROY_TOMBSTONES": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_DLC_ALL_ACHIEVEMENTS": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_DRINK_20_SODA_CANS": {
+    "earned": true,
+    "earned_time": 1762308228,
+    "max_progress": 20,
+    "progress": 0
+  },
+  "ACH_DUNK_ALL_POOL_BALLS": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_EAT_30_PIZZA_SLICES": {
+    "earned": false,
+    "earned_time": 0,
+    "max_progress": 30,
+    "progress": 0
+  },
+  "ACH_EXPLODE_30_FLYERS": {
+    "earned": false,
+    "earned_time": 0,
+    "max_progress": 30,
+    "progress": 0
+  },
+  "ACH_FIND_50_SECRETS": {
+    "earned": false,
+    "earned_time": 0,
+    "max_progress": 50,
+    "progress": 0
+  },
+  "ACH_FURY_COMPLETE_SKILL_5": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_GET_3_STRIKES": {
+    "earned": false,
+    "earned_time": 0,
+    "max_progress": 3,
+    "progress": 0
+  },
+  "ACH_GET_ALL_WEAPONS": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_GET_BULLSEYE": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_KICK_20_HEADS": {
+    "earned": true,
+    "earned_time": 1762308228,
+    "max_progress": 20,
+    "progress": 0
+  },
+  "ACH_MEGA_SECRET_1": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_MEGA_SECRET_2": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_MEGA_SECRET_3": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_MEGA_SECRET_4": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_MEGA_SECRET_5": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_MEGA_SECRET_6": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_PROGRESS_0": {
+    "earned": true,
+    "earned_time": 1762308228
+  },
+  "ACH_PROGRESS_1": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_PROGRESS_2": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_PROGRESS_3": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_PROGRESS_4": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_PROGRESS_5": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_PROGRESS_6": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_PROGRESS_7": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_SECRET_LEVEL": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_SECRET_TEARS_IN_RAIN": {
+    "earned": true,
+    "earned_time": 1762311002
+  },
+  "ACH_STEP_ON_20_COCKROACHES": {
+    "earned": true,
+    "earned_time": 1762308228,
+    "max_progress": 20,
+    "progress": 0
+  },
+  "ACH_WRECKER_MULTIKILL": {
+    "earned": false,
+    "earned_time": 0
+  }
+}
