@@ -1,0 +1,222 @@
+{
+  "Arrive_Base": {
+    "earned": true,
+    "earned_time": 1762590920
+  },
+  "Arrive_Level_Farm_Main": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "Arrive_Level_GroundZero_Main": {
+    "earned": true,
+    "earned_time": 1762591183
+  },
+  "Arrive_Level_HiddenWarehouse_Main": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "Arrive_Level_JLab_Main": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "Arrive_Level_StormZone_Main": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "Building_DemoTrophy": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "Building_Gem": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "Building_Kitchen": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "Building_Merchant_Equipment": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "Building_Merchant_Ming": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "Building_Merchant_Weapon": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "Building_MiningMachine": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "Ending_0": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "Ending_1": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "Ending_2": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "Ending_3": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "Endowmment_Berserker": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "Endowmment_Marksman": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "Endowmment_Porter": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "Endowmment_Surviver": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "Escape_From_Duckov": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "Evacuate_Level_GroundZero_Main": {
+    "earned": true,
+    "earned_time": 1762592569
+  },
+  "FirstBlood": {
+    "earned": true,
+    "earned_time": 1762590771
+  },
+  "Kill_Cname_Boss_Arcade_1": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "Kill_Cname_Boss_Fly_1": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "Kill_Cname_Boss_Sniper_1": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "Kill_Cname_LabTestObjective_1": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "Kill_Cname_Roadblock_1": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "Kill_Cname_SchoolBully_1": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "Kill_Cname_ShortEagle_1": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "Kill_Cname_ShortEagle_10": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "Kill_Cname_Speedy_1": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "Kill_Cname_StormBoss1_1": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "Kill_Cname_StormBoss2_1": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "Kill_Cname_StormBoss3_1": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "Kill_Cname_StormBoss4_1": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "Kill_Cname_StormBoss5_1": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "Kill_Cname_UltraMan_1": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "Kill_Cname_Vida_1": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "Money_100K": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "Money_10K": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "Money_1M": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "Perk_Damage_2": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "Perk_Main_49": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "Perk_Physical_33": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "Perk_RefreshChance_4": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "Perk_Storage_t_VIP": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "Quest_1999": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "Quest_807": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "Quest_875": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "Quest_887": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "Quest_913": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "Quest_937": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "Quest_999": {
+    "earned": false,
+    "earned_time": 0
+  }
+}
