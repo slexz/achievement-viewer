@@ -64,7 +64,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/813230/50527e78efbb47e043479a9e960eeb2a4d55ba0a.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "32.8"
+      "percent": "32.9"
     },
     "COLLECT_ALL_EGGS": {
       "name": "EGG WELL",
@@ -91,7 +91,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/813230/50527e78efbb47e043479a9e960eeb2a4d55ba0a.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "92.3"
+      "percent": "92.2"
     },
     "DEFEAT_GHOST_DOG": {
       "name": "GHOST",
@@ -154,7 +154,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/813230/50527e78efbb47e043479a9e960eeb2a4d55ba0a.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "32.4"
+      "percent": "32.5"
     },
     "TOUCH_SQUIRREL": {
       "name": "SNEAK",

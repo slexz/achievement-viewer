@@ -28,7 +28,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1684930/e1d9226dc99441d5161768417afb70b9b65dd11a.jpg",
       "hidden": false,
       "group": "CULTIC: Chapter Two",
-      "percent": "1.9"
+      "percent": "2.0"
     },
     "ACH_GALLERY": {
       "name": "But You Have Heard of Me!",
@@ -64,7 +64,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1684930/cbc095932729a2f4585558ae24c3988b9f334dcc.jpg",
       "hidden": false,
       "group": "CULTIC: Chapter Two",
-      "percent": "7.8"
+      "percent": "7.9"
     },
     "ACH_GHOST": {
       "name": "Great Minds Think Alike",
@@ -145,7 +145,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1684930/f99b8daa9415c706d78d4e7823e418d58fec29c5.jpg",
       "hidden": false,
       "group": "CULTIC: Chapter Two",
-      "percent": "6.1"
+      "percent": "6.2"
     },
     "ACH_HEADSHOTS": {
       "name": "Melon Popper",
@@ -172,7 +172,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1684930/e8e60a8cfbacf87c01b7341f0643c3dec7425dc5.jpg",
       "hidden": false,
       "group": "CULTIC: Chapter Two",
-      "percent": "0.9"
+      "percent": "1.0"
     },
     "ACH_NOSCOPE": {
       "name": "No Scope Cope",
@@ -181,7 +181,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1684930/c4aa775cc40ee930bc914bb327d264ce2ed7483b.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "15.7"
+      "percent": "15.8"
     },
     "ACH_DEFLECTIONS": {
       "name": "Not today, thank you!",
@@ -190,7 +190,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1684930/a6849f232eb2f5b8b962a93381dabf6714f5cf49.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "40.8"
+      "percent": "40.9"
     },
     "ACH_OW": {
       "name": "Ow.",
@@ -208,7 +208,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1684930/14739627f6da7c29985688e87009b8c28e9d3aa0.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "6.0"
+      "percent": "6.1"
     },
     "ACH_TEDDY": {
       "name": "Rescue Mission",
@@ -235,7 +235,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1684930/8a90237eeb3516f784eddda0dc5541e037cc983b.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "6.0"
+      "percent": "6.1"
     },
     "ACH_SECRETS_1": {
       "name": "Secret Hunter I",
@@ -262,7 +262,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1684930/8fb96f803c7be3dc4c08f48e6bc608aa8379eb45.jpg",
       "hidden": false,
       "group": "CULTIC: Chapter Two",
-      "percent": "12.3"
+      "percent": "12.4"
     },
     "ACH_HEADSHOT_PEN": {
       "name": "Stack 'em Up",
@@ -307,7 +307,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1684930/a7b020544e7706b53fd2a541dd802d36b7609273.jpg",
       "hidden": false,
       "group": "Update 1",
-      "percent": "26.0"
+      "percent": "26.1"
     },
     "ACH_UNSTOPPABLE": {
       "name": "Unstoppable",

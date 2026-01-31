@@ -19,7 +19,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1145350/b5220fc40d52fa9bb519203160216a17e4a801b9.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "22.6"
+      "percent": "22.7"
     },
     "AchBeatChronosWithArcana": {
       "name": "Arcana of the Ages",
@@ -46,7 +46,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1145350/ac72ab7813c4da9bd26e05069659b984b18070c4.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "7.6"
+      "percent": "7.7"
     },
     "AchEarnStatue1": {
       "name": "Behold Night's Champion",
@@ -55,7 +55,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1145350/99d2154cd56debcda24f71a30004597556e458b0.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "22.1"
+      "percent": "22.2"
     },
     "AchClearChaosQuest": {
       "name": "Born to Win",
@@ -82,7 +82,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1145350/6d198c14e5153963cbf0aa8d4399a4368bdc51dc.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "20.9"
+      "percent": "21.0"
     },
     "AchFishingPier": {
       "name": "Catch of the Night",
@@ -154,7 +154,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1145350/caf791f68909a5f4b2e679192c180c5ce3485543.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "12.2"
+      "percent": "12.3"
     },
     "AchConfideFrinos": {
       "name": "Familiar Confidant",
@@ -172,7 +172,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1145350/6939fa86ab96cff5068d1d631203274585d8f24f.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "16.9"
+      "percent": "17.0"
     },
     "AchAllOtherAch": {
       "name": "Goddess of Nightmares",
@@ -199,7 +199,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1145350/f97bc84742bcbab0cc1282a6d4e32e6c2a78c4b3.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "10.8"
+      "percent": "10.9"
     },
     "AchHelpDora": {
       "name": "Haunted by the Past",
@@ -235,7 +235,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1145350/6da3645832b6b76f6e9860dd5dd0846d4eb2bb3c.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "14.9"
+      "percent": "15.0"
     },
     "AchMaxMem": {
       "name": "Mind for Magick",
@@ -289,7 +289,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1145350/218670037563eb2f2fb9918c4c37ed63bc921d9b.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "39.4"
+      "percent": "39.5"
     },
     "AchBathHouse": {
       "name": "Soothing Soak",
@@ -325,7 +325,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1145350/d3001619a5b39f634c6ee1462c02c6c7ab76f6b2.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "41.8"
+      "percent": "41.9"
     },
     "AchAllAspects": {
       "name": "The Unseen Sentinel",
@@ -424,7 +424,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1145350/7c5d6ddda789caf10e7a09726c5eac6e338028ac.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "46.7"
+      "percent": "46.8"
     },
     "AchClearFields": {
       "name": "Witch of the Plains",
@@ -433,7 +433,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1145350/ead0acbb6c3cb0739f7fd377c38faa8a144408b3.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "52.0"
+      "percent": "52.1"
     },
     "AchClearThessaly": {
       "name": "Witch of the Waters",
@@ -451,7 +451,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1145350/40ee8c3795ae62300c90157abd8da5f3d02e3d5d.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "60.9"
+      "percent": "61.0"
     }
   },
   "platform": null,
