@@ -10,7 +10,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/242680/7965e60dc69e338c940d561dcc54826a82aec578.jpg",
       "hidden": true,
       "group": "Update 1",
-      "percent": "1.3"
+      "percent": "1.4"
     },
     "a17": {
       "name": "6e 69 63 65",
@@ -46,7 +46,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/242680/fbf410ab36808c01c125e2206d15083e6ec8ca04.jpg",
       "hidden": true,
       "group": "Update 1",
-      "percent": "1.3"
+      "percent": "1.4"
     },
     "a31": {
       "name": "Bandit Stopper",
@@ -64,7 +64,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/242680/a0d793863a6054d3d84aa52b9836d6796ed12703.jpg",
       "hidden": true,
       "group": "Update 1",
-      "percent": "2.1"
+      "percent": "2.2"
     },
     "a14": {
       "name": "Blood Blood Blood",
@@ -181,7 +181,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/242680/2f9f8dca399e8bf27863e05338e23e05f7600a9f.jpg",
       "hidden": true,
       "group": "Update 1",
-      "percent": "1.1"
+      "percent": "1.2"
     },
     "a36": {
       "name": "Frog Slayer",
@@ -235,7 +235,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/242680/af00638bdeca7f02e6ec7c802aaaafb4cd22461a.jpg",
       "hidden": true,
       "group": "Update 1",
-      "percent": "2.3"
+      "percent": "2.4"
     },
     "a48": {
       "name": "HHMMMM!",
@@ -280,7 +280,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/242680/10af6c3751af31242fbcd63cf25db74107cdabb9.jpg",
       "hidden": true,
       "group": "Update 1",
-      "percent": "0.7"
+      "percent": "0.8"
     },
     "a0": {
       "name": "Melting Unlocked",
@@ -307,7 +307,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/242680/2935aeeeda10d99b179d9894aba3e829a80878d3.jpg",
       "hidden": true,
       "group": "Update 1",
-      "percent": "0.9"
+      "percent": "1.0"
     },
     "a21": {
       "name": "Never Look Back",
@@ -451,7 +451,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/242680/8be0c6b262eec6061d559c83ab8b80c98fd3ab0f.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "3.6"
+      "percent": "3.7"
     },
     "a20": {
       "name": "Thriller",
@@ -460,7 +460,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/242680/4f9e6f7ab6bda9ff7eb5983212ce3cd66087d03d.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "4.9"
+      "percent": "5.0"
     },
     "a34": {
       "name": "Throne Sitter",
@@ -487,7 +487,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/242680/0834838503e0377c130f2e0bb662071b23c387ce.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "12.9"
+      "percent": "13.0"
     },
     "a27": {
       "name": "Unstoppable",
@@ -523,7 +523,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/242680/15e466b008b4185f61f08e9335e22bc03361228a.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "4.1"
+      "percent": "4.2"
     },
     "a3": {
       "name": "Y.V. Unlocked",
