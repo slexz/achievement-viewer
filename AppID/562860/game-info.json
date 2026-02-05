@@ -244,7 +244,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/562860/65dff28852e9d20b0cacd07e3c59a62b64e87608.jpg",
       "hidden": true,
       "group": "Update 1",
-      "percent": "5.2"
+      "percent": "5.3"
     },
     "ACH_ASHOCK_SKILL_4": {
       "name": "Furiosa",
@@ -424,7 +424,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/562860/354b2b94e5d9808de7a1b51070bfeb42fb4eb42e.jpg",
       "hidden": false,
       "group": "Update 1",
-      "percent": "8.5"
+      "percent": "8.6"
     },
     "ACH_PROGRESS_0": {
       "name": "Shaken, Not Stirred",
