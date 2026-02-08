@@ -1,5 +1,5 @@
 {
-  "last_updated": 1770432290,
+  "last_updated": 1770521357,
   "total_games": 9,
   "games": [
     {
@@ -1111,7 +1111,7 @@
             "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/242680/88aa22bf905891ab8e79d8ce49f7148f1c0dcfa4.jpg",
             "hidden": true,
             "group": "Update 1",
-            "percent": "1.6"
+            "percent": "1.7"
           },
           "a11": {
             "name": "Crystal Can Shield",
@@ -1839,7 +1839,7 @@
             "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1145360/02e4de86cc81d95919e5a7d971754e315d5f9fce.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "32.4"
+            "percent": "32.3"
           },
           "AchClearElysiumEM": {
             "name": "Champion of Elysium",
