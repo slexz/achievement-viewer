@@ -24,20 +24,20 @@
     "earned_time": 1770701412
   },
   "1009": {
-    "earned": false,
-    "earned_time": 0
+    "earned": true,
+    "earned_time": 1770721757
   },
   "1010": {
     "earned": false,
     "earned_time": 0
   },
   "1011": {
-    "earned": false,
-    "earned_time": 0
+    "earned": true,
+    "earned_time": 1770722297
   },
   "1012": {
-    "earned": false,
-    "earned_time": 0
+    "earned": true,
+    "earned_time": 1770722342
   },
   "1013": {
     "earned": false,
@@ -112,8 +112,8 @@
     "earned_time": 0
   },
   "3003": {
-    "earned": false,
-    "earned_time": 0
+    "earned": true,
+    "earned_time": 1770722040
   },
   "3006": {
     "earned": false,
@@ -124,8 +124,8 @@
     "earned_time": 0
   },
   "3009": {
-    "earned": false,
-    "earned_time": 0
+    "earned": true,
+    "earned_time": 1770722040
   },
   "4002": {
     "earned": true,
