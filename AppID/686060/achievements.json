@@ -1,0 +1,1126 @@
+{
+  "beaniesquest_complete_AirHorn": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "beaniesquest_complete_AngryFace": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "beaniesquest_complete_BubbleBoy": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "beaniesquest_complete_ChaosDevice": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "beaniesquest_complete_ExperimentalTreatment": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "beaniesquest_complete_FartFace": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "beaniesquest_complete_GlassCannon": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "beaniesquest_complete_HardPill": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "beaniesquest_complete_MagicMirror": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "beaniesquest_complete_MeStone": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "beaniesquest_complete_MysteriousDice": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "beaniesquest_complete_NuclearKnife": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "beaniesquest_complete_PartyDetonator": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "beaniesquest_complete_PersuasionDevice": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "beaniesquest_complete_PrincessHat": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "beaniesquest_complete_Redacted": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "beaniesquest_complete_SpiderInjector": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "beaniesquest_complete_Stopwatch": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "beaniesquest_complete_StorageLocker": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "beaniesquest_complete_TheLoner": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "beaniesquest_complete_UltraVision3000": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "class_unlock_box0": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "class_unlock_box1": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "class_unlock_box2": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "class_unlock_box3": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "class_unlock_butcher_ability": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "class_unlock_butcher_colorless_ability": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "class_unlock_butcher_colorless_passive": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "class_unlock_butcher_face": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "class_unlock_butcher_helmet": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "class_unlock_butcher_neck": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "class_unlock_butcher_passive": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "class_unlock_butcher_trinket": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "class_unlock_butcher_trinket2": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "class_unlock_butcher_weapon": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "class_unlock_colorless_ability": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "class_unlock_colorless_colorless_ability": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "class_unlock_colorless_colorless_passive": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "class_unlock_colorless_face": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "class_unlock_colorless_helmet": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "class_unlock_colorless_neck": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "class_unlock_colorless_passive": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "class_unlock_colorless_trinket": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "class_unlock_colorless_trinket2": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "class_unlock_colorless_weapon": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "class_unlock_druid_ability": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "class_unlock_druid_colorless_ability": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "class_unlock_druid_colorless_passive": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "class_unlock_druid_face": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "class_unlock_druid_helmet": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "class_unlock_druid_neck": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "class_unlock_druid_passive": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "class_unlock_druid_trinket": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "class_unlock_druid_trinket2": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "class_unlock_druid_weapon": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "class_unlock_fighter_ability": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "class_unlock_fighter_colorless_ability": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "class_unlock_fighter_colorless_passive": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "class_unlock_fighter_face": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "class_unlock_fighter_helmet": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "class_unlock_fighter_neck": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "class_unlock_fighter_passive": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "class_unlock_fighter_trinket": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "class_unlock_fighter_trinket2": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "class_unlock_fighter_weapon": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "class_unlock_hunter_ability": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "class_unlock_hunter_colorless_ability": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "class_unlock_hunter_colorless_passive": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "class_unlock_hunter_face": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "class_unlock_hunter_helmet": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "class_unlock_hunter_neck": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "class_unlock_hunter_passive": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "class_unlock_hunter_trinket": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "class_unlock_hunter_trinket2": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "class_unlock_hunter_weapon": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "class_unlock_jester_ability": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "class_unlock_jester_colorless_ability": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "class_unlock_jester_colorless_passive": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "class_unlock_jester_face": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "class_unlock_jester_helmet": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "class_unlock_jester_neck": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "class_unlock_jester_passive": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "class_unlock_jester_trinket": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "class_unlock_jester_trinket2": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "class_unlock_jester_weapon": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "class_unlock_mage_ability": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "class_unlock_mage_colorless_ability": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "class_unlock_mage_colorless_passive": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "class_unlock_mage_face": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "class_unlock_mage_helmet": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "class_unlock_mage_neck": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "class_unlock_mage_passive": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "class_unlock_mage_trinket": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "class_unlock_mage_trinket2": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "class_unlock_mage_weapon": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "class_unlock_medic_ability": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "class_unlock_medic_colorless_ability": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "class_unlock_medic_colorless_passive": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "class_unlock_medic_face": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "class_unlock_medic_helmet": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "class_unlock_medic_neck": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "class_unlock_medic_passive": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "class_unlock_medic_trinket": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "class_unlock_medic_trinket2": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "class_unlock_medic_weapon": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "class_unlock_monk_ability": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "class_unlock_monk_colorless_ability": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "class_unlock_monk_colorless_passive": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "class_unlock_monk_face": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "class_unlock_monk_helmet": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "class_unlock_monk_neck": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "class_unlock_monk_passive": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "class_unlock_monk_trinket": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "class_unlock_monk_trinket2": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "class_unlock_monk_weapon": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "class_unlock_monocolorless_face": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "class_unlock_monocolorless_head": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "class_unlock_monocolorless_neck": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "class_unlock_necro_ability": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "class_unlock_necro_colorless_ability": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "class_unlock_necro_colorless_passive": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "class_unlock_necro_face": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "class_unlock_necro_helmet": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "class_unlock_necro_neck": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "class_unlock_necro_passive": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "class_unlock_necro_trinket": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "class_unlock_necro_trinket2": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "class_unlock_necro_weapon": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "class_unlock_psychic_ability": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "class_unlock_psychic_colorless_ability": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "class_unlock_psychic_colorless_passive": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "class_unlock_psychic_face": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "class_unlock_psychic_helmet": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "class_unlock_psychic_neck": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "class_unlock_psychic_passive": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "class_unlock_psychic_trinket": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "class_unlock_psychic_trinket2": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "class_unlock_psychic_weapon": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "class_unlock_tank_ability": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "class_unlock_tank_colorless_ability": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "class_unlock_tank_colorless_passive": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "class_unlock_tank_face": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "class_unlock_tank_helmet": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "class_unlock_tank_neck": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "class_unlock_tank_passive": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "class_unlock_tank_trinket": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "class_unlock_tank_trinket2": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "class_unlock_tank_weapon": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "class_unlock_thief_ability": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "class_unlock_thief_colorless_ability": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "class_unlock_thief_colorless_passive": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "class_unlock_thief_face": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "class_unlock_thief_helmet": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "class_unlock_thief_neck": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "class_unlock_thief_passive": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "class_unlock_thief_trinket": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "class_unlock_thief_trinket2": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "class_unlock_thief_weapon": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "class_unlock_tinkerer_ability": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "class_unlock_tinkerer_colorless_ability": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "class_unlock_tinkerer_colorless_passive": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "class_unlock_tinkerer_face": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "class_unlock_tinkerer_helmet": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "class_unlock_tinkerer_neck": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "class_unlock_tinkerer_passive": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "class_unlock_tinkerer_trinket": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "class_unlock_tinkerer_trinket2": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "class_unlock_tinkerer_weapon": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "end_of_time_unlock": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "house_upgrade_4throom": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "house_upgrade_attic": {
+    "earned": true,
+    "earned_time": 1770773826
+  },
+  "house_upgrade_largehouse": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "house_upgrade_mediumhouse": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "jack_shopupgrade1": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "jack_shopupgrade2": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "jack_shopupgrade3": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "jack_shopupgrade4": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "map_unlock_boneyard": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "map_unlock_bunker": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "map_unlock_caves": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "map_unlock_core": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "map_unlock_crater": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "map_unlock_desert": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "map_unlock_dimensionx": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "map_unlock_future": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "map_unlock_iceage": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "map_unlock_junkyard": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "map_unlock_jurassic": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "map_unlock_lab": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "map_unlock_moon": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "map_unlock_sewers": {
+    "earned": true,
+    "earned_time": 1770776132
+  },
+  "map_unlock_theend": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "meat_world_open": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "nuke_quest_complete": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "organ_unlock": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "organ_upgrade1": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "organ_upgrade2": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "organ_upgrade3": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "organ_upgrade4": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "organ_upgrade5": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "organ_upgrade6": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "quest_begin_amplifier2": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "quest_begin_blackshard": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "quest_begin_gristle": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "quest_begin_leech": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "quest_begin_pcollar": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "quest_begin_receiver2": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "quest_begin_scaldingorb": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "quest_begin_tinahead": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "quest_begin_transmitter2": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "quest_begin_zcollar": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "steven_unlock_infinite_crazy": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "steven_unlock_infinite_hard": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "steven_unlock_infinite_impossible": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "steven_unlock_kfight_crazy": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "steven_unlock_kfight_hard": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "steven_unlock_kfight_impossible": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "steven_unlock_pyro_crazy": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "steven_unlock_pyro_hard": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "steven_unlock_pyro_impossible": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "steven_unlock_rift_crazy": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "steven_unlock_rift_hard": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "steven_unlock_rift_impossible": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "steven_unlock_t1_crazy": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "steven_unlock_t1_hard": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "steven_unlock_t1_impossible": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "steven_unlock_t2_crazy": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "steven_unlock_t2_hard": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "steven_unlock_t2_impossible": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "steven_unlock_t3_crazy": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "steven_unlock_t3_hard": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "steven_unlock_t3_impossible": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "steven_unlock_throb_crazy": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "steven_unlock_throb_hard": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "steven_unlock_throb_impossible": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "steven_unlock_tina1_crazy": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "steven_unlock_tina1_hard": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "steven_unlock_tina1_impossible": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "steven_unlock_tina2_crazy": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "steven_unlock_tina2_hard": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "steven_unlock_tina2_impossible": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "steven_unlock_tina3_crazy": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "steven_unlock_tina3_hard": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "steven_unlock_tina3_impossible": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "steven_unlock_zara_crazy": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "steven_unlock_zara_hard": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "steven_unlock_zara_impossible": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "tink_aggression": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "tink_basestats": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "tink_inbreeding": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "tink_prettybow": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "tink_relationships": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "tink_sexuality": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "tink_tags": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "tracy_blankcollar1": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "tracy_blankcollar2": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "tracy_blankcollar3": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "tracy_foodstorage1": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "tracy_foodstorage10": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "tracy_foodstorage2": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "tracy_foodstorage3": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "tracy_foodstorage4": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "tracy_foodstorage5": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "tracy_foodstorage6": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "tracy_foodstorage7": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "tracy_foodstorage8": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "tracy_foodstorage9": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "tracy_idol1": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "tracy_idol2": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "tracy_idol3": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "tracy_idol4": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "tracy_idol5": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "tracy_idol6": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "tracy_idol7": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "upgrade_storage_1": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "upgrade_storage_2": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "upgrade_storage_3": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "upgrade_storage_4": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "upgrade_storage_5": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "upgrade_storage_6": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "upgrade_storage_7": {
+    "earned": false,
+    "earned_time": 0
+  }
+}
