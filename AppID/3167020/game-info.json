@@ -1,7 +1,7 @@
 {
   "appid": "3167020",
   "name": "Escape From Duckov",
-  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3167020/header.jpg?t=1767856957",
+  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3167020/14dca99d7241b9fcba681375bc2091d5049061d9/header_alt_assets_0.jpg?t=1770693869",
   "achievements": {
     "Building_Kitchen": {
       "name": "Air Force Commander",
@@ -10,7 +10,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3167020/8b4ad4c27f996c1560c91fd55f9bd71547089490.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "59.2"
+      "percent": "59.1"
     },
     "Building_DemoTrophy": {
       "name": "All-Rounder​",
@@ -73,7 +73,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3167020/8b4ad4c27f996c1560c91fd55f9bd71547089490.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "66.9"
+      "percent": "66.8"
     },
     "Kill_Cname_Roadblock_1": {
       "name": "Entry Ticket",
@@ -199,7 +199,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3167020/8b4ad4c27f996c1560c91fd55f9bd71547089490.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "17.8"
+      "percent": "17.9"
     },
     "Kill_Cname_ShortEagle_10": {
       "name": "Grinder Sharpshooter",
@@ -289,7 +289,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3167020/8b4ad4c27f996c1560c91fd55f9bd71547089490.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "37.5"
+      "percent": "37.4"
     },
     "Money_100K": {
       "name": "Middle Class",
@@ -334,7 +334,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3167020/8b4ad4c27f996c1560c91fd55f9bd71547089490.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "87.9"
+      "percent": "87.8"
     },
     "Quest_875": {
       "name": "Nine Dragons Coffin",
