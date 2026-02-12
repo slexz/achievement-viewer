@@ -145,7 +145,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1684930/f99b8daa9415c706d78d4e7823e418d58fec29c5.jpg",
       "hidden": false,
       "group": "CULTIC: Chapter Two",
-      "percent": "6.3"
+      "percent": "6.2"
     },
     "ACH_HEADSHOTS": {
       "name": "Melon Popper",
@@ -163,7 +163,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1684930/4b47f8dc8066fbe0b1b3337720d505c867e1b86f.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "10.2"
+      "percent": "10.1"
     },
     "ACH_NEWDUMBFRIEND": {
       "name": "New Dumb Friend!",
@@ -262,7 +262,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1684930/8fb96f803c7be3dc4c08f48e6bc608aa8379eb45.jpg",
       "hidden": false,
       "group": "CULTIC: Chapter Two",
-      "percent": "12.6"
+      "percent": "12.5"
     },
     "ACH_HEADSHOT_PEN": {
       "name": "Stack 'em Up",
@@ -316,7 +316,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1684930/b4bbaf3b523738f462ad8db57ee4c488cfcbda84.jpg",
       "hidden": true,
       "group": "CULTIC: Chapter Two",
-      "percent": "7.8"
+      "percent": "7.7"
     }
   },
   "platform": null,
