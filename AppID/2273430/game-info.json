@@ -73,7 +73,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2273430/3f877ceb0761f910f7bd97552d9f2deb59d4d212.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "73.0"
+      "percent": "72.9"
     },
     "1020": {
       "name": "Destination",
@@ -136,7 +136,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2273430/699f02999a9f46f6623d72bd25989e3191ad78c8.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "39.6"
+      "percent": "39.5"
     },
     "2008": {
       "name": "Little Strategist",
@@ -199,7 +199,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2273430/be95c44f3d79df51bcc3ad1c5aae047902f4cdd2.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "56.3"
+      "percent": "56.2"
     },
     "1005": {
       "name": "Night Hero",
@@ -370,7 +370,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2273430/a2aa06f99b4f7885db61f17e3a5f9955db80bcf6.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "67.2"
+      "percent": "67.1"
     },
     "1004": {
       "name": "Unknown Data",
@@ -379,7 +379,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2273430/dadbcc6df55e088e8ab14b6edb5393b1d72417ef.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "73.5"
+      "percent": "73.4"
     },
     "5004": {
       "name": "Unstoppable Force",
