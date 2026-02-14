@@ -1000,8 +1000,8 @@
     "earned_time": 0
   },
   "tink_prettybow": {
-    "earned": false,
-    "earned_time": 0
+    "earned": true,
+    "earned_time": 1770883199
   },
   "tink_relationships": {
     "earned": false,
@@ -1028,8 +1028,8 @@
     "earned_time": 0
   },
   "tracy_foodstorage1": {
-    "earned": false,
-    "earned_time": 0
+    "earned": true,
+    "earned_time": 1770883260
   },
   "tracy_foodstorage10": {
     "earned": false,
@@ -1096,8 +1096,8 @@
     "earned_time": 0
   },
   "upgrade_storage_1": {
-    "earned": false,
-    "earned_time": 0
+    "earned": true,
+    "earned_time": 1770879952
   },
   "upgrade_storage_2": {
     "earned": false,
