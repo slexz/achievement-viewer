@@ -9,7 +9,7 @@
   },
   "ACH_002": {
     "earned": true,
-    "earned_time": 1770789886
+    "earned_time": 1771030194
   },
   "ACH_003": {
     "earned": false,
@@ -17,11 +17,11 @@
   },
   "ACH_004": {
     "earned": true,
-    "earned_time": 1770789886
+    "earned_time": 1771030194
   },
   "ACH_005": {
-    "earned": false,
-    "earned_time": 0
+    "earned": true,
+    "earned_time": 1771052971
   },
   "ACH_006": {
     "earned": false,
@@ -57,7 +57,7 @@
   },
   "ACH_014": {
     "earned": true,
-    "earned_time": 1770789886
+    "earned_time": 1771030194
   },
   "ACH_015": {
     "earned": false,
@@ -77,7 +77,7 @@
   },
   "ACH_019": {
     "earned": true,
-    "earned_time": 1770789886
+    "earned_time": 1771030194
   },
   "ACH_020": {
     "earned": false,
@@ -105,7 +105,7 @@
   },
   "ACH_026": {
     "earned": true,
-    "earned_time": 1770789886
+    "earned_time": 1771030194
   },
   "ACH_027": {
     "earned": false,
@@ -124,8 +124,8 @@
     "earned_time": 0
   },
   "ACH_031": {
-    "earned": false,
-    "earned_time": 0
+    "earned": true,
+    "earned_time": 1771030282
   },
   "ACH_032": {
     "earned": false,
@@ -145,11 +145,11 @@
   },
   "ACH_036": {
     "earned": true,
-    "earned_time": 1770789886
+    "earned_time": 1771030194
   },
   "ACH_037": {
     "earned": true,
-    "earned_time": 1770789886
+    "earned_time": 1771030194
   },
   "ACH_038": {
     "earned": false,
@@ -157,7 +157,7 @@
   },
   "ACH_039": {
     "earned": true,
-    "earned_time": 1770789886
+    "earned_time": 1771030194
   },
   "ACH_040": {
     "earned": false,
