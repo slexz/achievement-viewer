@@ -60,8 +60,8 @@
     "earned_time": 1771030194
   },
   "ACH_015": {
-    "earned": false,
-    "earned_time": 0
+    "earned": true,
+    "earned_time": 1771097687
   },
   "ACH_016": {
     "earned": false,
@@ -120,8 +120,8 @@
     "earned_time": 0
   },
   "ACH_030": {
-    "earned": false,
-    "earned_time": 0
+    "earned": true,
+    "earned_time": 1771122933
   },
   "ACH_031": {
     "earned": true,
@@ -136,8 +136,8 @@
     "earned_time": 0
   },
   "ACH_034": {
-    "earned": false,
-    "earned_time": 0
+    "earned": true,
+    "earned_time": 1771101281
   },
   "ACH_035": {
     "earned": false,
