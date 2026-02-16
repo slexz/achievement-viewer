@@ -19,7 +19,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2273430/8d8e78c0192d57f6622e839af1bfe1b52aa7d497.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "32.1"
+      "percent": "32.2"
     },
     "4004": {
       "name": "Anti Piracy",
@@ -28,7 +28,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2273430/cded9128d05ec9e7c7f1351bd07ccbff624ae641.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "13.6"
+      "percent": "13.7"
     },
     "4007": {
       "name": "Better Luck Next Time",
@@ -73,7 +73,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2273430/3f877ceb0761f910f7bd97552d9f2deb59d4d212.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "72.9"
+      "percent": "73.0"
     },
     "1020": {
       "name": "Destination",
@@ -91,7 +91,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2273430/aa17ca3e278cdfd42d3408f899f8a1713e27582f.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "71.6"
+      "percent": "71.7"
     },
     "1008": {
       "name": "Exotic Style",
@@ -118,7 +118,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2273430/db6e468564c174e598cae729070488229ec81a20.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "33.9"
+      "percent": "34.0"
     },
     "1007": {
       "name": "Genetic Code",
@@ -136,7 +136,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2273430/699f02999a9f46f6623d72bd25989e3191ad78c8.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "39.5"
+      "percent": "39.6"
     },
     "2008": {
       "name": "Little Strategist",
@@ -145,7 +145,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2273430/40ce5efa3e319934b1cf01b8805a10db82194640.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "57.1"
+      "percent": "57.2"
     },
     "3002": {
       "name": "Loneliness In Strength",
@@ -172,7 +172,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2273430/e7e72a0e9520a73bd76367710a3098074c263d5d.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "57.3"
+      "percent": "57.4"
     },
     "1012": {
       "name": "Mind Challenge Ⅱ",
@@ -181,7 +181,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2273430/1861a9f6a561ba12b6267c5aa065a43b06dca297.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "55.7"
+      "percent": "55.8"
     },
     "1013": {
       "name": "Mind Challenge Ⅲ",
@@ -199,7 +199,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2273430/be95c44f3d79df51bcc3ad1c5aae047902f4cdd2.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "56.2"
+      "percent": "56.3"
     },
     "1005": {
       "name": "Night Hero",
@@ -226,7 +226,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2273430/13b9733be37769bffd1a7fba3c56124a7c4cfef0.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "57.6"
+      "percent": "57.7"
     },
     "5001": {
       "name": "Ready For Anything",
@@ -235,7 +235,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2273430/5c36efc4b1601b22a64b5f58e8b42e8e15b1c20c.jpg",
       "hidden": false,
       "group": "Update 1",
-      "percent": "46.9"
+      "percent": "47.0"
     },
     "1006": {
       "name": "Scavenger",
@@ -271,7 +271,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2273430/29bf2cc323830170019cd2bd34a59b26df775e9e.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "54.2"
+      "percent": "54.3"
     },
     "2002": {
       "name": "Skillful",
@@ -280,7 +280,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2273430/db6e468564c174e598cae729070488229ec81a20.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "54.8"
+      "percent": "54.9"
     },
     "4008": {
       "name": "Small-time Gambler",
@@ -343,7 +343,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2273430/0bc4b9d5bda8c6d7dd98eccfb26f0bd48b453ecc.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "9.6"
+      "percent": "9.7"
     },
     "2017": {
       "name": "Tactic Collector: Light",
@@ -370,7 +370,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2273430/a2aa06f99b4f7885db61f17e3a5f9955db80bcf6.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "67.1"
+      "percent": "67.2"
     },
     "1004": {
       "name": "Unknown Data",
@@ -379,7 +379,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2273430/dadbcc6df55e088e8ab14b6edb5393b1d72417ef.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "73.4"
+      "percent": "73.5"
     },
     "5004": {
       "name": "Unstoppable Force",

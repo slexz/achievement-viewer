@@ -19,7 +19,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2062430/0a168e407e3a83d90a66f381fb6f97b772e3596d.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "37.0"
+      "percent": "37.1"
     },
     "complete_game": {
       "name": "Ballbylon Has Risen",
@@ -28,7 +28,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2062430/6d017de5f933562427d2f4216685cf389e9ad7d7.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "24.7"
+      "percent": "24.8"
     },
     "complete_graveyards": {
       "name": "BONExYARD",
@@ -55,7 +55,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2062430/8c804e8d70aeed5d096b0fe02ae9112a8e547ac7.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "23.9"
+      "percent": "24.0"
     },
     "100_wheat_harvest": {
       "name": "Bountiful Harvest",
@@ -64,7 +64,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2062430/68a10c5044eb9b2304958ae2b00e932009de874f.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "34.5"
+      "percent": "34.6"
     },
     "brickhead_all_levels": {
       "name": "Brick Breaker",
@@ -73,7 +73,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2062430/a6b05879ae04f0f6200eaf1b3a62137775c6c288.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "12.5"
+      "percent": "12.6"
     },
     "construct_carpenter": {
       "name": "Carpenter",
@@ -82,7 +82,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2062430/9f344eef588e6fb5f17db66251c960d49a76219f.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "35.8"
+      "percent": "35.9"
     },
     "collect_all_blueprints": {
       "name": "City Planner",
@@ -91,7 +91,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2062430/2e4ea1384e97dfed863afd15b2b962c45e1b7c9a.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "44.9"
+      "percent": "45.0"
     },
     "cogitator_all_levels": {
       "name": "Cogitated",
@@ -136,7 +136,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2062430/e78f2724d8dc60be3dd3c3bde26a721fa5611fca.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "12.2"
+      "percent": "12.3"
     },
     "first_evo": {
       "name": "Evolution",
@@ -154,7 +154,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2062430/7ca60448907113b7f8b5f903b36938bd32ece2b0.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "30.8"
+      "percent": "30.9"
     },
     "complete_shroom": {
       "name": "FUNGALxFOREST",
@@ -163,7 +163,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2062430/8753a2616043b051cf4810fddcb87aaa6fcc1dc0.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "55.9"
+      "percent": "56.0"
     },
     "complete_shroom10": {
       "name": "FUNGALxFOREST Conquered",
@@ -172,7 +172,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2062430/8753a2616043b051cf4810fddcb87aaa6fcc1dc0.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "22.9"
+      "percent": "23.0"
     },
     "first_fusion": {
       "name": "Fusion",
@@ -190,7 +190,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2062430/a2fb5861495bf5cff15d762027b4970499376b21.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "74.9"
+      "percent": "75.0"
     },
     "1000_gold_harvest": {
       "name": "Gold Miner",
@@ -199,7 +199,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2062430/7160e6cdce8d4ce435793589eafb7074fa11a0cc.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "23.3"
+      "percent": "23.4"
     },
     "emptynester_all_levels": {
       "name": "Golden Years",
@@ -217,7 +217,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2062430/bbc6938b774864d74ae002a666d00de9e8c181d7.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "49.1"
+      "percent": "49.2"
     },
     "complete_savanna10": {
       "name": "GORYxGRASSLANDS Conquered",
@@ -226,7 +226,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2062430/bbc6938b774864d74ae002a666d00de9e8c181d7.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "18.4"
+      "percent": "18.5"
     },
     "physicist_all_levels": {
       "name": "Gravity's Rainbow",
@@ -244,7 +244,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2062430/841516b2dffa48863515278954d79ae3d6811a93.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "40.4"
+      "percent": "40.5"
     },
     "complete_heaven10": {
       "name": "HEAVENLYxGATES Conquered",
@@ -253,7 +253,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2062430/841516b2dffa48863515278954d79ae3d6811a93.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "14.4"
+      "percent": "14.5"
     },
     "sisyphus_all_levels": {
       "name": "Herculean",
@@ -262,7 +262,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2062430/7221804e75aa0bd560366c119202e53ea4cc6da6.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "12.0"
+      "percent": "12.1"
     },
     "itchyfinger_all_levels": {
       "name": "Itch Scratched",
@@ -271,7 +271,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2062430/c696bcc65f4514962c0d0e3e2313356140601e99.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "20.2"
+      "percent": "20.3"
     },
     "expand5": {
       "name": "Land Grabber",
@@ -289,7 +289,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2062430/50b6adbae68837fb4461c75c1daae7a37d24ef4a.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "20.7"
+      "percent": "20.8"
     },
     "complete_desert": {
       "name": "LIMINALxDESERT",
@@ -325,7 +325,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2062430/5cde26f0df8fb6d08f5d8cebaa8f5530f5c26058.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "12.4"
+      "percent": "12.5"
     },
     "tactician_all_levels": {
       "name": "Master General",
@@ -343,7 +343,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2062430/6d872218dd7235072bf184739c960888a4332f78.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "34.0"
+      "percent": "34.1"
     },
     "place_15_houses": {
       "name": "Neighborhood",
@@ -352,7 +352,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2062430/8d5fa782cc20e7d7629cb48a03f75af756e31afa.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "40.3"
+      "percent": "40.4"
     },
     "create_nosferatu": {
       "name": "Nosferatu",
@@ -370,7 +370,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2062430/409f99c20a968455b0299cb77bce54985b666e43.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "35.4"
+      "percent": "35.5"
     },
     "radicalai_all_levels": {
       "name": "Radicalized",
@@ -406,7 +406,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2062430/1654fc1c8a2c69ab68dbb610155a143cf06b53f4.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "72.4"
+      "percent": "72.5"
     },
     "stat_scaling_full_upgrade": {
       "name": "S Rank",
@@ -415,7 +415,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2062430/dd739e7821670a942d26dcae15453b2215701824.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "41.3"
+      "percent": "41.4"
     },
     "create_satan": {
       "name": "Satan",
@@ -424,7 +424,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2062430/a76bd1942dd87ea74f80e89486a857c778bd5858.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "16.4"
+      "percent": "16.5"
     },
     "complete_encyclopedia": {
       "name": "Scholar",
@@ -442,7 +442,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2062430/91a8cdc19959b4b6065626bcdf60c27561b1b7d4.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "44.2"
+      "percent": "44.3"
     },
     "complete_fiery10": {
       "name": "SMOLDERINGxDEPTHS Conquered",
@@ -451,7 +451,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2062430/91a8cdc19959b4b6065626bcdf60c27561b1b7d4.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "16.9"
+      "percent": "17.0"
     },
     "complete_snowy": {
       "name": "SNOWYxSHORES",
@@ -460,7 +460,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2062430/fdc28eba8bf9696a4d4fc08f7d04770985ea949c.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "77.1"
+      "percent": "77.2"
     },
     "complete_snowy10": {
       "name": "SNOWYxSHORES Conquered",
@@ -469,7 +469,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2062430/fdc28eba8bf9696a4d4fc08f7d04770985ea949c.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "27.2"
+      "percent": "27.3"
     },
     "create_soulreaver": {
       "name": "Soul Reaver",
@@ -487,7 +487,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2062430/a7189d5b64bb4bf7657f71c4c509e5d1ac7d4d99.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "47.2"
+      "percent": "47.3"
     },
     "stat_building_full_upgrade": {
       "name": "Structural Power",
@@ -523,7 +523,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2062430/30204b17c6a6bd3f5597f7a25a428616c1886da3.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "17.7"
+      "percent": "17.8"
     },
     "complete_void": {
       "name": "VASTxVOID",
@@ -532,7 +532,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2062430/7064637750c7162269b6500e0c07b036259059c8.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "35.6"
+      "percent": "35.7"
     },
     "complete_void10": {
       "name": "VASTxVOID Conquered",
@@ -559,7 +559,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2062430/ab6e9af0aa91d0bbb6557e3dff07761e74db3fb8.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "51.6"
+      "percent": "51.7"
     },
     "construct_workersguild": {
       "name": "Worker's Guild",
@@ -568,7 +568,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2062430/782198ea66fcfcdec4998a977e1713e0665ec8b9.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "28.2"
+      "percent": "28.3"
     }
   },
   "platform": null,
