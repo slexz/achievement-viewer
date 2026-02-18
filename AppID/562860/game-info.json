@@ -208,7 +208,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/562860/c7f2000e9d8c3dd56dcedb7f73710e7d2f038076.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "21.4"
+      "percent": "21.3"
     },
     "ACH_ASHOCK_MEGA_SECRET_3": {
       "name": "Finding Fido",
@@ -451,7 +451,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/562860/ea678e499ddbb6e5f5fb0e16f01c9e45664ef1a3.jpg",
       "hidden": true,
       "group": "Update 1",
-      "percent": "1.0"
+      "percent": "1.1"
     },
     "ACH_MEGA_SECRET_5": {
       "name": "Terminated!",
@@ -514,7 +514,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/562860/3bf15e8a0e8f5abe622c3ce88ccbb7cc134b6972.jpg",
       "hidden": true,
       "group": "Update 1",
-      "percent": "4.6"
+      "percent": "4.7"
     },
     "ACH_MEGA_SECRET_6": {
       "name": "Ultimate Failure",
