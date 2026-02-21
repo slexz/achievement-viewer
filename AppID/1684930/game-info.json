@@ -10,7 +10,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1684930/8e972c5381d81c17d69bb2f3cd879dd648784b45.jpg",
       "hidden": false,
       "group": "CULTIC: Chapter Two",
-      "percent": "3.4"
+      "percent": "3.5"
     },
     "ACH_CAN": {
       "name": "Barrels O' Fun",
@@ -55,7 +55,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1684930/27e52d0c451e6d36f2f34afe66c6c37b8d6399ef.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "18.7"
+      "percent": "18.8"
     },
     "ACH_TRAIN": {
       "name": "Get Off My Train!",
@@ -82,7 +82,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1684930/fd895f074c2952a269601d1f9ddc2cfaff8f98b1.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "15.3"
+      "percent": "15.4"
     },
     "ACH_CASHSPENT": {
       "name": "Heh heh heh... thank you",
@@ -145,7 +145,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1684930/f99b8daa9415c706d78d4e7823e418d58fec29c5.jpg",
       "hidden": false,
       "group": "CULTIC: Chapter Two",
-      "percent": "6.3"
+      "percent": "6.4"
     },
     "ACH_HEADSHOTS": {
       "name": "Melon Popper",
@@ -181,7 +181,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1684930/c4aa775cc40ee930bc914bb327d264ce2ed7483b.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "15.8"
+      "percent": "15.9"
     },
     "ACH_DEFLECTIONS": {
       "name": "Not today, thank you!",
@@ -199,7 +199,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1684930/326512bab1438344215dc13d5780c5b6a648fa83.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "32.1"
+      "percent": "32.2"
     },
     "ACH_PROPSNIPE": {
       "name": "Prop Sniping",
@@ -262,7 +262,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1684930/8fb96f803c7be3dc4c08f48e6bc608aa8379eb45.jpg",
       "hidden": false,
       "group": "CULTIC: Chapter Two",
-      "percent": "12.6"
+      "percent": "12.7"
     },
     "ACH_HEADSHOT_PEN": {
       "name": "Stack 'em Up",
@@ -280,7 +280,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1684930/23c068b5f53d11e7aa1808f44a86e52b0fd0a3eb.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "27.1"
+      "percent": "27.2"
     },
     "ACH_THRONE": {
       "name": "There's no time for resting.",
@@ -316,7 +316,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1684930/b4bbaf3b523738f462ad8db57ee4c488cfcbda84.jpg",
       "hidden": true,
       "group": "CULTIC: Chapter Two",
-      "percent": "7.8"
+      "percent": "7.9"
     }
   },
   "platform": null,
