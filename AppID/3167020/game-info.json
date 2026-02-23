@@ -28,7 +28,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3167020/8b4ad4c27f996c1560c91fd55f9bd71547089490.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "64.0"
+      "percent": "63.9"
     },
     "Endowmment_Berserker": {
       "name": "Berserker",
@@ -172,7 +172,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3167020/8b4ad4c27f996c1560c91fd55f9bd71547089490.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "92.1"
+      "percent": "92.0"
     },
     "Building_Merchant_Equipment": {
       "name": "Fully Armed",
@@ -361,7 +361,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3167020/8b4ad4c27f996c1560c91fd55f9bd71547089490.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "15.3"
+      "percent": "15.2"
     },
     "Building_MiningMachine": {
       "name": "Passive Income",
@@ -370,7 +370,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3167020/8b4ad4c27f996c1560c91fd55f9bd71547089490.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "37.6"
+      "percent": "37.5"
     },
     "Endowmment_Porter": {
       "name": "Porter",
@@ -496,7 +496,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3167020/8b4ad4c27f996c1560c91fd55f9bd71547089490.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "24.3"
+      "percent": "24.2"
     }
   },
   "platform": null,
