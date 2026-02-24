@@ -82,7 +82,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2062430/9f344eef588e6fb5f17db66251c960d49a76219f.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "36.1"
+      "percent": "36.2"
     },
     "collect_all_blueprints": {
       "name": "City Planner",
@@ -91,7 +91,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2062430/2e4ea1384e97dfed863afd15b2b962c45e1b7c9a.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "45.2"
+      "percent": "45.3"
     },
     "cogitator_all_levels": {
       "name": "Cogitated",
@@ -172,7 +172,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2062430/8753a2616043b051cf4810fddcb87aaa6fcc1dc0.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "23.1"
+      "percent": "23.2"
     },
     "first_fusion": {
       "name": "Fusion",
@@ -208,7 +208,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2062430/b15e4fa9afad9580fbae3f549e5de435a3510d27.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "12.1"
+      "percent": "12.2"
     },
     "complete_savanna": {
       "name": "GORYxGRASSLANDS",
@@ -289,7 +289,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2062430/50b6adbae68837fb4461c75c1daae7a37d24ef4a.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "21.0"
+      "percent": "21.1"
     },
     "complete_desert": {
       "name": "LIMINALxDESERT",
@@ -388,7 +388,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2062430/6e5e8adb57e5d8d5cbbd9500b844274f4b40e109.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "30.1"
+      "percent": "30.2"
     },
     "recaller_all_levels": {
       "name": "Repentance",
@@ -424,7 +424,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2062430/a76bd1942dd87ea74f80e89486a857c778bd5858.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "16.6"
+      "percent": "16.7"
     },
     "complete_encyclopedia": {
       "name": "Scholar",
@@ -442,7 +442,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2062430/91a8cdc19959b4b6065626bcdf60c27561b1b7d4.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "44.5"
+      "percent": "44.6"
     },
     "complete_fiery10": {
       "name": "SMOLDERINGxDEPTHS Conquered",
@@ -496,7 +496,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2062430/ccc0f9422ef9a893fe7f18d6d792332bcb1668a8.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "53.9"
+      "percent": "54.0"
     },
     "construct_trophy": {
       "name": "Trophy",

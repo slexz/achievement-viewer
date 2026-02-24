@@ -82,7 +82,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1145350/6d198c14e5153963cbf0aa8d4399a4368bdc51dc.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "21.4"
+      "percent": "21.5"
     },
     "AchFishingPier": {
       "name": "Catch of the Night",
@@ -109,7 +109,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1145350/5fb1266ca5567441d8c9aa08fb238a37d725138e.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "10.8"
+      "percent": "10.9"
     },
     "AchTrueEnding": {
       "name": "Death to Chronos",
@@ -127,7 +127,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1145350/22fad3142d7234ae65005529c90154c95a35a846.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "13.7"
+      "percent": "13.8"
     },
     "AchTartarusInDress": {
       "name": "Dressed to Kill",
@@ -145,7 +145,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1145350/717c6d9887dacb40625ba0ed2fbc1bac0be5180d.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "14.6"
+      "percent": "14.7"
     },
     "AchNemesisCombat": {
       "name": "Fair Fight",
@@ -397,7 +397,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1145350/ae9679f45ac4433c582d0a6e434e1df125ea83dc.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "33.2"
+      "percent": "33.3"
     },
     "AchClearOceanus": {
       "name": "Witch of the Depths",
@@ -406,7 +406,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1145350/bacabdad32d575e03ef718f091249e639d394f9f.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "56.3"
+      "percent": "56.4"
     },
     "AchClearOlympus": {
       "name": "Witch of the Mountains",
@@ -433,7 +433,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1145350/ead0acbb6c3cb0739f7fd377c38faa8a144408b3.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "52.8"
+      "percent": "52.9"
     },
     "AchClearThessaly": {
       "name": "Witch of the Waters",
@@ -451,7 +451,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1145350/40ee8c3795ae62300c90157abd8da5f3d02e3d5d.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "62.0"
+      "percent": "62.1"
     }
   },
   "platform": null,

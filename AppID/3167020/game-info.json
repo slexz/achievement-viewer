@@ -136,7 +136,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3167020/8b4ad4c27f996c1560c91fd55f9bd71547089490.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "12.7"
+      "percent": "12.8"
     },
     "FirstBlood": {
       "name": "First Blood",
@@ -163,7 +163,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3167020/8b4ad4c27f996c1560c91fd55f9bd71547089490.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "65.3"
+      "percent": "65.2"
     },
     "Arrive_Level_GroundZero_Main": {
       "name": "Fresh Air",
