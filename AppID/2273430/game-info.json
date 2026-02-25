@@ -55,7 +55,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2273430/1d9436ae0297801bf1e734dc14fa97da773000b8.jpg",
       "hidden": false,
       "group": "Update 1",
-      "percent": "19.2"
+      "percent": "19.1"
     },
     "3006": {
       "name": "Can't Hurt Me If You Can't Hit Me",
@@ -118,7 +118,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2273430/db6e468564c174e598cae729070488229ec81a20.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "34.0"
+      "percent": "33.9"
     },
     "1007": {
       "name": "Genetic Code",
@@ -163,7 +163,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2273430/22d14f265e403e64cf7d0614914293a6d96aba62.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "73.7"
+      "percent": "73.8"
     },
     "1011": {
       "name": "Mind Challenge Ⅰ",
@@ -271,7 +271,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2273430/29bf2cc323830170019cd2bd34a59b26df775e9e.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "53.9"
+      "percent": "54.0"
     },
     "2002": {
       "name": "Skillful",
@@ -316,7 +316,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2273430/9ca36d7aabb0d0ceeb8bd2798cac144d69644fd5.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "4.9"
+      "percent": "5.0"
     },
     "2014": {
       "name": "Tactic Collector: Electricity",
@@ -388,7 +388,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2273430/4b5dacab0e09bbef169adedd4e5427cf79abe37e.jpg",
       "hidden": false,
       "group": "Update 1",
-      "percent": "15.6"
+      "percent": "15.5"
     }
   },
   "platform": null,
