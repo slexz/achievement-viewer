@@ -32,8 +32,8 @@
     "earned_time": 0
   },
   "BG3_Quest09": {
-    "earned": false,
-    "earned_time": 0,
+    "earned": true,
+    "earned_time": 1771814842,
     "max_progress": 10,
     "progress": 0
   },
@@ -80,8 +80,8 @@
     "earned_time": 0
   },
   "BG3_Quest19": {
-    "earned": false,
-    "earned_time": 0
+    "earned": true,
+    "earned_time": 1772138116
   },
   "BG3_Quest20": {
     "earned": false,
@@ -128,8 +128,8 @@
     "progress": 0
   },
   "BG3_Quest30": {
-    "earned": false,
-    "earned_time": 0
+    "earned": true,
+    "earned_time": 1772142192
   },
   "BG3_Quest31": {
     "earned": true,
@@ -180,8 +180,8 @@
     "earned_time": 0
   },
   "BG3_Quest43": {
-    "earned": false,
-    "earned_time": 0,
+    "earned": true,
+    "earned_time": 1771832337,
     "max_progress": 100,
     "progress": 0
   },
