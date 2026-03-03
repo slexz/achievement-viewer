@@ -9,7 +9,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/813230/00a015b4b1b16658f63daf1e08dc68b489e5dc0f.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/813230/50527e78efbb47e043479a9e960eeb2a4d55ba0a.jpg",
       "hidden": true,
-      "group": "Base Game"
+      "group": "Base Game",
+      "percent": "59.2"
     },
     "POP_BUBBLES": {
       "name": "BUBBLE ECSTASY",
@@ -17,7 +18,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/813230/e9188bf7f7ba2a6595e9c75c49b90e3b97a573a0.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/813230/50527e78efbb47e043479a9e960eeb2a4d55ba0a.jpg",
       "hidden": true,
-      "group": "Base Game"
+      "group": "Base Game",
+      "percent": "30.9"
     },
     "LIGHT_ALL_CANDLES": {
       "name": "CANDLE BRIGHT",
@@ -25,7 +27,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/813230/4031f8ca0e462cf80eead1560d27b1be38c14989.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/813230/50527e78efbb47e043479a9e960eeb2a4d55ba0a.jpg",
       "hidden": true,
-      "group": "Base Game"
+      "group": "Base Game",
+      "percent": "22.4"
     },
     "DEFEAT_CHAMELEON": {
       "name": "CHAMELEON",
@@ -33,7 +36,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/813230/77b9c8684d6655207398681c47cbe91a2ace0f10.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/813230/50527e78efbb47e043479a9e960eeb2a4d55ba0a.jpg",
       "hidden": true,
-      "group": "Base Game"
+      "group": "Base Game",
+      "percent": "44.7"
     },
     "COLLECT_8_EGGS": {
       "name": "EGG ENJOYER",
@@ -41,7 +45,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/813230/67666b8dffd5821527b45bbc3700d2a96b228599.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/813230/50527e78efbb47e043479a9e960eeb2a4d55ba0a.jpg",
       "hidden": true,
-      "group": "Base Game"
+      "group": "Base Game",
+      "percent": "55.9"
     },
     "COLLECT_16_EGGS": {
       "name": "EGG HOBBYIST",
@@ -49,7 +54,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/813230/705f4a039a16f1f1fb360afc0bb42112bff665d9.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/813230/50527e78efbb47e043479a9e960eeb2a4d55ba0a.jpg",
       "hidden": true,
-      "group": "Base Game"
+      "group": "Base Game",
+      "percent": "47.6"
     },
     "COLLECT_32_EGGS": {
       "name": "EGG LORD",
@@ -57,7 +63,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/813230/6c79fe492b58f6d8fea24c9ec54234e8a4c2fce5.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/813230/50527e78efbb47e043479a9e960eeb2a4d55ba0a.jpg",
       "hidden": true,
-      "group": "Base Game"
+      "group": "Base Game",
+      "percent": "32.8"
     },
     "COLLECT_ALL_EGGS": {
       "name": "EGG WELL",
@@ -65,7 +72,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/813230/8af0fbfaf4360a574eee911c978ee182db7d9f9f.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/813230/50527e78efbb47e043479a9e960eeb2a4d55ba0a.jpg",
       "hidden": true,
-      "group": "Base Game"
+      "group": "Base Game",
+      "percent": "16.8"
     },
     "LEAVE_WELL": {
       "name": "EXIT",
@@ -73,7 +81,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/813230/b67e348882bab4d3519b915f4d332dec65a5b3c7.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/813230/50527e78efbb47e043479a9e960eeb2a4d55ba0a.jpg",
       "hidden": true,
-      "group": "Base Game"
+      "group": "Base Game",
+      "percent": "15.4"
     },
     "COLLECT_MAP": {
       "name": "EXPLORER",
@@ -81,7 +90,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/813230/4bbbed9216852d1eb0ff7a9958cda1faff07bd95.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/813230/50527e78efbb47e043479a9e960eeb2a4d55ba0a.jpg",
       "hidden": false,
-      "group": "Base Game"
+      "group": "Base Game",
+      "percent": "92.2"
     },
     "DEFEAT_GHOST_DOG": {
       "name": "GHOST",
@@ -89,7 +99,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/813230/72213dca4480c51f821b5da5e8b0ace552213ba0.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/813230/50527e78efbb47e043479a9e960eeb2a4d55ba0a.jpg",
       "hidden": true,
-      "group": "Base Game"
+      "group": "Base Game",
+      "percent": "40.9"
     },
     "GET_CRUSHED_BY_CHINCHILLA": {
       "name": "GOOD ENDING",
@@ -97,7 +108,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/813230/56c7443888119e60b29017a724119edf4386e05a.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/813230/50527e78efbb47e043479a9e960eeb2a4d55ba0a.jpg",
       "hidden": true,
-      "group": "Base Game"
+      "group": "Base Game",
+      "percent": "24.0"
     },
     "DEFEAT_MANTICORE": {
       "name": "MANTICORE",
@@ -105,7 +117,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/813230/b2445d174dbf192475d426ac54400413a72fb25c.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/813230/50527e78efbb47e043479a9e960eeb2a4d55ba0a.jpg",
       "hidden": true,
-      "group": "Base Game"
+      "group": "Base Game",
+      "percent": "36.8"
     },
     "DEFEAT_OSTRICH": {
       "name": "OSTRICH",
@@ -113,7 +126,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/813230/953f5501f27eb91fdc2caf246a1eebc175afaaea.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/813230/50527e78efbb47e043479a9e960eeb2a4d55ba0a.jpg",
       "hidden": true,
-      "group": "Base Game"
+      "group": "Base Game",
+      "percent": "44.7"
     },
     "DEFEAT_SEAHORSE": {
       "name": "SEAHORSE",
@@ -121,7 +135,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/813230/c552dad4473ef810557def44365bfa0d63ac4adc.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/813230/50527e78efbb47e043479a9e960eeb2a4d55ba0a.jpg",
       "hidden": true,
-      "group": "Base Game"
+      "group": "Base Game",
+      "percent": "44.4"
     },
     "COLLECT_EGG": {
       "name": "SECRET EGG",
@@ -129,7 +144,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/813230/931bc11f79bb2dd4d2031887ca25b83b24e993fd.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/813230/50527e78efbb47e043479a9e960eeb2a4d55ba0a.jpg",
       "hidden": true,
-      "group": "Base Game"
+      "group": "Base Game",
+      "percent": "93.4"
     },
     "FIND_RABBIT": {
       "name": "SECRET RABBIT",
@@ -137,7 +153,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/813230/a2ca0d439c080e2fe2c95c1e8c43b2ccd325cb4b.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/813230/50527e78efbb47e043479a9e960eeb2a4d55ba0a.jpg",
       "hidden": true,
-      "group": "Base Game"
+      "group": "Base Game",
+      "percent": "32.4"
     },
     "TOUCH_SQUIRREL": {
       "name": "SNEAK",
@@ -145,7 +162,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/813230/c7aaac0e7bf1507298427f0f0d74c1c6ee54dd03.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/813230/50527e78efbb47e043479a9e960eeb2a4d55ba0a.jpg",
       "hidden": true,
-      "group": "Base Game"
+      "group": "Base Game",
+      "percent": "8.5"
     },
     "FLUTE_WARP": {
       "name": "TRAVEL FLUTE",
@@ -153,7 +171,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/813230/6b669c974a60b4554799ee4311d54d269d1e0f17.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/813230/50527e78efbb47e043479a9e960eeb2a4d55ba0a.jpg",
       "hidden": true,
-      "group": "Base Game"
+      "group": "Base Game",
+      "percent": "39.0"
     },
     "YOYO_RIDE": {
       "name": "WALK THE DOG",
@@ -161,7 +180,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/813230/27cb14fe24e211ca7c8b694660a5e4ead36085a6.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/813230/50527e78efbb47e043479a9e960eeb2a4d55ba0a.jpg",
       "hidden": true,
-      "group": "Base Game"
+      "group": "Base Game",
+      "percent": "47.3"
     }
   },
   "platform": null,
