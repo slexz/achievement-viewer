@@ -1,7 +1,7 @@
 {
   "appid": "3167020",
   "name": "Escape From Duckov",
-  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3167020/14dca99d7241b9fcba681375bc2091d5049061d9/header_alt_assets_0.jpg?t=1770693869",
+  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3167020/14dca99d7241b9fcba681375bc2091d5049061d9/header_alt_assets_0.jpg?t=1772618681",
   "achievements": {
     "Building_Kitchen": {
       "name": "Air Force Commander",
@@ -64,7 +64,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3167020/8b4ad4c27f996c1560c91fd55f9bd71547089490.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "8.7"
+      "percent": "8.8"
     },
     "Kill_Cname_UltraMan_1": {
       "name": "Do You Believe in Light",
@@ -163,7 +163,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3167020/8b4ad4c27f996c1560c91fd55f9bd71547089490.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "65.3"
+      "percent": "65.2"
     },
     "Arrive_Level_GroundZero_Main": {
       "name": "Fresh Air",
@@ -496,7 +496,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3167020/8b4ad4c27f996c1560c91fd55f9bd71547089490.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "24.3"
+      "percent": "24.4"
     }
   },
   "platform": null,
