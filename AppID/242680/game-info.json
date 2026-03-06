@@ -118,7 +118,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/242680/e4ec6fcccf01b31e549bd7080008370cfe199a5c.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "7.1"
+      "percent": "7.2"
     },
     "a32": {
       "name": "Dog Owner",
@@ -235,7 +235,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/242680/af00638bdeca7f02e6ec7c802aaaafb4cd22461a.jpg",
       "hidden": true,
       "group": "Update 1",
-      "percent": "2.5"
+      "percent": "2.6"
     },
     "a48": {
       "name": "HHMMMM!",
@@ -307,7 +307,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/242680/2935aeeeda10d99b179d9894aba3e829a80878d3.jpg",
       "hidden": true,
       "group": "Update 1",
-      "percent": "1.0"
+      "percent": "1.1"
     },
     "a21": {
       "name": "Never Look Back",
