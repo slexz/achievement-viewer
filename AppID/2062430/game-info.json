@@ -109,7 +109,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2062430/3513fb2a033213d12597fcc4636f23ffffe9156e.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "17.8"
+      "percent": "17.7"
     },
     "100_wood_harvest": {
       "name": "Deforestation",
@@ -163,7 +163,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2062430/8753a2616043b051cf4810fddcb87aaa6fcc1dc0.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "56.4"
+      "percent": "56.3"
     },
     "complete_shroom10": {
       "name": "FUNGALxFOREST Conquered",
@@ -451,7 +451,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2062430/91a8cdc19959b4b6065626bcdf60c27561b1b7d4.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "17.3"
+      "percent": "17.2"
     },
     "complete_snowy": {
       "name": "SNOWYxSHORES",
@@ -550,7 +550,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2062430/8534a77e8fcf139f20e41125f6686c278d45af2d.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "57.5"
+      "percent": "57.4"
     },
     "1000_wood": {
       "name": "Woodcutter",
