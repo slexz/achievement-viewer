@@ -1,5 +1,5 @@
 {
-  "last_updated": 1773456401,
+  "last_updated": 1773545158,
   "total_games": 13,
   "games": [
     {
@@ -8250,7 +8250,7 @@
             "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1684930/e1d9226dc99441d5161768417afb70b9b65dd11a.jpg",
             "hidden": false,
             "group": "CULTIC: Chapter Two",
-            "percent": "2.1"
+            "percent": "2.2"
           },
           "ACH_GALLERY": {
             "name": "But You Have Heard of Me!",
@@ -8286,7 +8286,7 @@
             "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1684930/cbc095932729a2f4585558ae24c3988b9f334dcc.jpg",
             "hidden": false,
             "group": "CULTIC: Chapter Two",
-            "percent": "8.2"
+            "percent": "8.3"
           },
           "ACH_GHOST": {
             "name": "Great Minds Think Alike",
@@ -8376,7 +8376,7 @@
             "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1684930/014a014215e25383ffbbb56bfe63f80971714df6.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "51.6"
+            "percent": "51.5"
           },
           "ACH_SHAME": {
             "name": "My deepest shame",
@@ -8430,7 +8430,7 @@
             "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1684930/14739627f6da7c29985688e87009b8c28e9d3aa0.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "6.5"
+            "percent": "6.6"
           },
           "ACH_TEDDY": {
             "name": "Rescue Mission",
@@ -8448,7 +8448,7 @@
             "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1684930/25022d380fe6966235e2f3d8ae97fbc35b1eb0e9.jpg",
             "hidden": false,
             "group": "CULTIC: Chapter Two",
-            "percent": "0.5"
+            "percent": "0.6"
           },
           "ACH_RTS": {
             "name": "Return to Sender",
@@ -8484,7 +8484,7 @@
             "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1684930/8fb96f803c7be3dc4c08f48e6bc608aa8379eb45.jpg",
             "hidden": false,
             "group": "CULTIC: Chapter Two",
-            "percent": "12.8"
+            "percent": "12.9"
           },
           "ACH_HEADSHOT_PEN": {
             "name": "Stack 'em Up",
