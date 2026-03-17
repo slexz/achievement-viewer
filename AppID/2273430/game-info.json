@@ -28,7 +28,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2273430/cded9128d05ec9e7c7f1351bd07ccbff624ae641.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "13.5"
+      "percent": "13.4"
     },
     "4007": {
       "name": "Better Luck Next Time",
@@ -37,7 +37,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2273430/25d357428b532d267c8cf9776166963a8cd081e7.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "56.8"
+      "percent": "56.9"
     },
     "4005": {
       "name": "Better Than Master",
@@ -55,7 +55,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2273430/1d9436ae0297801bf1e734dc14fa97da773000b8.jpg",
       "hidden": false,
       "group": "Update 1",
-      "percent": "19.4"
+      "percent": "19.5"
     },
     "3006": {
       "name": "Can't Hurt Me If You Can't Hit Me",
@@ -73,7 +73,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2273430/3f877ceb0761f910f7bd97552d9f2deb59d4d212.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "72.8"
+      "percent": "72.9"
     },
     "1020": {
       "name": "Destination",
@@ -217,7 +217,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2273430/25fa0054f0c791e0cdfae02b3e2096312d55e27f.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "23.0"
+      "percent": "23.1"
     },
     "1010": {
       "name": "Over But Not Over",
@@ -262,7 +262,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2273430/5269eb6bfce99c8f95af579fe1c9ba916dae85ea.jpg",
       "hidden": false,
       "group": "Update 1",
-      "percent": "14.0"
+      "percent": "14.1"
     },
     "1009": {
       "name": "Showdown Warm-up",
@@ -388,7 +388,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2273430/4b5dacab0e09bbef169adedd4e5427cf79abe37e.jpg",
       "hidden": false,
       "group": "Update 1",
-      "percent": "16.0"
+      "percent": "16.1"
     }
   },
   "platform": null,

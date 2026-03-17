@@ -181,7 +181,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/242680/2f9f8dca399e8bf27863e05338e23e05f7600a9f.jpg",
       "hidden": true,
       "group": "Update 1",
-      "percent": "1.2"
+      "percent": "1.3"
     },
     "a36": {
       "name": "Frog Slayer",
@@ -406,7 +406,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/242680/1c915973909c6ea4cdb5c8bdd1ba8d34823e493e.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "33.2"
+      "percent": "33.3"
     },
     "a58": {
       "name": "Strapped",
