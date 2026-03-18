@@ -136,7 +136,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1086940/e4c865a4a82aa1b049a782e349009664f4634d65.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "7.5"
+      "percent": "7.6"
     },
     "BG3_Quest14": {
       "name": "Escapologist",
@@ -271,7 +271,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1086940/f0124a5113d5c20c48e80a4deb5994d2be348966.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "11.0"
+      "percent": "11.1"
     },
     "BG3_Quest24": {
       "name": "Leave No One Behind",
@@ -433,7 +433,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1086940/f3231abe1436a3b8211233dfb2e1e116e8e79fd5.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "36.6"
+      "percent": "36.7"
     },
     "BG3_Quest03": {
       "name": "The City Awaits",
