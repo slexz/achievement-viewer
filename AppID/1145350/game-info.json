@@ -55,7 +55,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1145350/99d2154cd56debcda24f71a30004597556e458b0.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "23.0"
+      "percent": "22.9"
     },
     "AchClearChaosQuest": {
       "name": "Born to Win",
@@ -73,7 +73,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1145350/575bd330783b5a014724e461920803c25680f318.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "36.2"
+      "percent": "36.1"
     },
     "AchSummonSiren": {
       "name": "Breaking Up the Band",
@@ -91,7 +91,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1145350/938b874492943d462994f7f4809a640979835d0e.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "34.4"
+      "percent": "34.3"
     },
     "AchAllRandomUnderworld": {
       "name": "Chaos in Hell",
@@ -154,7 +154,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1145350/caf791f68909a5f4b2e679192c180c5ce3485543.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "13.1"
+      "percent": "13.0"
     },
     "AchConfideFrinos": {
       "name": "Familiar Confidant",
@@ -172,7 +172,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1145350/6939fa86ab96cff5068d1d631203274585d8f24f.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "17.7"
+      "percent": "17.6"
     },
     "AchAllOtherAch": {
       "name": "Goddess of Nightmares",
@@ -244,7 +244,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1145350/4d28974d1f966e6bac5221972ec64441a283944d.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "31.4"
+      "percent": "31.3"
     },
     "AchBeatHecateNoArcana": {
       "name": "Natural Talent",
@@ -262,7 +262,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1145350/a6eea86ad94580bbf3b8f9e44de9af1fe6a458ef.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "10.1"
+      "percent": "10.0"
     },
     "AchKillWitchAsSheep": {
       "name": "Sheep's Clothing",
@@ -289,7 +289,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1145350/218670037563eb2f2fb9918c4c37ed63bc921d9b.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "40.3"
+      "percent": "40.2"
     },
     "AchBathHouse": {
       "name": "Soothing Soak",
@@ -316,7 +316,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1145350/683178bcd525d5ff8faf28205e10dbd5565e9136.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "12.5"
+      "percent": "12.4"
     },
     "AchAllWeapons": {
       "name": "The Arms of Night",
@@ -325,7 +325,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1145350/d3001619a5b39f634c6ee1462c02c6c7ab76f6b2.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "43.1"
+      "percent": "43.0"
     },
     "AchAllAspects": {
       "name": "The Unseen Sentinel",
@@ -388,7 +388,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1145350/4aa6f5855a9c785ecde5935211c969054797a68d.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "42.9"
+      "percent": "42.8"
     },
     "AchClearSummit": {
       "name": "Witch of the Clouds",
@@ -397,7 +397,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1145350/ae9679f45ac4433c582d0a6e434e1df125ea83dc.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "33.9"
+      "percent": "33.8"
     },
     "AchClearOceanus": {
       "name": "Witch of the Depths",
@@ -415,7 +415,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1145350/b194ffd7a653eb9cb75c05f31725dda8c8c053e6.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "40.1"
+      "percent": "40.0"
     },
     "AchClearEphyra": {
       "name": "Witch of the Outskirts",
@@ -424,7 +424,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1145350/7c5d6ddda789caf10e7a09726c5eac6e338028ac.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "48.1"
+      "percent": "48.0"
     },
     "AchClearFields": {
       "name": "Witch of the Plains",
@@ -433,7 +433,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1145350/ead0acbb6c3cb0739f7fd377c38faa8a144408b3.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "53.6"
+      "percent": "53.5"
     },
     "AchClearThessaly": {
       "name": "Witch of the Waters",

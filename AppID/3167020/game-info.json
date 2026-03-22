@@ -10,7 +10,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3167020/8b4ad4c27f996c1560c91fd55f9bd71547089490.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "58.7"
+      "percent": "58.6"
     },
     "Building_DemoTrophy": {
       "name": "All-Rounder​",
@@ -28,7 +28,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3167020/8b4ad4c27f996c1560c91fd55f9bd71547089490.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "63.9"
+      "percent": "63.8"
     },
     "Endowmment_Berserker": {
       "name": "Berserker",
@@ -73,7 +73,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3167020/8b4ad4c27f996c1560c91fd55f9bd71547089490.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "66.5"
+      "percent": "66.4"
     },
     "Kill_Cname_Roadblock_1": {
       "name": "Entry Ticket",
@@ -163,7 +163,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3167020/8b4ad4c27f996c1560c91fd55f9bd71547089490.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "65.2"
+      "percent": "65.1"
     },
     "Arrive_Level_GroundZero_Main": {
       "name": "Fresh Air",
@@ -478,7 +478,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3167020/8b4ad4c27f996c1560c91fd55f9bd71547089490.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "60.3"
+      "percent": "60.2"
     },
     "Perk_RefreshChance_4": {
       "name": "Wealth from All Sides",
@@ -496,7 +496,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3167020/8b4ad4c27f996c1560c91fd55f9bd71547089490.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "24.5"
+      "percent": "24.4"
     }
   },
   "platform": null,
