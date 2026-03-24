@@ -46,7 +46,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1684930/d406cd055cb74be9b631f18adf62ad1c35907016.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "39.8"
+      "percent": "39.9"
     },
     "ACH_SOAP": {
       "name": "Don't tell David",
@@ -145,7 +145,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1684930/f99b8daa9415c706d78d4e7823e418d58fec29c5.jpg",
       "hidden": false,
       "group": "CULTIC: Chapter Two",
-      "percent": "6.6"
+      "percent": "6.5"
     },
     "ACH_HEADSHOTS": {
       "name": "Melon Popper",
@@ -190,7 +190,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1684930/a6849f232eb2f5b8b962a93381dabf6714f5cf49.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "40.7"
+      "percent": "40.8"
     },
     "ACH_OW": {
       "name": "Ow.",
@@ -208,7 +208,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1684930/14739627f6da7c29985688e87009b8c28e9d3aa0.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "6.7"
+      "percent": "6.6"
     },
     "ACH_TEDDY": {
       "name": "Rescue Mission",
@@ -262,7 +262,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1684930/8fb96f803c7be3dc4c08f48e6bc608aa8379eb45.jpg",
       "hidden": false,
       "group": "CULTIC: Chapter Two",
-      "percent": "13.0"
+      "percent": "12.9"
     },
     "ACH_HEADSHOT_PEN": {
       "name": "Stack 'em Up",
@@ -271,7 +271,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1684930/9e5b4a6011e8ab9fa3792e7c83069b475994285a.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "65.1"
+      "percent": "65.2"
     },
     "ACH_GUNGINEER": {
       "name": "The Gungineer",
