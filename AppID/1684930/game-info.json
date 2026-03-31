@@ -19,7 +19,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1684930/dae9d96879e0f3d5ac28ca7fc996f6f2a664c3a6.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "9.6"
+      "percent": "9.5"
     },
     "ACH_BETRAYAL": {
       "name": "Betrayal",
@@ -64,7 +64,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1684930/cbc095932729a2f4585558ae24c3988b9f334dcc.jpg",
       "hidden": false,
       "group": "CULTIC: Chapter Two",
-      "percent": "8.4"
+      "percent": "8.3"
     },
     "ACH_GHOST": {
       "name": "Great Minds Think Alike",
@@ -280,7 +280,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1684930/23c068b5f53d11e7aa1808f44a86e52b0fd0a3eb.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "27.2"
+      "percent": "27.1"
     },
     "ACH_THRONE": {
       "name": "There's no time for resting.",
