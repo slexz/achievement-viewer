@@ -64,7 +64,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/242680/a0d793863a6054d3d84aa52b9836d6796ed12703.jpg",
       "hidden": true,
       "group": "Update 1",
-      "percent": "2.4"
+      "percent": "2.5"
     },
     "a14": {
       "name": "Blood Blood Blood",
@@ -100,7 +100,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/242680/88aa22bf905891ab8e79d8ce49f7148f1c0dcfa4.jpg",
       "hidden": true,
       "group": "Update 1",
-      "percent": "1.8"
+      "percent": "1.9"
     },
     "a11": {
       "name": "Crystal Can Shield",
@@ -145,7 +145,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/242680/7fdf3cff1ce149ab9dd53eb58951e575018e2d10.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "5.4"
+      "percent": "5.5"
     },
     "a1": {
       "name": "Eyes Unlocked",
@@ -433,7 +433,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/242680/ceb3aece97cfa3ff5129247fe60916044db8daa9.jpg",
       "hidden": true,
       "group": "Update 1",
-      "percent": "1.0"
+      "percent": "1.1"
     },
     "a41": {
       "name": "The Struggle Continues",
