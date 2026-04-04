@@ -19,7 +19,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2273430/8d8e78c0192d57f6622e839af1bfe1b52aa7d497.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "31.9"
+      "percent": "32.0"
     },
     "4004": {
       "name": "Anti Piracy",
@@ -217,7 +217,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2273430/25fa0054f0c791e0cdfae02b3e2096312d55e27f.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "23.1"
+      "percent": "23.2"
     },
     "1010": {
       "name": "Over But Not Over",
@@ -262,7 +262,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2273430/5269eb6bfce99c8f95af579fe1c9ba916dae85ea.jpg",
       "hidden": false,
       "group": "Update 1",
-      "percent": "14.1"
+      "percent": "14.2"
     },
     "1009": {
       "name": "Showdown Warm-up",
