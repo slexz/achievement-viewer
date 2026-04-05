@@ -64,7 +64,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1684930/cbc095932729a2f4585558ae24c3988b9f334dcc.jpg",
       "hidden": false,
       "group": "CULTIC: Chapter Two",
-      "percent": "8.4"
+      "percent": "8.5"
     },
     "ACH_GHOST": {
       "name": "Great Minds Think Alike",
@@ -136,7 +136,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1684930/1ff4e1dea556453c7267d850ec364b1a2768ccaf.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "6.3"
+      "percent": "6.4"
     },
     "ACH_MADMINUTE": {
       "name": "Mad Minute",
@@ -199,7 +199,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1684930/326512bab1438344215dc13d5780c5b6a648fa83.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "32.1"
+      "percent": "32.2"
     },
     "ACH_PROPSNIPE": {
       "name": "Prop Sniping",
@@ -262,7 +262,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1684930/8fb96f803c7be3dc4c08f48e6bc608aa8379eb45.jpg",
       "hidden": false,
       "group": "CULTIC: Chapter Two",
-      "percent": "13.1"
+      "percent": "13.2"
     },
     "ACH_HEADSHOT_PEN": {
       "name": "Stack 'em Up",
