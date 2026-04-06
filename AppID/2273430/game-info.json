@@ -19,7 +19,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2273430/8d8e78c0192d57f6622e839af1bfe1b52aa7d497.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "32.0"
+      "percent": "31.9"
     },
     "4004": {
       "name": "Anti Piracy",
@@ -55,7 +55,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2273430/1d9436ae0297801bf1e734dc14fa97da773000b8.jpg",
       "hidden": false,
       "group": "Update 1",
-      "percent": "19.6"
+      "percent": "19.7"
     },
     "3006": {
       "name": "Can't Hurt Me If You Can't Hit Me",
@@ -181,7 +181,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2273430/1861a9f6a561ba12b6267c5aa065a43b06dca297.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "55.5"
+      "percent": "55.4"
     },
     "1013": {
       "name": "Mind Challenge Ⅲ",
@@ -370,7 +370,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2273430/a2aa06f99b4f7885db61f17e3a5f9955db80bcf6.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "67.2"
+      "percent": "67.3"
     },
     "1004": {
       "name": "Unknown Data",
@@ -388,7 +388,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2273430/4b5dacab0e09bbef169adedd4e5427cf79abe37e.jpg",
       "hidden": false,
       "group": "Update 1",
-      "percent": "16.3"
+      "percent": "16.4"
     }
   },
   "platform": null,

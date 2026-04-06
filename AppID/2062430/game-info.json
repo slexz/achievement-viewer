@@ -19,7 +19,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2062430/0a168e407e3a83d90a66f381fb6f97b772e3596d.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "37.4"
+      "percent": "37.5"
     },
     "complete_game": {
       "name": "Ballbylon Has Risen",
@@ -46,7 +46,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2062430/2a80272aa95c5087fca8455fa024d096fc4947d0.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "35.1"
+      "percent": "35.2"
     },
     "100_stone_harvest": {
       "name": "Boulder Breaker",
@@ -73,7 +73,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2062430/a6b05879ae04f0f6200eaf1b3a62137775c6c288.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "12.7"
+      "percent": "12.8"
     },
     "construct_carpenter": {
       "name": "Carpenter",
@@ -82,7 +82,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2062430/9f344eef588e6fb5f17db66251c960d49a76219f.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "36.2"
+      "percent": "36.3"
     },
     "collect_all_blueprints": {
       "name": "City Planner",
@@ -208,7 +208,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2062430/b15e4fa9afad9580fbae3f549e5de435a3510d27.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "12.2"
+      "percent": "12.3"
     },
     "complete_savanna": {
       "name": "GORYxGRASSLANDS",
@@ -217,7 +217,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2062430/bbc6938b774864d74ae002a666d00de9e8c181d7.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "49.3"
+      "percent": "49.4"
     },
     "complete_savanna10": {
       "name": "GORYxGRASSLANDS Conquered",
@@ -316,7 +316,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2062430/f0239c4abcda248a18fffe1e84a614d4a8dca458.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "12.9"
+      "percent": "13.0"
     },
     "flagellant_all_levels": {
       "name": "Masochist",
@@ -343,7 +343,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2062430/6d872218dd7235072bf184739c960888a4332f78.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "34.3"
+      "percent": "34.4"
     },
     "place_15_houses": {
       "name": "Neighborhood",
@@ -352,7 +352,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2062430/8d5fa782cc20e7d7629cb48a03f75af756e31afa.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "40.7"
+      "percent": "40.8"
     },
     "create_nosferatu": {
       "name": "Nosferatu",
@@ -487,7 +487,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2062430/a7189d5b64bb4bf7657f71c4c509e5d1ac7d4d99.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "47.5"
+      "percent": "47.6"
     },
     "stat_building_full_upgrade": {
       "name": "Structural Power",
@@ -541,7 +541,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2062430/7064637750c7162269b6500e0c07b036259059c8.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "14.3"
+      "percent": "14.4"
     },
     "1000_wheat": {
       "name": "Wheat Farmer",
@@ -550,7 +550,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2062430/8534a77e8fcf139f20e41125f6686c278d45af2d.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "57.2"
+      "percent": "57.3"
     },
     "1000_wood": {
       "name": "Woodcutter",

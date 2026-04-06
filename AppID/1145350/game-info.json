@@ -109,7 +109,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1145350/5fb1266ca5567441d8c9aa08fb238a37d725138e.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "11.1"
+      "percent": "11.2"
     },
     "AchTrueEnding": {
       "name": "Death to Chronos",
@@ -163,7 +163,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1145350/bbd8abd3c6020a944c7a39119a8431b385375567.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "34.7"
+      "percent": "34.8"
     },
     "AchEarnPrestige1": {
       "name": "Giving Back",
@@ -181,7 +181,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1145350/d0d5ecd013b17e976a486bc24071ef125167afd4.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "3.5"
+      "percent": "3.6"
     },
     "AchEpilogue": {
       "name": "Golden Age",
@@ -208,7 +208,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1145350/7b158e9bdb0e99859046ee870e4a778102f79657.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "15.5"
+      "percent": "15.6"
     },
     "AchAllRandomStreak": {
       "name": "Improbable Outcomes",
@@ -253,7 +253,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1145350/6b27bc4fb06847383fda97586b3149894a1789c7.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "28.4"
+      "percent": "28.5"
     },
     "AchAllKeepsakes": {
       "name": "Sentimental Value",
@@ -307,7 +307,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1145350/0135f7b6cdb456c7432ad3834282476a97447b7a.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "14.6"
+      "percent": "14.7"
     },
     "AchBeatTyphonWithWeapons": {
       "name": "Sword of the Night",
@@ -370,7 +370,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1145350/e49f2f8289bbe30db779d69fd4e5a92b18ffc43c.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "9.2"
+      "percent": "9.3"
     },
     "AchHelpNarcissusAndEcho": {
       "name": "Voice and Vanity",
@@ -415,7 +415,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1145350/b194ffd7a653eb9cb75c05f31725dda8c8c053e6.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "40.2"
+      "percent": "40.3"
     },
     "AchClearEphyra": {
       "name": "Witch of the Outskirts",
@@ -451,7 +451,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1145350/40ee8c3795ae62300c90157abd8da5f3d02e3d5d.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "63.5"
+      "percent": "63.6"
     }
   },
   "platform": null,
