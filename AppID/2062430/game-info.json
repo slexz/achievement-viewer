@@ -55,7 +55,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2062430/8c804e8d70aeed5d096b0fe02ae9112a8e547ac7.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "24.3"
+      "percent": "24.4"
     },
     "100_wheat_harvest": {
       "name": "Bountiful Harvest",
@@ -136,7 +136,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2062430/e78f2724d8dc60be3dd3c3bde26a721fa5611fca.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "12.4"
+      "percent": "12.5"
     },
     "first_evo": {
       "name": "Evolution",
@@ -289,7 +289,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2062430/50b6adbae68837fb4461c75c1daae7a37d24ef4a.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "21.3"
+      "percent": "21.4"
     },
     "complete_desert": {
       "name": "LIMINALxDESERT",
@@ -307,7 +307,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2062430/691d46197eb0f3deac966bc34e66cabaf2793c09.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "23.9"
+      "percent": "24.0"
     },
     "shade_all_levels": {
       "name": "Long Shadow",
@@ -379,7 +379,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2062430/6c83c9abdd3924a6a747702ab22cbf9c89ac632c.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "15.9"
+      "percent": "16.0"
     },
     "construct_reliccollector": {
       "name": "Relic Collector",
@@ -532,7 +532,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2062430/7064637750c7162269b6500e0c07b036259059c8.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "36.1"
+      "percent": "36.2"
     },
     "complete_void10": {
       "name": "VASTxVOID Conquered",

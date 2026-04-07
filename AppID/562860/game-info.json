@@ -334,7 +334,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/562860/129f3b001dd9aaa9d65601c8613b051ea3ee753c.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "20.2"
+      "percent": "20.3"
     },
     "ACH_ASHOCK_MEGA_SECRET_4": {
       "name": "Mmm... donuts",
@@ -388,7 +388,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/562860/470e073cdd5e2db52f5a228b4db57e17eda6735e.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "48.4"
+      "percent": "48.5"
     },
     "ACH_DUNK_ALL_POOL_BALLS": {
       "name": "Rack 'Em Up",
@@ -559,7 +559,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/562860/5be4e3001eee1accb70697b0faf0cf30d8f79c38.jpg",
       "hidden": true,
       "group": "Update 1",
-      "percent": "6.6"
+      "percent": "6.7"
     }
   },
   "platform": null,
