@@ -91,7 +91,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2062430/2e4ea1384e97dfed863afd15b2b962c45e1b7c9a.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "45.3"
+      "percent": "45.4"
     },
     "cogitator_all_levels": {
       "name": "Cogitated",
@@ -172,7 +172,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2062430/8753a2616043b051cf4810fddcb87aaa6fcc1dc0.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "23.2"
+      "percent": "23.3"
     },
     "first_fusion": {
       "name": "Fusion",
@@ -226,7 +226,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2062430/bbc6938b774864d74ae002a666d00de9e8c181d7.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "18.7"
+      "percent": "18.8"
     },
     "physicist_all_levels": {
       "name": "Gravity's Rainbow",
@@ -415,7 +415,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2062430/dd739e7821670a942d26dcae15453b2215701824.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "41.5"
+      "percent": "41.6"
     },
     "create_satan": {
       "name": "Satan",

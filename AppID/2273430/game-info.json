@@ -37,7 +37,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2273430/25d357428b532d267c8cf9776166963a8cd081e7.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "56.8"
+      "percent": "56.9"
     },
     "4005": {
       "name": "Better Than Master",
@@ -154,7 +154,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2273430/bc52adc1b48686d7013658f1c74cfb6c0e0381f9.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "21.5"
+      "percent": "21.6"
     },
     "1002": {
       "name": "Masterful",
@@ -325,7 +325,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2273430/f0bee1ceacf20794e5c1f34f193de58e2eaeb3d0.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "2.7"
+      "percent": "2.8"
     },
     "2012": {
       "name": "Tactic Collector: Fire",
