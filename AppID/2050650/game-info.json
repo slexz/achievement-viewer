@@ -19,7 +19,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2050650/5c5402af5b4b9508027a23cc183443b64ea95b87.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "49.9"
+      "percent": "49.8"
     },
     "46": {
       "name": "Ada the \"S+\"py",
@@ -73,7 +73,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2050650/a0292d736479181d419e6e37faa538e19aa8950c.jpg",
       "hidden": false,
       "group": "Resident Evil 4 - Separate Ways",
-      "percent": "24.3"
+      "percent": "24.2"
     },
     "19": {
       "name": "Capacity Compliance",
@@ -181,7 +181,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2050650/7bc4b461f271ea76abdd9202df173d95cf14d2c1.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "9.3"
+      "percent": "9.2"
     },
     "2": {
       "name": "My Preferred Piece",
@@ -235,7 +235,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2050650/2ca60e702c129dc72a78df8a85607946575ce097.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "14.8"
+      "percent": "14.7"
     },
     "30": {
       "name": "Proficient Agent",
@@ -262,7 +262,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2050650/b8b04451a2f425dc124295648cd5ab129ce5e734.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "18.3"
+      "percent": "18.2"
     },
     "38": {
       "name": "Real Deadeye",
@@ -397,7 +397,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2050650/4f7fa87c538c5295236a33b911928af0aa541b60.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "12.0"
+      "percent": "11.9"
     },
     "11": {
       "name": "You Used to Be a Good Guy",
@@ -415,7 +415,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2050650/76f67106f522273ff371462cb5da97747b003137.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "60.9"
+      "percent": "60.8"
     }
   },
   "platform": null,

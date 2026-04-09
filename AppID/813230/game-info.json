@@ -37,7 +37,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/813230/50527e78efbb47e043479a9e960eeb2a4d55ba0a.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "44.6"
+      "percent": "44.7"
     },
     "COLLECT_8_EGGS": {
       "name": "EGG ENJOYER",
@@ -82,7 +82,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/813230/50527e78efbb47e043479a9e960eeb2a4d55ba0a.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "15.4"
+      "percent": "15.5"
     },
     "COLLECT_MAP": {
       "name": "EXPLORER",
@@ -91,7 +91,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/813230/50527e78efbb47e043479a9e960eeb2a4d55ba0a.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "92.2"
+      "percent": "92.1"
     },
     "DEFEAT_GHOST_DOG": {
       "name": "GHOST",
