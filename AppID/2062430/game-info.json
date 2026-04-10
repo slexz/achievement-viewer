@@ -28,7 +28,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2062430/6d017de5f933562427d2f4216685cf389e9ad7d7.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "25.1"
+      "percent": "25.2"
     },
     "complete_graveyards": {
       "name": "BONExYARD",
@@ -118,7 +118,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2062430/0e5957c449328a3bf6c39079ad76b174ef3d48dd.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "25.7"
+      "percent": "25.8"
     },
     "embedded_all_levels": {
       "name": "Embedder",
@@ -145,7 +145,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2062430/6ab585118b18bbe32cbd47c2ff5814234885bee1.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "95.9"
+      "percent": "96.0"
     },
     "construct_evochamber": {
       "name": "Evolution Chamber",
@@ -154,7 +154,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2062430/7ca60448907113b7f8b5f903b36938bd32ece2b0.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "31.2"
+      "percent": "31.3"
     },
     "complete_shroom": {
       "name": "FUNGALxFOREST",
@@ -244,7 +244,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2062430/841516b2dffa48863515278954d79ae3d6811a93.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "40.8"
+      "percent": "40.9"
     },
     "complete_heaven10": {
       "name": "HEAVENLYxGATES Conquered",
@@ -298,7 +298,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2062430/691d46197eb0f3deac966bc34e66cabaf2793c09.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "65.6"
+      "percent": "65.7"
     },
     "complete_desert10": {
       "name": "LIMINALxDESERT Conquered",
@@ -469,7 +469,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2062430/fdc28eba8bf9696a4d4fc08f7d04770985ea949c.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "27.5"
+      "percent": "27.6"
     },
     "create_soulreaver": {
       "name": "Soul Reaver",
@@ -496,7 +496,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2062430/ccc0f9422ef9a893fe7f18d6d792332bcb1668a8.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "53.8"
+      "percent": "53.9"
     },
     "construct_trophy": {
       "name": "Trophy",
@@ -505,7 +505,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2062430/c183c42fd3ceae7e85368a9ced82da4afbcdff04.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "76.1"
+      "percent": "76.2"
     },
     "warrior_all_levels": {
       "name": "True Warrior",
