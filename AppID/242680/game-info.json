@@ -46,7 +46,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/242680/fbf410ab36808c01c125e2206d15083e6ec8ca04.jpg",
       "hidden": true,
       "group": "Update 1",
-      "percent": "1.5"
+      "percent": "1.6"
     },
     "a31": {
       "name": "Bandit Stopper",
@@ -172,7 +172,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/242680/5387b20af32b546daf7eaaba09a32f8cda2ea6d3.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "5.4"
+      "percent": "5.5"
     },
     "a57": {
       "name": "Forgiveness",
@@ -271,7 +271,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/242680/c72ff61d71d00bee830a2dc5fb3f749c19e485f2.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "2.1"
+      "percent": "2.2"
     },
     "a50": {
       "name": "KILL KILL KILL",

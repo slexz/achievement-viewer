@@ -28,7 +28,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2273430/cded9128d05ec9e7c7f1351bd07ccbff624ae641.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "13.4"
+      "percent": "13.3"
     },
     "4007": {
       "name": "Better Luck Next Time",
@@ -388,7 +388,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2273430/4b5dacab0e09bbef169adedd4e5427cf79abe37e.jpg",
       "hidden": false,
       "group": "Update 1",
-      "percent": "16.4"
+      "percent": "16.5"
     }
   },
   "platform": null,
