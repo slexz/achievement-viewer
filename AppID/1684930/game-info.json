@@ -55,7 +55,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1684930/27e52d0c451e6d36f2f34afe66c6c37b8d6399ef.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "18.8"
+      "percent": "18.7"
     },
     "ACH_TRAIN": {
       "name": "Get Off My Train!",
@@ -208,7 +208,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1684930/14739627f6da7c29985688e87009b8c28e9d3aa0.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "6.9"
+      "percent": "6.8"
     },
     "ACH_TEDDY": {
       "name": "Rescue Mission",
@@ -244,7 +244,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1684930/45c41c0062f017e65e96a3b4e88338f50a01e006.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "5.1"
+      "percent": "5.0"
     },
     "ACH_SECRETS_2": {
       "name": "Secret Hunter II",
@@ -253,7 +253,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1684930/9bf4ccf088e8900b15b6e3ce8d357b7415eabc40.jpg",
       "hidden": true,
       "group": "CULTIC: Chapter Two",
-      "percent": "1.5"
+      "percent": "1.4"
     },
     "ACH_SNUFFEDOUT": {
       "name": "Snuffed Out",
@@ -262,7 +262,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1684930/8fb96f803c7be3dc4c08f48e6bc608aa8379eb45.jpg",
       "hidden": false,
       "group": "CULTIC: Chapter Two",
-      "percent": "13.3"
+      "percent": "13.2"
     },
     "ACH_HEADSHOT_PEN": {
       "name": "Stack 'em Up",
@@ -280,7 +280,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1684930/23c068b5f53d11e7aa1808f44a86e52b0fd0a3eb.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "27.3"
+      "percent": "27.2"
     },
     "ACH_THRONE": {
       "name": "There's no time for resting.",

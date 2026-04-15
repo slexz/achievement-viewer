@@ -46,7 +46,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/242680/fbf410ab36808c01c125e2206d15083e6ec8ca04.jpg",
       "hidden": true,
       "group": "Update 1",
-      "percent": "1.6"
+      "percent": "1.5"
     },
     "a31": {
       "name": "Bandit Stopper",
@@ -172,7 +172,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/242680/5387b20af32b546daf7eaaba09a32f8cda2ea6d3.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "5.5"
+      "percent": "5.4"
     },
     "a57": {
       "name": "Forgiveness",
@@ -190,7 +190,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/242680/7d14fb1bab32a39cecbca0f94b32006f53f80bb6.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "9.0"
+      "percent": "8.9"
     },
     "a28": {
       "name": "Frog Zone",
@@ -271,7 +271,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/242680/c72ff61d71d00bee830a2dc5fb3f749c19e485f2.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "2.2"
+      "percent": "2.1"
     },
     "a50": {
       "name": "KILL KILL KILL",
@@ -325,7 +325,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/242680/d7222966940cca54eadbbc5c638aac71570ea928.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "7.9"
+      "percent": "7.8"
     },
     "a2": {
       "name": "Plant Unlocked",
