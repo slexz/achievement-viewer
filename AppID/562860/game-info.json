@@ -19,7 +19,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/562860/38f5b3268e6873fd2d617646781cabeba2a4480e.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "15.5"
+      "percent": "15.6"
     },
     "ACH_DLC_ALL_ACHIEVEMENTS": {
       "name": "Aftershock",
@@ -172,7 +172,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/562860/8c4096160fc3286580571ea1879631317a7ecb0e.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "42.8"
+      "percent": "42.9"
     },
     "ACH_GET_3_STRIKES": {
       "name": "Demolition Turkey",

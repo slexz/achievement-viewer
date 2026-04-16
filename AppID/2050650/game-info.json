@@ -46,7 +46,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2050650/2c5115fc973d648ae6f76ea056b13f9fefa0465e.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "36.4"
+      "percent": "36.3"
     },
     "22": {
       "name": "Bandit",
@@ -55,7 +55,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2050650/897e475dc990d9de85e63c332a343c2ac0550811.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "14.3"
+      "percent": "14.2"
     },
     "23": {
       "name": "Burglar",
@@ -271,7 +271,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2050650/99d7baf084127c97033686f4f12af342b870b1ef.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "11.5"
+      "percent": "11.4"
     },
     "6": {
       "name": "Revolt Against the Revolting",
@@ -280,7 +280,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2050650/33e542b6f5f7d8d339f6c01f9d1451fcb401e85b.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "69.6"
+      "percent": "69.5"
     },
     "27": {
       "name": "Revolution Wind-up",
@@ -307,7 +307,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2050650/b79ae7178e4dfd0c9405c574f8f3994f074cdd7d.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "46.7"
+      "percent": "46.6"
     },
     "36": {
       "name": "Silent Stranger",
@@ -334,7 +334,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2050650/0546a46672347404fc456c729753bda9afafc860.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "19.9"
+      "percent": "19.8"
     },
     "33": {
       "name": "Sprinter",
@@ -352,7 +352,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2050650/97d0cdafa9a1eaf686ae2b0ce3572b22d4038e2a.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "73.3"
+      "percent": "73.4"
     },
     "45": {
       "name": "The Perfect Mission",
@@ -370,7 +370,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2050650/70bc91916cb338746c9ae4e65431bec2e43a3f8c.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "19.3"
+      "percent": "19.2"
     },
     "15": {
       "name": "Two Bugs, One Stone",
@@ -388,7 +388,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2050650/1a195eb790393fd6a54bd9f2d1d01e8c31dc6b64.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "39.3"
+      "percent": "39.2"
     },
     "16": {
       "name": "You Talk Too Much!",
