@@ -19,7 +19,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1684930/dae9d96879e0f3d5ac28ca7fc996f6f2a664c3a6.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "9.6"
+      "percent": "9.7"
     },
     "ACH_BETRAYAL": {
       "name": "Betrayal",
@@ -64,7 +64,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1684930/cbc095932729a2f4585558ae24c3988b9f334dcc.jpg",
       "hidden": false,
       "group": "CULTIC: Chapter Two",
-      "percent": "8.5"
+      "percent": "8.6"
     },
     "ACH_GHOST": {
       "name": "Great Minds Think Alike",
@@ -127,7 +127,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1684930/9a5820f76e3b94e8a661173f6e5e5308f017673d.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "4.1"
+      "percent": "4.2"
     },
     "ACH_PLUMBING": {
       "name": "Ma'am I do my own plumbing",
@@ -145,7 +145,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1684930/f99b8daa9415c706d78d4e7823e418d58fec29c5.jpg",
       "hidden": false,
       "group": "CULTIC: Chapter Two",
-      "percent": "6.7"
+      "percent": "6.8"
     },
     "ACH_HEADSHOTS": {
       "name": "Melon Popper",
