@@ -10,7 +10,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2062430/112d1a7c727af72589fc9210d871c46c2e287195.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "12.3"
+      "percent": "12.2"
     },
     "construct_bagmaker": {
       "name": "Bag Maker",
@@ -46,7 +46,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2062430/2a80272aa95c5087fca8455fa024d096fc4947d0.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "35.3"
+      "percent": "35.2"
     },
     "100_stone_harvest": {
       "name": "Boulder Breaker",
@@ -55,7 +55,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2062430/8c804e8d70aeed5d096b0fe02ae9112a8e547ac7.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "24.5"
+      "percent": "24.4"
     },
     "100_wheat_harvest": {
       "name": "Bountiful Harvest",
@@ -82,7 +82,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2062430/9f344eef588e6fb5f17db66251c960d49a76219f.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "36.4"
+      "percent": "36.3"
     },
     "collect_all_blueprints": {
       "name": "City Planner",
@@ -91,7 +91,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2062430/2e4ea1384e97dfed863afd15b2b962c45e1b7c9a.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "45.5"
+      "percent": "45.4"
     },
     "cogitator_all_levels": {
       "name": "Cogitated",
@@ -145,7 +145,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2062430/6ab585118b18bbe32cbd47c2ff5814234885bee1.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "96.0"
+      "percent": "95.9"
     },
     "construct_evochamber": {
       "name": "Evolution Chamber",
@@ -253,7 +253,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2062430/841516b2dffa48863515278954d79ae3d6811a93.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "14.9"
+      "percent": "14.8"
     },
     "sisyphus_all_levels": {
       "name": "Herculean",
@@ -289,7 +289,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2062430/50b6adbae68837fb4461c75c1daae7a37d24ef4a.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "21.5"
+      "percent": "21.4"
     },
     "complete_desert": {
       "name": "LIMINALxDESERT",
@@ -397,7 +397,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2062430/d07258735fe1f6ab89aef5f44c07e7b54d824665.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "16.7"
+      "percent": "16.6"
     },
     "5000_gold": {
       "name": "Riches",
@@ -478,7 +478,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2062430/1555eb39fcfcef586729157daf0c8d1ba808e817.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "19.2"
+      "percent": "19.1"
     },
     "1000_stone": {
       "name": "Stone Miner",
@@ -505,7 +505,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2062430/c183c42fd3ceae7e85368a9ced82da4afbcdff04.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "76.2"
+      "percent": "76.1"
     },
     "warrior_all_levels": {
       "name": "True Warrior",
@@ -514,7 +514,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2062430/326245ffd6c6f5bc9e7c7eac7f1069a99c3d2f36.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "16.4"
+      "percent": "16.3"
     },
     "cohabitants_all_levels": {
       "name": "Unpacked",
@@ -523,7 +523,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2062430/30204b17c6a6bd3f5597f7a25a428616c1886da3.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "18.1"
+      "percent": "18.0"
     },
     "complete_void": {
       "name": "VASTxVOID",
@@ -532,7 +532,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2062430/7064637750c7162269b6500e0c07b036259059c8.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "36.3"
+      "percent": "36.2"
     },
     "complete_void10": {
       "name": "VASTxVOID Conquered",
