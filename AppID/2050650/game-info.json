@@ -37,7 +37,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2050650/5a0a1ec86e62871236642695245323aadaee84e1.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "72.3"
+      "percent": "72.4"
     },
     "21": {
       "name": "Astute Appraiser",
@@ -64,7 +64,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2050650/74dc5c4a1a30b3e7ab61b7474aed493f6a9f6ae2.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "10.6"
+      "percent": "10.7"
     },
     "43": {
       "name": "Capable Operative",
@@ -109,7 +109,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2050650/621ce042b455448574962e36ccc00fbe01d564b1.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "72.3"
+      "percent": "72.4"
     },
     "25": {
       "name": "Gun Fanatic",
@@ -280,7 +280,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2050650/33e542b6f5f7d8d339f6c01f9d1451fcb401e85b.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "69.5"
+      "percent": "69.6"
     },
     "27": {
       "name": "Revolution Wind-up",
@@ -325,7 +325,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2050650/8332b6875a135a2a17e85e14c959d1f29f5064f6.jpg",
       "hidden": false,
       "group": "Resident Evil 4 - Separate Ways",
-      "percent": "12.0"
+      "percent": "12.1"
     },
     "20": {
       "name": "Smooth Escape",
@@ -379,7 +379,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2050650/151ad0786db8f25e1c684801dcf0e6935c620303.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "37.8"
+      "percent": "37.9"
     },
     "9": {
       "name": "Wave Goodbye, Right Hand",
