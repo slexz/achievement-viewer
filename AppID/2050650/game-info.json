@@ -73,7 +73,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2050650/a0292d736479181d419e6e37faa538e19aa8950c.jpg",
       "hidden": false,
       "group": "Resident Evil 4 - Separate Ways",
-      "percent": "24.2"
+      "percent": "24.3"
     },
     "19": {
       "name": "Capacity Compliance",
@@ -100,7 +100,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2050650/4dfca94f2e53fe4d16af133db09f83ab70ecc97d.jpg",
       "hidden": true,
       "group": "Resident Evil 4 - Separate Ways",
-      "percent": "29.2"
+      "percent": "29.3"
     },
     "8": {
       "name": "Grilled Big Cheese",
@@ -127,7 +127,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2050650/740c25298a5f72cd0a9802b2207d6abe6e5ef898.jpg",
       "hidden": true,
       "group": "Resident Evil 4 - Separate Ways",
-      "percent": "26.9"
+      "percent": "27.0"
     },
     "7": {
       "name": "Harpoon Hurler",
@@ -136,7 +136,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2050650/ed11710da2164e8cc36fef07cc9ee1f5d76485c6.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "77.9"
+      "percent": "78.0"
     },
     "18": {
       "name": "Hope You Like Thrill Rides!",
@@ -190,7 +190,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2050650/4df28bc86b11dcde5da964ac22837013ae32f577.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "82.5"
+      "percent": "82.6"
     },
     "14": {
       "name": "Never Heard It Coming",
@@ -217,7 +217,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2050650/4f0337b70addaa497932893dfece919d44973399.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "64.4"
+      "percent": "64.5"
     },
     "17": {
       "name": "Overkill",
@@ -226,7 +226,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2050650/8e0ccd739b03fdd5fdc6ffe718b1ffb8d37a7b83.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "63.2"
+      "percent": "63.3"
     },
     "32": {
       "name": "Peerless Agent",
@@ -253,7 +253,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2050650/65dafcb1012422f4a789a4f7b971085a73e1831f.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "53.0"
+      "percent": "53.1"
     },
     "24": {
       "name": "Raider",
@@ -352,7 +352,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2050650/97d0cdafa9a1eaf686ae2b0ce3572b22d4038e2a.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "73.4"
+      "percent": "73.5"
     },
     "45": {
       "name": "The Perfect Mission",
@@ -388,7 +388,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2050650/1a195eb790393fd6a54bd9f2d1d01e8c31dc6b64.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "39.2"
+      "percent": "39.3"
     },
     "16": {
       "name": "You Talk Too Much!",
@@ -406,7 +406,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2050650/34361b84692bd9579ea603e6c1315a1975f3535e.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "61.8"
+      "percent": "61.9"
     },
     "12": {
       "name": "You're Small Time!",
@@ -415,7 +415,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2050650/76f67106f522273ff371462cb5da97747b003137.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "60.9"
+      "percent": "61.0"
     }
   },
   "platform": null,

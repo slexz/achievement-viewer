@@ -109,7 +109,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2273430/3645997accbeb3e6d99d3070cb6a67370e6bda33.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "21.3"
+      "percent": "21.2"
     },
     "2003": {
       "name": "Finally, Some Action",
@@ -118,7 +118,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2273430/db6e468564c174e598cae729070488229ec81a20.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "34.2"
+      "percent": "34.3"
     },
     "1007": {
       "name": "Genetic Code",
@@ -208,7 +208,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2273430/a4ac5911a839d3a8bba94920f1dc79ed68042125.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "82.8"
+      "percent": "82.9"
     },
     "2011": {
       "name": "Obsidian VIP",
@@ -289,7 +289,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2273430/1d576705e1bbf782cc781b202456c081e28cae2a.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "59.6"
+      "percent": "59.7"
     },
     "2018": {
       "name": "Tactic Collector: Blade",
@@ -388,7 +388,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2273430/4b5dacab0e09bbef169adedd4e5427cf79abe37e.jpg",
       "hidden": false,
       "group": "Update 1",
-      "percent": "16.5"
+      "percent": "16.6"
     }
   },
   "platform": null,
