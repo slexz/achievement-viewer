@@ -244,7 +244,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/562860/65dff28852e9d20b0cacd07e3c59a62b64e87608.jpg",
       "hidden": true,
       "group": "Update 1",
-      "percent": "5.4"
+      "percent": "5.3"
     },
     "ACH_ASHOCK_SKILL_4": {
       "name": "Furiosa",
@@ -271,7 +271,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/562860/b2cde3f414d9df4cc378ac41a1ee532630c7e83e.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "10.3"
+      "percent": "10.2"
     },
     "ACH_ASHOCK_PROGRESS_8": {
       "name": "He Can't Keep Getting Away With It!",
@@ -325,7 +325,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/562860/965746e768579ead605ced2ff157db4f498a16fa.jpg",
       "hidden": false,
       "group": "Update 1",
-      "percent": "1.1"
+      "percent": "1.0"
     },
     "ACH_PROGRESS_6": {
       "name": "Mech Warrior",
@@ -361,7 +361,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/562860/fd82a772336455a80a1f991c306804e94487cb55.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "8.4"
+      "percent": "8.3"
     },
     "ACH_ASHOCK_MEGA_SECRET_1": {
       "name": "Property Damage",
@@ -397,7 +397,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/562860/09503b801f2cb91a3c9e4d671bc1054030d04ab1.jpg",
       "hidden": false,
       "group": "Update 1",
-      "percent": "2.7"
+      "percent": "2.6"
     },
     "ACH_ARRANGE_SKILL_5": {
       "name": "Reflections of Death",
