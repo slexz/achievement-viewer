@@ -40,8 +40,8 @@
     "earned_time": 1775465322
   },
   "19": {
-    "earned": false,
-    "earned_time": 0
+    "earned": true,
+    "earned_time": 1776368080
   },
   "2": {
     "earned": true,
@@ -92,20 +92,20 @@
     "earned_time": 1775496876
   },
   "30": {
-    "earned": false,
-    "earned_time": 0
+    "earned": true,
+    "earned_time": 1776387517
   },
   "31": {
     "earned": false,
     "earned_time": 0
   },
   "32": {
-    "earned": false,
-    "earned_time": 0
+    "earned": true,
+    "earned_time": 1776387517
   },
   "33": {
-    "earned": false,
-    "earned_time": 0
+    "earned": true,
+    "earned_time": 1776387517
   },
   "34": {
     "earned": false,
@@ -140,16 +140,16 @@
     "earned_time": 1775542311
   },
   "41": {
-    "earned": false,
-    "earned_time": 0
+    "earned": true,
+    "earned_time": 1775592399
   },
   "42": {
-    "earned": false,
-    "earned_time": 0
+    "earned": true,
+    "earned_time": 1775707074
   },
   "43": {
-    "earned": false,
-    "earned_time": 0
+    "earned": true,
+    "earned_time": 1775707901
   },
   "44": {
     "earned": false,
