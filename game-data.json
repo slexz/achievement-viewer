@@ -1,6 +1,6 @@
 {
-  "last_updated": 1777435356,
-  "total_games": 15,
+  "last_updated": 1777521875,
+  "total_games": 16,
   "games": [
     {
       "appid": "1145350",
@@ -5086,6 +5086,341 @@
           "earned_time": 0
         },
         "5004": {
+          "earned": false,
+          "earned_time": 0
+        }
+      }
+    },
+    {
+      "appid": "2358720",
+      "info": {
+        "appid": "2358720",
+        "name": "Game 2358720",
+        "icon": "",
+        "achievements": {}
+      },
+      "achievements": {
+        "81001": {
+          "earned": true,
+          "earned_time": 1777269809
+        },
+        "81002": {
+          "earned": true,
+          "earned_time": 1777284271
+        },
+        "81003": {
+          "earned": true,
+          "earned_time": 1777285370
+        },
+        "81004": {
+          "earned": true,
+          "earned_time": 1777312789
+        },
+        "81005": {
+          "earned": true,
+          "earned_time": 1777316066
+        },
+        "81006": {
+          "earned": true,
+          "earned_time": 1777411786
+        },
+        "81007": {
+          "earned": true,
+          "earned_time": 1777412185
+        },
+        "81008": {
+          "earned": true,
+          "earned_time": 1777411983
+        },
+        "81009": {
+          "earned": true,
+          "earned_time": 1777412678
+        },
+        "81010": {
+          "earned": true,
+          "earned_time": 1777424346
+        },
+        "81011": {
+          "earned": true,
+          "earned_time": 1777426446
+        },
+        "81012": {
+          "earned": true,
+          "earned_time": 1777435934
+        },
+        "81013": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "81014": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "81015": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "81016": {
+          "earned": true,
+          "earned_time": 1777446810
+        },
+        "81017": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "81018": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "81019": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "81020": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "81021": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "81022": {
+          "earned": true,
+          "earned_time": 1777449852
+        },
+        "81023": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "81024": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "81025": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "81026": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "81027": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "81028": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "81029": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "81030": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "81031": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "81032": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "81033": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "81034": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "81035": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "81036": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "81037": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "81038": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "81039": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "81040": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "81041": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "81042": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "81043": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "81044": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "81045": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "81046": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "81047": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "81048": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "81049": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "81050": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "81051": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "81052": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "81053": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "81054": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "81055": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "81056": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "81057": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "81058": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "81059": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "81060": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "81061": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "81062": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "81063": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "81064": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "81065": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "81066": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "81067": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "81068": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "81069": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "81070": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "81071": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "81072": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "81073": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "81074": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "81075": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "81076": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "81077": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "81078": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "81079": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "81080": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "81081": {
           "earned": false,
           "earned_time": 0
         }
@@ -11917,8 +12252,8 @@
           "earned_time": 1775465322
         },
         "19": {
-          "earned": false,
-          "earned_time": 0
+          "earned": true,
+          "earned_time": 1776368080
         },
         "2": {
           "earned": true,
@@ -11969,20 +12304,20 @@
           "earned_time": 1775496876
         },
         "30": {
-          "earned": false,
-          "earned_time": 0
+          "earned": true,
+          "earned_time": 1776387517
         },
         "31": {
           "earned": false,
           "earned_time": 0
         },
         "32": {
-          "earned": false,
-          "earned_time": 0
+          "earned": true,
+          "earned_time": 1776387517
         },
         "33": {
-          "earned": false,
-          "earned_time": 0
+          "earned": true,
+          "earned_time": 1776387517
         },
         "34": {
           "earned": false,
@@ -12017,16 +12352,16 @@
           "earned_time": 1775542311
         },
         "41": {
-          "earned": false,
-          "earned_time": 0
+          "earned": true,
+          "earned_time": 1775592399
         },
         "42": {
-          "earned": false,
-          "earned_time": 0
+          "earned": true,
+          "earned_time": 1775707074
         },
         "43": {
-          "earned": false,
-          "earned_time": 0
+          "earned": true,
+          "earned_time": 1775707901
         },
         "44": {
           "earned": false,
